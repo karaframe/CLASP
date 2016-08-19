@@ -1,0 +1,5 @@
+"","date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id"
+"1",2016-08-15,2016-08-16,"scn2","Scunthorpe Town (Rowland Road)","no2",9.594375,79,12,1,24,"ugm-3","daily_mean",1005,"nlinc"
+"2",2016-08-16,2016-08-17,"scn2","Scunthorpe Town (Rowland Road)","no2",9.395156,79,12,1,24,"ugm-3","daily_mean",1005,"nlinc"
+"3",2016-08-17,2016-08-18,"scn2","Scunthorpe Town (Rowland Road)","no2",12.080625,79,12,1,24,"ugm-3","daily_mean",1005,"nlinc"
+"4",2016-08-18,2016-08-19,"scn2","Scunthorpe Town (Rowland Road)","no2",11.005568,79,12,1,24,"ugm-3","daily_mean",1005,"nlinc"
