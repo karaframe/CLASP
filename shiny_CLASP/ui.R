@@ -77,7 +77,7 @@ ui <- dashboardPage(skin = "blue",
             
                         fluidRow(
                           column (3,offset = 1,
-                                  actionButton("goButton", strong("Process xlsm file"), icon("cog", lib = "glyphicon"), 
+                                  actionButton("goButton", strong("Process data"), icon("cog", lib = "glyphicon"), 
                                                style="color: #000000; background-color: #ffff7f ; border-color: #ffff7f"), # width = 150
                                   tableOutput('contents')
                           )),

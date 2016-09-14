@@ -168,6 +168,7 @@ finalMap <- reactive({
   map <- leaflet(stats) %>%
     addTiles() %>%
     # setView(lng = -2, lat = 53.5, zoom = 6) %>%
+    addProviderTiles("OpenStreetMap.Mapnik", group = "Road map") %>%
     addProviderTiles("Thunderforest.Transport", group = "Thunderforest") %>%
     addProviderTiles("Hydda.Full", group = "Hydda_Full") %>%
     addProviderTiles("Hydda.Base", group = "Hydda_Base") %>%
@@ -182,7 +183,7 @@ finalMap <- reactive({
   
   addLayersControl(
     # baseGroups = background,
-    baseGroups = c("Hydda_Full", "Toner Lite","Thunderforest", "Hydda_Base", "Satellite"),
+    baseGroups = c("Road map", "Hydda_Full", "Toner Lite","Thunderforest", "Hydda_Base", "Satellite"),
     overlayGroups = c("variable"),
     options = layersControlOptions(collapsed = TRUE)
   )
