@@ -14,6 +14,7 @@ library(pbapply)
 library(plotly)
 # library(importr)
 library(lubridate)
+library(dygraphs)
 
 
 # devtools::install_github("rstudio/shinydashboard")
@@ -46,6 +47,7 @@ ui <- dashboardPage(skin = "blue",
                           )
                         ),
                         
+                        
                         selectInput(
                           "variable", "Pollutant",
                           c(
@@ -53,6 +55,7 @@ ui <- dashboardPage(skin = "blue",
                           )
                         ),
                         
+
                         
                         # selectInput(
                         #   "start", "Start Day",
@@ -70,16 +73,20 @@ ui <- dashboardPage(skin = "blue",
                         
                         
                         dateInput("start", "Start Day",
-                                  value = "2016-08-15", format = "yyyy-mm-dd"),
+                                  value = "2016-09-23", format = "yyyy-mm-dd"),
 
                         dateInput("end", "End Day",
-                                  value = "2016-08-15", format = "yyyy-mm-dd"),
-            
+                                  value = "2016-09-24", format = "yyyy-mm-dd"),
+                        
+
+                       selectInput("site", "Site:", c("All", "")),
+
+                       
                         fluidRow(
                           column (3,offset = 1,
                                   actionButton("goButton", strong("Process data"), icon("cog", lib = "glyphicon"), 
                                                style="color: #000000; background-color: #ffff7f ; border-color: #ffff7f"), # width = 150
-                                  tableOutput('contents')
+                                  DT::dataTableOutput('contents')
                           )),
                         
                         
@@ -112,7 +119,10 @@ ui <- dashboardPage(skin = "blue",
                                   tabBox(
                                     height = 750, width = 950, selected = tags$b("Monitoring stations"),
                                     tabPanel(
-                                      tags$b("Monitoring stations"), leafletOutput('myMap', height = 650, width = 750)
+                                      tags$b("Monitoring stations"), leafletOutput('myMap_all', height = 650, width = 750)
+                                    ),
+                                    tabPanel(
+                                      tags$b("Site Station"), leafletOutput('myMap', height = 650, width = 750)
                                     )
                                   )
                                 )),
@@ -123,22 +133,18 @@ ui <- dashboardPage(skin = "blue",
                         tabItem(tabName = "Stats",
                                 fluidRow(
                                   tabBox(
-                                    height = 750, width = 950, selected = tags$b("Daily Averages"),
+                                    height = 750, width = 950, selected = tags$b("Daily Averages (all)"),
                                     tabPanel(
-                                      tags$b("Daily Averages"), tableOutput('stats')
-                                    ),
-                                    # tabPanel(
-                                    #   tags$b("Summary_plot_1"),
-                                    #   box(title = " ", height = 550, width = 750,includeHTML("sectors_Buenos_Aires.html")
-                                    #   )
-                                    # ),
-                                    tabPanel(
-                                      tags$b("Time Series"), 
-                                      box(title = " ", height = 550, width = 650, plotlyOutput("sectors_plot"))
+                                      tags$b("Daily Averages (all)"), DT::dataTableOutput('stats_all')
                                     ),
                                     
                                     tabPanel(
-                                      tags$b("Summary II"), leafletOutput('myMap_2', height = 650, width = 750)
+                                      tags$b("Daily Averages"), DT::dataTableOutput('stats')
+                                    ),
+
+                                    tabPanel(
+                                      tags$b("Time Series"), 
+                                      box(title = " ", height = 550, width = 650, dygraphOutput("annual_dygraphs"))
                                     )
                                   )
                                 )),
