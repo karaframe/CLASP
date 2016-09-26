@@ -111,6 +111,10 @@ ui <- dashboardPage(skin = "blue",
                       tags$head(
                         tags$link(rel = "stylesheet", type = "text/css", href = "custom.css")
                       ),
+                      tags$style(type="text/css",
+                                 ".shiny-output-error { visibility: hidden; }",
+                                 ".shiny-output-error:before { visibility: hidden; }"
+                      ),
                       tabItems(
                         
                         # First tab content
@@ -119,7 +123,10 @@ ui <- dashboardPage(skin = "blue",
                                   tabBox(
                                     height = 750, width = 950, selected = tags$b("Monitoring stations"),
                                     tabPanel(
-                                      tags$b("Monitoring stations"), leafletOutput('myMap', height = 650, width = 750)
+                                      tags$b("Monitoring stations"), leafletOutput('myMap_all', height = 650, width = 750)
+                                    ),
+                                    tabPanel(
+                                      tags$b("Site Station"), leafletOutput('myMap', height = 650, width = 750)
                                     )
                                   )
                                 )),
@@ -130,23 +137,19 @@ ui <- dashboardPage(skin = "blue",
                         tabItem(tabName = "Stats",
                                 fluidRow(
                                   tabBox(
-                                    height = 750, width = 950, selected = tags$b("Daily Averages"),
+                                    height = 750, width = 950, selected = tags$b("Daily Averages (all)"),
                                     tabPanel(
-                                      tags$b("Daily Averages"), DT::dataTableOutput('stats')
+                                      tags$b("Daily Averages (all)"), DT::dataTableOutput('stats_all')
                                     ),
-                                    # tabPanel(
-                                    #   tags$b("Summary_plot_1"),
-                                    #   box(title = " ", height = 550, width = 750,includeHTML("sectors_Buenos_Aires.html")
-                                    #   )
-                                    # ),
+                                     tabPanel(
+                                      tags$b("Daily Averages"), DT::dataTableOutput('statss')
+                                    ),
+
                                     tabPanel(
                                       tags$b("Time Series"), 
                                       box(title = " ", height = 550, width = 650, dygraphOutput("annual_dygraphs"))
-                                    ),
-                                    
-                                    tabPanel(
-                                      tags$b("Summary II"), leafletOutput('myMap_2', height = 650, width = 750)
                                     )
+                                  
                                   )
                                 )),
                         

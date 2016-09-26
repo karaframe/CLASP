@@ -7,15 +7,15 @@ library(leaflet)
 library(RColorBrewer)
 library(sp)
 library(shinydashboard)
-# library(importr)
+library(importr)
 library(lubridate)
 library(dygraphs)
 library(threadr)
 library(tidyr)
  
-source("helpers.R")
-source("import_stats.R")
-source("import_measures.R")
+# source("helpers.R")
+# source("import_stats.R")
+# source("import_measures.R")
 
 # setwd("C:/ED62769_CLASP_STFC/shiny_CLASP")
 
@@ -133,7 +133,8 @@ output$contents <- DT::renderDataTable(DT::datatable({
     # remove empty rows
     stats <- stats[!is.na(stats$value),]
     
-    write.csv(stats, "all_stats.csv")     
+     
+  #  write.csv(stats, "all_stats.csv")     
     
 
     # Increment the progress bar, and update the detail text.
@@ -144,9 +145,11 @@ output$contents <- DT::renderDataTable(DT::datatable({
     
   })
   
-}))
+  table <- stats
+  
+
     
-table <- read.csv("all_stats.csv")
+# table <- read.csv("all_stats.csv")
 
 ## tables with sectors & subsectors  data---------------------------------------------
 
@@ -164,14 +167,19 @@ table <- read.csv("all_stats.csv")
 
  })
    
- output$stats <- DT::renderDataTable(DT::datatable({
+ output$statss <- DT::renderDataTable(DT::datatable({
  if(input$goButton == 0)  # when the button is not clicked
   return(NULL)
  table2 <- table[table$site_name == as.character(input$site),]   
  
-   
-  }))
+}))
  
+ 
+ output$stats_all <- DT::renderDataTable(DT::datatable({
+   if(input$goButton == 0)  # when the button is not clicked
+     return(NULL)
+   table
+ }))
  
 
 
@@ -218,6 +226,45 @@ finalMap <- reactive({
   
 })
   
+ 
+ finalMap_all <- reactive({
+   
+   if(input$goButton == 0)
+     return(NULL)
+   table <- stats 
+   stats_all <- table 
+   
+   popup_NO2_all <- paste0("<strong><i>",
+                           stats_all$site_name,
+                           "</i></strong><br>Daily mean NO<sub>2</sub>: <strong> ", round(stats_all$value, digits = 2), " </strong>(<font face=symbol>m</font>g/m<sup>3</sup>)")
+   
+   map_all <- leaflet(stats_all) %>%
+     addTiles() %>%
+     # setView(lng = -2, lat = 53.5, zoom = 6) %>%
+     addProviderTiles("OpenStreetMap.Mapnik", group = "Road map") %>%
+     addProviderTiles("Thunderforest.Transport", group = "Thunderforest") %>%
+     addProviderTiles("Hydda.Full", group = "Hydda_Full") %>%
+     addProviderTiles("Hydda.Base", group = "Hydda_Base") %>%
+     addProviderTiles("Esri.WorldImagery", group = "Satellite") %>%
+     addProviderTiles("Stamen.TonerLite", group = "Toner Lite") %>%
+     addCircleMarkers(
+       lng = ~ longitude, lat = ~ latitude,
+       popup = ~popup_NO2_all,
+       weight = 3, radius = 10,
+       group = "variable"
+     ) %>%
+     
+     addLayersControl(
+       # baseGroups = background,
+       baseGroups = c("Road map", "Hydda_Full", "Toner Lite","Thunderforest", "Hydda_Base", "Satellite"),
+       overlayGroups = c("variable"),
+       options = layersControlOptions(collapsed = TRUE)
+     )
+   
+   
+   map_all
+   
+ })
 
  ## create interactive plots with dygraph
  
@@ -292,6 +339,11 @@ finalMap <- reactive({
 # Return to client
 output$myMap = renderLeaflet(finalMap())
 
+# Return to client
+output$myMap_all = renderLeaflet(finalMap_all())
+
+
+}))   ### this has been closed from the opening at ***
 
 observeEvent(input$refresh, {
   js$refresh();
