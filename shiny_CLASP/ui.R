@@ -111,6 +111,10 @@ ui <- dashboardPage(skin = "blue",
                       tags$head(
                         tags$link(rel = "stylesheet", type = "text/css", href = "custom.css")
                       ),
+                      tags$style(type="text/css",
+                                 ".shiny-output-error { visibility: hidden; }",
+                                 ".shiny-output-error:before { visibility: hidden; }"
+                      ),
                       tabItems(
                         
                         # First tab content
@@ -139,7 +143,7 @@ ui <- dashboardPage(skin = "blue",
                                     ),
                                     
                                     tabPanel(
-                                      tags$b("Daily Averages"), DT::dataTableOutput('stats')
+                                      tags$b("Daily Averages"), DT::dataTableOutput('statss')
                                     ),
 
                                     tabPanel(

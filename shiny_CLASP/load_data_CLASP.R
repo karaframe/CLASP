@@ -102,14 +102,17 @@ data_site_info_aqengland <- search_database("aqengland", extra = TRUE)
 
 stats_aqengland <- import_stats("aqengland",site = site_vector_aqengland, 
                            variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                           start = "2016-09-18",
+                           start = "2016-09-23",
                            # start = date_start,
-                           # end = "2016-03-31",
+                            end = "2016-09-24",
                            statistic = "daily_mean",
                            extra = TRUE)
 
-data_time_archive <- import_measures("aqengland", site_network_id = data_site_info_aqengland$site_network_id,
-                                     start = "2016-09-18")
+data_time_aqengland <- import_measures("aqengland", site_network_id = data_site_info_aqengland$site_network_id,
+                                       variable = c("o3", "no2"),
+                                     start = "2016-09-23", end = "2016-09-24") 
+# data_time_aqengland <- data_time_aqengland %>%
+#   filter(variable == c("o3", "no2"))
 
 write.csv(stats_aqengland, "stats_aqengland.csv")
 
@@ -160,14 +163,14 @@ data_site_info_waq <- search_database("waq", extra = TRUE)
 
 stats_waq <- import_stats("waq",site = site_vector_waq, 
                                 variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                                start = "2016-09-18",
+                                start = "2016-09-23",
                                 # start = date_start,
-                                # end = "2016-03-31",
+                                 end = "2016-09-24",
                                 statistic = "daily_mean",
                                 extra = TRUE)
 
-data_time_archive <- import_measures("waq", site_network_id = data_site_info_waq$site_network_id,
-                                     start = "2016-09-18")
+data_time_waq <- import_measures("waq", site_network_id = data_site_info_waq$site_network_id,
+                                     start = "2016-09-23", end = "2016-09-24")
 
 write.csv(stats_waq, "stats_waq.csv")
 write.csv(data_site_info_waq, "data_site_info_waq.csv")
@@ -212,14 +215,15 @@ data_site_info_kent <- search_database("kent", extra = TRUE)
 
 stats_kent <- import_stats("kent",site = site_vector_kent, 
                             variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                            start = "2016-09-18",
+                            start = "2016-09-23",
                             # start = date_start,
+                           end = "2016-09-24",
                             # end = "2016-03-31",
                             statistic = "daily_mean",
                             extra = TRUE)
 
 data_time_kent <- import_measures("kent", site_network_id = data_site_info_kent$site_network_id,
-                                     start = "2016-09-18")
+                                     start = "2016-09-18", end = "2016-09-24")
 
 write.csv(stats_kent, "stats_kent.csv")
 write.csv(data_site_info_kent, "data_site_info_kent.csv")
@@ -263,14 +267,15 @@ data_site_info_niarc <- search_database("niarc", extra = TRUE)
 
 stats_niarc <- import_stats("niarc",site = site_vector_niarc, 
                            variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                           start = "2016-09-18",
+                           start = "2016-09-23",
                            # start = date_start,
+                           end = "2016-09-24",
                            # end = "2016-03-31",
                            statistic = "daily_mean",
                            extra = TRUE)
 
 data_time_niarc <- import_measures("niarc", site_network_id = data_site_info_niarc$site_network_id,
-                                  start = "2016-09-18")
+                                  start = "2016-09-18", end = "2016-09-24")
 
 write.csv(stats_niarc, "stats_niarc.csv")
 write.csv(data_site_info_niarc, "data_site_info_niarc.csv")
@@ -316,14 +321,15 @@ data_site_info_nlincs <- search_database("nlincs", extra = TRUE)
 
 stats_nlincs <- import_stats("nlincs",site = site_vector_nlincs, 
                             variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                            start = "2016-09-18",
+                            start = "2016-09-23",
                             # start = date_start,
+                            end = "2016-09-24",
                             # end = "2016-03-31",
                             statistic = "daily_mean",
                             extra = TRUE)
 
 data_time_nlincs <- import_measures("nlincs", site_network_id = data_site_info_nlincs$site_network_id,
-                                   start = "2016-09-18")
+                                   start = "2016-09-23", end = "2016-09-24")
 
 write.csv(stats_nlincs, "stats_nlincs.csv")
 write.csv(data_site_info_nlincs, "data_site_info_nlincsc.csv")
@@ -369,14 +375,15 @@ data_site_info_scotarc <- search_database("scotarc", extra = TRUE)
 
 stats_scotarc <- import_stats("scotarc",site = site_vector_scotarc, 
                              variable = c("o3", "no2", "co", "pm10", "pm25", "at10", "at25"),
-                             start = "2016-09-18",
+                             start = "2016-09-23",
                              # start = date_start,
+                             end = "2016-09-24",
                              # end = "2016-03-31",
                              statistic = "daily_mean",
                              extra = TRUE)
 
-data_time_scotarcs <- import_measures("scotarc", site_network_id = data_site_info_scotarc$site_network_id,
-                                    start = "2016-09-18")
+data_time_scotarc <- import_measures("scotarc", site_network_id = data_site_info_scotarc$site_network_id,
+                                    start = "2016-09-23", end = "2016-09-24")
 
 write.csv(stats_scotarc, "stats_scotarc.csv")
 write.csv(data_site_info_scotarc, "data_site_info_scotarc.csv")

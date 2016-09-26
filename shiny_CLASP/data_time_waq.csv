@@ -1,0 +1,1641 @@
+,date,date_end,site,site_name,variable,site_network_id,value,ratified_id,period,less_than,unit_name,period_name,network_parameter_id,network_id
+1,23/09/2016 00:00,23/09/2016 01:00,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+2,23/09/2016 01:00,23/09/2016 02:00,ah,Aston Hill,no2,1182,0.95625,1,1,0,ugm-3,hourly,74,warn
+3,23/09/2016 02:00,23/09/2016 03:00,ah,Aston Hill,no2,1182,0.95625,1,1,0,ugm-3,hourly,74,warn
+4,23/09/2016 03:00,23/09/2016 04:00,ah,Aston Hill,no2,1182,0.95625,1,1,0,ugm-3,hourly,74,warn
+5,23/09/2016 04:00,23/09/2016 05:00,ah,Aston Hill,no2,1182,1.1475,1,1,0,ugm-3,hourly,74,warn
+6,23/09/2016 05:00,23/09/2016 06:00,ah,Aston Hill,no2,1182,1.1475,1,1,0,ugm-3,hourly,74,warn
+7,23/09/2016 06:00,23/09/2016 07:00,ah,Aston Hill,no2,1182,1.1475,1,1,0,ugm-3,hourly,74,warn
+8,23/09/2016 07:00,23/09/2016 08:00,ah,Aston Hill,no2,1182,1.72125,1,1,0,ugm-3,hourly,74,warn
+9,23/09/2016 08:00,23/09/2016 09:00,ah,Aston Hill,no2,1182,2.6775,1,1,0,ugm-3,hourly,74,warn
+10,23/09/2016 09:00,23/09/2016 10:00,ah,Aston Hill,no2,1182,2.10375,1,1,0,ugm-3,hourly,74,warn
+11,23/09/2016 10:00,23/09/2016 11:00,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+12,23/09/2016 11:00,23/09/2016 12:00,ah,Aston Hill,no2,1182,1.9125,1,1,0,ugm-3,hourly,74,warn
+13,23/09/2016 12:00,23/09/2016 13:00,ah,Aston Hill,no2,1182,1.72125,1,1,0,ugm-3,hourly,74,warn
+14,23/09/2016 13:00,23/09/2016 14:00,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+15,23/09/2016 14:00,23/09/2016 15:00,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+16,23/09/2016 15:00,23/09/2016 16:00,ah,Aston Hill,no2,1182,1.72125,1,1,0,ugm-3,hourly,74,warn
+17,23/09/2016 16:00,23/09/2016 17:00,ah,Aston Hill,no2,1182,2.295,1,1,0,ugm-3,hourly,74,warn
+18,23/09/2016 17:00,23/09/2016 18:00,ah,Aston Hill,no2,1182,2.86875,1,1,0,ugm-3,hourly,74,warn
+19,23/09/2016 18:00,23/09/2016 19:00,ah,Aston Hill,no2,1182,3.06,1,1,0,ugm-3,hourly,74,warn
+20,23/09/2016 19:00,23/09/2016 20:00,ah,Aston Hill,no2,1182,3.825,1,1,0,ugm-3,hourly,74,warn
+21,23/09/2016 20:00,23/09/2016 21:00,ah,Aston Hill,no2,1182,4.78125,1,1,0,ugm-3,hourly,74,warn
+22,23/09/2016 21:00,23/09/2016 22:00,ah,Aston Hill,no2,1182,4.2075,1,1,0,ugm-3,hourly,74,warn
+23,23/09/2016 22:00,23/09/2016 23:00,ah,Aston Hill,no2,1182,4.2075,1,1,0,ugm-3,hourly,74,warn
+24,NA,NA,ah,Aston Hill,no2,1182,3.825,1,1,0,ugm-3,hourly,74,warn
+25,24/09/2016 00:00,24/09/2016 01:00,ah,Aston Hill,no2,1182,3.63375,1,1,0,ugm-3,hourly,74,warn
+26,24/09/2016 01:00,24/09/2016 02:00,ah,Aston Hill,no2,1182,3.25125,1,1,0,ugm-3,hourly,74,warn
+27,24/09/2016 02:00,24/09/2016 03:00,ah,Aston Hill,no2,1182,3.4425,1,1,0,ugm-3,hourly,74,warn
+28,24/09/2016 03:00,24/09/2016 04:00,ah,Aston Hill,no2,1182,3.06,1,1,0,ugm-3,hourly,74,warn
+29,24/09/2016 04:00,24/09/2016 05:00,ah,Aston Hill,no2,1182,2.10375,1,1,0,ugm-3,hourly,74,warn
+30,24/09/2016 05:00,24/09/2016 06:00,ah,Aston Hill,no2,1182,1.72125,1,1,0,ugm-3,hourly,74,warn
+31,24/09/2016 06:00,24/09/2016 07:00,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+32,24/09/2016 07:00,24/09/2016 08:00,ah,Aston Hill,no2,1182,1.9125,1,1,0,ugm-3,hourly,74,warn
+33,24/09/2016 08:00,24/09/2016 09:00,ah,Aston Hill,no2,1182,1.9125,1,1,0,ugm-3,hourly,74,warn
+34,24/09/2016 09:00,24/09/2016 10:00,ah,Aston Hill,no2,1182,2.48625,1,1,0,ugm-3,hourly,74,warn
+35,24/09/2016 10:00,24/09/2016 11:00,ah,Aston Hill,no2,1182,3.25125,1,1,0,ugm-3,hourly,74,warn
+36,24/09/2016 11:00,24/09/2016 12:00,ah,Aston Hill,no2,1182,3.25125,1,1,0,ugm-3,hourly,74,warn
+37,24/09/2016 12:00,24/09/2016 13:00,ah,Aston Hill,no2,1182,3.25125,1,1,0,ugm-3,hourly,74,warn
+38,24/09/2016 13:00,24/09/2016 14:00,ah,Aston Hill,no2,1182,2.6775,1,1,0,ugm-3,hourly,74,warn
+39,24/09/2016 14:00,24/09/2016 15:00,ah,Aston Hill,no2,1182,2.48625,1,1,0,ugm-3,hourly,74,warn
+40,24/09/2016 15:00,24/09/2016 16:00,ah,Aston Hill,no2,1182,2.48625,1,1,0,ugm-3,hourly,74,warn
+41,24/09/2016 16:00,24/09/2016 17:00,ah,Aston Hill,no2,1182,2.6775,1,1,0,ugm-3,hourly,74,warn
+42,24/09/2016 17:00,24/09/2016 18:00,ah,Aston Hill,no2,1182,3.4425,1,1,0,ugm-3,hourly,74,warn
+43,24/09/2016 18:00,24/09/2016 19:00,ah,Aston Hill,no2,1182,3.4425,1,1,0,ugm-3,hourly,74,warn
+44,24/09/2016 19:00,24/09/2016 20:00,ah,Aston Hill,no2,1182,3.25125,1,1,0,ugm-3,hourly,74,warn
+45,24/09/2016 20:00,24/09/2016 21:00,ah,Aston Hill,no2,1182,2.86875,1,1,0,ugm-3,hourly,74,warn
+46,24/09/2016 21:00,24/09/2016 22:00,ah,Aston Hill,no2,1182,2.6775,1,1,0,ugm-3,hourly,74,warn
+47,24/09/2016 22:00,24/09/2016 23:00,ah,Aston Hill,no2,1182,2.10375,1,1,0,ugm-3,hourly,74,warn
+48,NA,NA,ah,Aston Hill,no2,1182,1.53,1,1,0,ugm-3,hourly,74,warn
+49,23/09/2016 00:00,23/09/2016 01:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+50,23/09/2016 01:00,23/09/2016 02:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+51,23/09/2016 02:00,23/09/2016 03:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+52,23/09/2016 03:00,23/09/2016 04:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+53,23/09/2016 04:00,23/09/2016 05:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+54,23/09/2016 05:00,23/09/2016 06:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+55,23/09/2016 06:00,23/09/2016 07:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+56,23/09/2016 07:00,23/09/2016 08:00,ah,Aston Hill,o3,1183,46.69938,1,1,0,ugm-3,hourly,77,warn
+57,23/09/2016 08:00,23/09/2016 09:00,ah,Aston Hill,o3,1183,41.9097,1,1,0,ugm-3,hourly,77,warn
+58,23/09/2016 09:00,23/09/2016 10:00,ah,Aston Hill,o3,1183,51.68863,1,1,0,ugm-3,hourly,77,warn
+59,23/09/2016 10:00,23/09/2016 11:00,ah,Aston Hill,o3,1183,50.09207,1,1,0,ugm-3,hourly,77,warn
+60,23/09/2016 11:00,23/09/2016 12:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+61,23/09/2016 12:00,23/09/2016 13:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+62,23/09/2016 13:00,23/09/2016 14:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+63,23/09/2016 14:00,23/09/2016 15:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+64,23/09/2016 15:00,23/09/2016 16:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+65,23/09/2016 16:00,23/09/2016 17:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+66,23/09/2016 17:00,23/09/2016 18:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+67,23/09/2016 18:00,23/09/2016 19:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+68,23/09/2016 19:00,23/09/2016 20:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+69,23/09/2016 20:00,23/09/2016 21:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+70,23/09/2016 21:00,23/09/2016 22:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+71,23/09/2016 22:00,23/09/2016 23:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+72,NA,NA,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+73,24/09/2016 00:00,24/09/2016 01:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+74,24/09/2016 01:00,24/09/2016 02:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+75,24/09/2016 02:00,24/09/2016 03:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+76,24/09/2016 03:00,24/09/2016 04:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+77,24/09/2016 04:00,24/09/2016 05:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+78,24/09/2016 05:00,24/09/2016 06:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+79,24/09/2016 06:00,24/09/2016 07:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+80,24/09/2016 07:00,24/09/2016 08:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+81,24/09/2016 08:00,24/09/2016 09:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+82,24/09/2016 09:00,24/09/2016 10:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+83,24/09/2016 10:00,24/09/2016 11:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+84,24/09/2016 11:00,24/09/2016 12:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+85,24/09/2016 12:00,24/09/2016 13:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+86,24/09/2016 13:00,24/09/2016 14:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+87,24/09/2016 14:00,24/09/2016 15:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+88,24/09/2016 15:00,24/09/2016 16:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+89,24/09/2016 16:00,24/09/2016 17:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+90,24/09/2016 17:00,24/09/2016 18:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+91,24/09/2016 18:00,24/09/2016 19:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+92,24/09/2016 19:00,24/09/2016 20:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+93,24/09/2016 20:00,24/09/2016 21:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+94,24/09/2016 21:00,24/09/2016 22:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+95,24/09/2016 22:00,24/09/2016 23:00,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+96,NA,NA,ah,Aston Hill,o3,1183,NA,1,1,0,ugm-3,hourly,77,warn
+1345,23/09/2016 00:00,23/09/2016 01:00,cae4,Caerphilly White Street,no2,2005,30.6,1,1,0,ugm-3,hourly,32,waun
+1346,23/09/2016 01:00,23/09/2016 02:00,cae4,Caerphilly White Street,no2,2005,24.8625,1,1,0,ugm-3,hourly,32,waun
+1347,23/09/2016 02:00,23/09/2016 03:00,cae4,Caerphilly White Street,no2,2005,21.0375,1,1,0,ugm-3,hourly,32,waun
+1348,23/09/2016 03:00,23/09/2016 04:00,cae4,Caerphilly White Street,no2,2005,17.2125,1,1,0,ugm-3,hourly,32,waun
+1349,23/09/2016 04:00,23/09/2016 05:00,cae4,Caerphilly White Street,no2,2005,19.125,1,1,0,ugm-3,hourly,32,waun
+1350,23/09/2016 05:00,23/09/2016 06:00,cae4,Caerphilly White Street,no2,2005,43.9875,1,1,0,ugm-3,hourly,32,waun
+1351,23/09/2016 06:00,23/09/2016 07:00,cae4,Caerphilly White Street,no2,2005,89.8875,1,1,0,ugm-3,hourly,32,waun
+1352,23/09/2016 07:00,23/09/2016 08:00,cae4,Caerphilly White Street,no2,2005,99.45,1,1,0,ugm-3,hourly,32,waun
+1353,23/09/2016 08:00,23/09/2016 09:00,cae4,Caerphilly White Street,no2,2005,74.5875,1,1,0,ugm-3,hourly,32,waun
+1354,23/09/2016 09:00,23/09/2016 10:00,cae4,Caerphilly White Street,no2,2005,40.1625,1,1,0,ugm-3,hourly,32,waun
+1355,23/09/2016 10:00,23/09/2016 11:00,cae4,Caerphilly White Street,no2,2005,32.5125,1,1,0,ugm-3,hourly,32,waun
+1356,23/09/2016 11:00,23/09/2016 12:00,cae4,Caerphilly White Street,no2,2005,24.8625,1,1,0,ugm-3,hourly,32,waun
+1357,23/09/2016 12:00,23/09/2016 13:00,cae4,Caerphilly White Street,no2,2005,22.95,1,1,0,ugm-3,hourly,32,waun
+1358,23/09/2016 13:00,23/09/2016 14:00,cae4,Caerphilly White Street,no2,2005,26.775,1,1,0,ugm-3,hourly,32,waun
+1359,23/09/2016 14:00,23/09/2016 15:00,cae4,Caerphilly White Street,no2,2005,40.1625,1,1,0,ugm-3,hourly,32,waun
+1360,23/09/2016 15:00,23/09/2016 16:00,cae4,Caerphilly White Street,no2,2005,34.425,1,1,0,ugm-3,hourly,32,waun
+1361,23/09/2016 16:00,23/09/2016 17:00,cae4,Caerphilly White Street,no2,2005,40.1625,1,1,0,ugm-3,hourly,32,waun
+1362,23/09/2016 17:00,23/09/2016 18:00,cae4,Caerphilly White Street,no2,2005,51.6375,1,1,0,ugm-3,hourly,32,waun
+1363,23/09/2016 18:00,23/09/2016 19:00,cae4,Caerphilly White Street,no2,2005,43.9875,1,1,0,ugm-3,hourly,32,waun
+1364,23/09/2016 19:00,23/09/2016 20:00,cae4,Caerphilly White Street,no2,2005,32.5125,1,1,0,ugm-3,hourly,32,waun
+1365,23/09/2016 20:00,23/09/2016 21:00,cae4,Caerphilly White Street,no2,2005,34.425,1,1,0,ugm-3,hourly,32,waun
+1366,23/09/2016 21:00,23/09/2016 22:00,cae4,Caerphilly White Street,no2,2005,28.6875,1,1,0,ugm-3,hourly,32,waun
+1367,23/09/2016 22:00,23/09/2016 23:00,cae4,Caerphilly White Street,no2,2005,26.775,1,1,0,ugm-3,hourly,32,waun
+1368,NA,NA,cae4,Caerphilly White Street,no2,2005,17.2125,1,1,0,ugm-3,hourly,32,waun
+1369,24/09/2016 00:00,24/09/2016 01:00,cae4,Caerphilly White Street,no2,2005,17.2125,1,1,0,ugm-3,hourly,32,waun
+1370,24/09/2016 01:00,24/09/2016 02:00,cae4,Caerphilly White Street,no2,2005,11.475,1,1,0,ugm-3,hourly,32,waun
+1371,24/09/2016 02:00,24/09/2016 03:00,cae4,Caerphilly White Street,no2,2005,5.7375,1,1,0,ugm-3,hourly,32,waun
+1372,24/09/2016 03:00,24/09/2016 04:00,cae4,Caerphilly White Street,no2,2005,5.7375,1,1,0,ugm-3,hourly,32,waun
+1373,24/09/2016 04:00,24/09/2016 05:00,cae4,Caerphilly White Street,no2,2005,7.65,1,1,0,ugm-3,hourly,32,waun
+1374,24/09/2016 05:00,24/09/2016 06:00,cae4,Caerphilly White Street,no2,2005,11.475,1,1,0,ugm-3,hourly,32,waun
+1375,24/09/2016 06:00,24/09/2016 07:00,cae4,Caerphilly White Street,no2,2005,24.8625,1,1,0,ugm-3,hourly,32,waun
+1376,24/09/2016 07:00,24/09/2016 08:00,cae4,Caerphilly White Street,no2,2005,22.95,1,1,0,ugm-3,hourly,32,waun
+1377,24/09/2016 08:00,24/09/2016 09:00,cae4,Caerphilly White Street,no2,2005,26.775,1,1,0,ugm-3,hourly,32,waun
+1378,24/09/2016 09:00,24/09/2016 10:00,cae4,Caerphilly White Street,no2,2005,36.3375,1,1,0,ugm-3,hourly,32,waun
+1379,24/09/2016 10:00,24/09/2016 11:00,cae4,Caerphilly White Street,no2,2005,26.775,1,1,0,ugm-3,hourly,32,waun
+1380,24/09/2016 11:00,24/09/2016 12:00,cae4,Caerphilly White Street,no2,2005,30.6,1,1,0,ugm-3,hourly,32,waun
+1381,24/09/2016 12:00,24/09/2016 13:00,cae4,Caerphilly White Street,no2,2005,30.6,1,1,0,ugm-3,hourly,32,waun
+1382,24/09/2016 13:00,24/09/2016 14:00,cae4,Caerphilly White Street,no2,2005,28.6875,1,1,0,ugm-3,hourly,32,waun
+1383,24/09/2016 14:00,24/09/2016 15:00,cae4,Caerphilly White Street,no2,2005,32.5125,1,1,0,ugm-3,hourly,32,waun
+1384,24/09/2016 15:00,24/09/2016 16:00,cae4,Caerphilly White Street,no2,2005,30.6,1,1,0,ugm-3,hourly,32,waun
+1385,24/09/2016 16:00,24/09/2016 17:00,cae4,Caerphilly White Street,no2,2005,24.8625,1,1,0,ugm-3,hourly,32,waun
+1386,24/09/2016 17:00,24/09/2016 18:00,cae4,Caerphilly White Street,no2,2005,32.5125,1,1,0,ugm-3,hourly,32,waun
+1387,24/09/2016 18:00,24/09/2016 19:00,cae4,Caerphilly White Street,no2,2005,13.3875,1,1,0,ugm-3,hourly,32,waun
+1388,24/09/2016 19:00,24/09/2016 20:00,cae4,Caerphilly White Street,no2,2005,21.0375,1,1,0,ugm-3,hourly,32,waun
+1389,24/09/2016 20:00,24/09/2016 21:00,cae4,Caerphilly White Street,no2,2005,17.2125,1,1,0,ugm-3,hourly,32,waun
+1390,24/09/2016 21:00,24/09/2016 22:00,cae4,Caerphilly White Street,no2,2005,17.2125,1,1,0,ugm-3,hourly,32,waun
+1391,24/09/2016 22:00,24/09/2016 23:00,cae4,Caerphilly White Street,no2,2005,13.3875,1,1,0,ugm-3,hourly,32,waun
+1392,NA,NA,cae4,Caerphilly White Street,no2,2005,9.5625,1,1,0,ugm-3,hourly,32,waun
+1489,23/09/2016 00:00,23/09/2016 01:00,cae5,Caerphilly Blackwood High Street,no2,2131,15.3,1,1,0,ugm-3,hourly,32,waun
+1490,23/09/2016 01:00,23/09/2016 02:00,cae5,Caerphilly Blackwood High Street,no2,2131,9.5625,1,1,0,ugm-3,hourly,32,waun
+1491,23/09/2016 02:00,23/09/2016 03:00,cae5,Caerphilly Blackwood High Street,no2,2131,7.65,1,1,0,ugm-3,hourly,32,waun
+1492,23/09/2016 03:00,23/09/2016 04:00,cae5,Caerphilly Blackwood High Street,no2,2131,7.65,1,1,0,ugm-3,hourly,32,waun
+1493,23/09/2016 04:00,23/09/2016 05:00,cae5,Caerphilly Blackwood High Street,no2,2131,13.3875,1,1,0,ugm-3,hourly,32,waun
+1494,23/09/2016 05:00,23/09/2016 06:00,cae5,Caerphilly Blackwood High Street,no2,2131,15.3,1,1,0,ugm-3,hourly,32,waun
+1495,23/09/2016 06:00,23/09/2016 07:00,cae5,Caerphilly Blackwood High Street,no2,2131,21.0375,1,1,0,ugm-3,hourly,32,waun
+1496,23/09/2016 07:00,23/09/2016 08:00,cae5,Caerphilly Blackwood High Street,no2,2131,32.5125,1,1,0,ugm-3,hourly,32,waun
+1497,23/09/2016 08:00,23/09/2016 09:00,cae5,Caerphilly Blackwood High Street,no2,2131,47.8125,1,1,0,ugm-3,hourly,32,waun
+1498,23/09/2016 09:00,23/09/2016 10:00,cae5,Caerphilly Blackwood High Street,no2,2131,59.2875,1,1,0,ugm-3,hourly,32,waun
+1499,23/09/2016 10:00,23/09/2016 11:00,cae5,Caerphilly Blackwood High Street,no2,2131,57.375,1,1,0,ugm-3,hourly,32,waun
+1500,23/09/2016 11:00,23/09/2016 12:00,cae5,Caerphilly Blackwood High Street,no2,2131,68.85,1,1,0,ugm-3,hourly,32,waun
+1501,23/09/2016 12:00,23/09/2016 13:00,cae5,Caerphilly Blackwood High Street,no2,2131,49.725,1,1,0,ugm-3,hourly,32,waun
+1502,23/09/2016 13:00,23/09/2016 14:00,cae5,Caerphilly Blackwood High Street,no2,2131,45.9,1,1,0,ugm-3,hourly,32,waun
+1503,23/09/2016 14:00,23/09/2016 15:00,cae5,Caerphilly Blackwood High Street,no2,2131,59.2875,1,1,0,ugm-3,hourly,32,waun
+1504,23/09/2016 15:00,23/09/2016 16:00,cae5,Caerphilly Blackwood High Street,no2,2131,59.2875,1,1,0,ugm-3,hourly,32,waun
+1505,23/09/2016 16:00,23/09/2016 17:00,cae5,Caerphilly Blackwood High Street,no2,2131,45.9,1,1,0,ugm-3,hourly,32,waun
+1506,23/09/2016 17:00,23/09/2016 18:00,cae5,Caerphilly Blackwood High Street,no2,2131,45.9,1,1,0,ugm-3,hourly,32,waun
+1507,23/09/2016 18:00,23/09/2016 19:00,cae5,Caerphilly Blackwood High Street,no2,2131,47.8125,1,1,0,ugm-3,hourly,32,waun
+1508,23/09/2016 19:00,23/09/2016 20:00,cae5,Caerphilly Blackwood High Street,no2,2131,51.6375,1,1,0,ugm-3,hourly,32,waun
+1509,23/09/2016 20:00,23/09/2016 21:00,cae5,Caerphilly Blackwood High Street,no2,2131,32.5125,1,1,0,ugm-3,hourly,32,waun
+1510,23/09/2016 21:00,23/09/2016 22:00,cae5,Caerphilly Blackwood High Street,no2,2131,40.1625,1,1,0,ugm-3,hourly,32,waun
+1511,23/09/2016 22:00,23/09/2016 23:00,cae5,Caerphilly Blackwood High Street,no2,2131,32.5125,1,1,0,ugm-3,hourly,32,waun
+1512,NA,NA,cae5,Caerphilly Blackwood High Street,no2,2131,28.6875,1,1,0,ugm-3,hourly,32,waun
+1513,24/09/2016 00:00,24/09/2016 01:00,cae5,Caerphilly Blackwood High Street,no2,2131,19.125,1,1,0,ugm-3,hourly,32,waun
+1514,24/09/2016 01:00,24/09/2016 02:00,cae5,Caerphilly Blackwood High Street,no2,2131,9.5625,1,1,0,ugm-3,hourly,32,waun
+1515,24/09/2016 02:00,24/09/2016 03:00,cae5,Caerphilly Blackwood High Street,no2,2131,7.65,1,1,0,ugm-3,hourly,32,waun
+1516,24/09/2016 03:00,24/09/2016 04:00,cae5,Caerphilly Blackwood High Street,no2,2131,5.7375,1,1,0,ugm-3,hourly,32,waun
+1517,24/09/2016 04:00,24/09/2016 05:00,cae5,Caerphilly Blackwood High Street,no2,2131,17.2125,1,1,0,ugm-3,hourly,32,waun
+1518,24/09/2016 05:00,24/09/2016 06:00,cae5,Caerphilly Blackwood High Street,no2,2131,13.3875,1,1,0,ugm-3,hourly,32,waun
+1519,24/09/2016 06:00,24/09/2016 07:00,cae5,Caerphilly Blackwood High Street,no2,2131,19.125,1,1,0,ugm-3,hourly,32,waun
+1520,24/09/2016 07:00,24/09/2016 08:00,cae5,Caerphilly Blackwood High Street,no2,2131,26.775,1,1,0,ugm-3,hourly,32,waun
+1521,24/09/2016 08:00,24/09/2016 09:00,cae5,Caerphilly Blackwood High Street,no2,2131,32.5125,1,1,0,ugm-3,hourly,32,waun
+1522,24/09/2016 09:00,24/09/2016 10:00,cae5,Caerphilly Blackwood High Street,no2,2131,63.1125,1,1,0,ugm-3,hourly,32,waun
+1523,24/09/2016 10:00,24/09/2016 11:00,cae5,Caerphilly Blackwood High Street,no2,2131,51.6375,1,1,0,ugm-3,hourly,32,waun
+1524,24/09/2016 11:00,24/09/2016 12:00,cae5,Caerphilly Blackwood High Street,no2,2131,66.9375,1,1,0,ugm-3,hourly,32,waun
+1525,24/09/2016 12:00,24/09/2016 13:00,cae5,Caerphilly Blackwood High Street,no2,2131,53.55,1,1,0,ugm-3,hourly,32,waun
+1526,24/09/2016 13:00,24/09/2016 14:00,cae5,Caerphilly Blackwood High Street,no2,2131,55.4625,1,1,0,ugm-3,hourly,32,waun
+1527,24/09/2016 14:00,24/09/2016 15:00,cae5,Caerphilly Blackwood High Street,no2,2131,55.4625,1,1,0,ugm-3,hourly,32,waun
+1528,24/09/2016 15:00,24/09/2016 16:00,cae5,Caerphilly Blackwood High Street,no2,2131,47.8125,1,1,0,ugm-3,hourly,32,waun
+1529,24/09/2016 16:00,24/09/2016 17:00,cae5,Caerphilly Blackwood High Street,no2,2131,30.6,1,1,0,ugm-3,hourly,32,waun
+1530,24/09/2016 17:00,24/09/2016 18:00,cae5,Caerphilly Blackwood High Street,no2,2131,24.8625,1,1,0,ugm-3,hourly,32,waun
+1531,24/09/2016 18:00,24/09/2016 19:00,cae5,Caerphilly Blackwood High Street,no2,2131,30.6,1,1,0,ugm-3,hourly,32,waun
+1532,24/09/2016 19:00,24/09/2016 20:00,cae5,Caerphilly Blackwood High Street,no2,2131,28.6875,1,1,0,ugm-3,hourly,32,waun
+1533,24/09/2016 20:00,24/09/2016 21:00,cae5,Caerphilly Blackwood High Street,no2,2131,24.8625,1,1,0,ugm-3,hourly,32,waun
+1534,24/09/2016 21:00,24/09/2016 22:00,cae5,Caerphilly Blackwood High Street,no2,2131,26.775,1,1,0,ugm-3,hourly,32,waun
+1535,24/09/2016 22:00,24/09/2016 23:00,cae5,Caerphilly Blackwood High Street,no2,2131,24.8625,1,1,0,ugm-3,hourly,32,waun
+1536,NA,NA,cae5,Caerphilly Blackwood High Street,no2,2131,19.125,1,1,0,ugm-3,hourly,32,waun
+1729,23/09/2016 00:00,23/09/2016 01:00,cae6,Hafod-yr-ynys Roadside,no2,2602,16.63875,1,1,0,ugm-3,hourly,32,waun
+1730,23/09/2016 01:00,23/09/2016 02:00,cae6,Hafod-yr-ynys Roadside,no2,2602,9.945,1,1,0,ugm-3,hourly,32,waun
+1731,23/09/2016 02:00,23/09/2016 03:00,cae6,Hafod-yr-ynys Roadside,no2,2602,15.87375,1,1,0,ugm-3,hourly,32,waun
+1732,23/09/2016 03:00,23/09/2016 04:00,cae6,Hafod-yr-ynys Roadside,no2,2602,28.87875,1,1,0,ugm-3,hourly,32,waun
+1733,23/09/2016 04:00,23/09/2016 05:00,cae6,Hafod-yr-ynys Roadside,no2,2602,59.47875,1,1,0,ugm-3,hourly,32,waun
+1734,23/09/2016 05:00,23/09/2016 06:00,cae6,Hafod-yr-ynys Roadside,no2,2602,111.69,1,1,0,ugm-3,hourly,32,waun
+1735,23/09/2016 06:00,23/09/2016 07:00,cae6,Hafod-yr-ynys Roadside,no2,2602,157.78125,1,1,0,ugm-3,hourly,32,waun
+1736,23/09/2016 07:00,23/09/2016 08:00,cae6,Hafod-yr-ynys Roadside,no2,2602,122.97375,1,1,0,ugm-3,hourly,32,waun
+1737,23/09/2016 08:00,23/09/2016 09:00,cae6,Hafod-yr-ynys Roadside,no2,2602,114.17625,1,1,0,ugm-3,hourly,32,waun
+1738,23/09/2016 09:00,23/09/2016 10:00,cae6,Hafod-yr-ynys Roadside,no2,2602,94.095,1,1,0,ugm-3,hourly,32,waun
+1739,23/09/2016 10:00,23/09/2016 11:00,cae6,Hafod-yr-ynys Roadside,no2,2602,83.0025,1,1,0,ugm-3,hourly,32,waun
+1740,23/09/2016 11:00,23/09/2016 12:00,cae6,Hafod-yr-ynys Roadside,no2,2602,39.58875,1,1,0,ugm-3,hourly,32,waun
+1741,23/09/2016 12:00,23/09/2016 13:00,cae6,Hafod-yr-ynys Roadside,no2,2602,50.8725,1,1,0,ugm-3,hourly,32,waun
+1742,23/09/2016 13:00,23/09/2016 14:00,cae6,Hafod-yr-ynys Roadside,no2,2602,53.55,1,1,0,ugm-3,hourly,32,waun
+1743,23/09/2016 14:00,23/09/2016 15:00,cae6,Hafod-yr-ynys Roadside,no2,2602,115.32375,1,1,0,ugm-3,hourly,32,waun
+1744,23/09/2016 15:00,23/09/2016 16:00,cae6,Hafod-yr-ynys Roadside,no2,2602,108.63,1,1,0,ugm-3,hourly,32,waun
+1745,23/09/2016 16:00,23/09/2016 17:00,cae6,Hafod-yr-ynys Roadside,no2,2602,87.21,1,1,0,ugm-3,hourly,32,waun
+1746,23/09/2016 17:00,23/09/2016 18:00,cae6,Hafod-yr-ynys Roadside,no2,2602,94.86,1,1,0,ugm-3,hourly,32,waun
+1747,23/09/2016 18:00,23/09/2016 19:00,cae6,Hafod-yr-ynys Roadside,no2,2602,74.39625,1,1,0,ugm-3,hourly,32,waun
+1748,23/09/2016 19:00,23/09/2016 20:00,cae6,Hafod-yr-ynys Roadside,no2,2602,52.97625,1,1,0,ugm-3,hourly,32,waun
+1749,23/09/2016 20:00,23/09/2016 21:00,cae6,Hafod-yr-ynys Roadside,no2,2602,53.35875,1,1,0,ugm-3,hourly,32,waun
+1750,23/09/2016 21:00,23/09/2016 22:00,cae6,Hafod-yr-ynys Roadside,no2,2602,35.5725,1,1,0,ugm-3,hourly,32,waun
+1751,23/09/2016 22:00,23/09/2016 23:00,cae6,Hafod-yr-ynys Roadside,no2,2602,43.605,1,1,0,ugm-3,hourly,32,waun
+1752,NA,NA,cae6,Hafod-yr-ynys Roadside,no2,2602,39.97125,1,1,0,ugm-3,hourly,32,waun
+1753,24/09/2016 00:00,24/09/2016 01:00,cae6,Hafod-yr-ynys Roadside,no2,2602,13.77,1,1,0,ugm-3,hourly,32,waun
+1754,24/09/2016 01:00,24/09/2016 02:00,cae6,Hafod-yr-ynys Roadside,no2,2602,7.84125,1,1,0,ugm-3,hourly,32,waun
+1755,24/09/2016 02:00,24/09/2016 03:00,cae6,Hafod-yr-ynys Roadside,no2,2602,7.45875,1,1,0,ugm-3,hourly,32,waun
+1756,24/09/2016 03:00,24/09/2016 04:00,cae6,Hafod-yr-ynys Roadside,no2,2602,9.5625,1,1,0,ugm-3,hourly,32,waun
+1757,24/09/2016 04:00,24/09/2016 05:00,cae6,Hafod-yr-ynys Roadside,no2,2602,23.715,1,1,0,ugm-3,hourly,32,waun
+1758,24/09/2016 05:00,24/09/2016 06:00,cae6,Hafod-yr-ynys Roadside,no2,2602,27.34875,1,1,0,ugm-3,hourly,32,waun
+1759,24/09/2016 06:00,24/09/2016 07:00,cae6,Hafod-yr-ynys Roadside,no2,2602,36.14625,1,1,0,ugm-3,hourly,32,waun
+1760,24/09/2016 07:00,24/09/2016 08:00,cae6,Hafod-yr-ynys Roadside,no2,2602,35.5725,1,1,0,ugm-3,hourly,32,waun
+1761,24/09/2016 08:00,24/09/2016 09:00,cae6,Hafod-yr-ynys Roadside,no2,2602,39.97125,1,1,0,ugm-3,hourly,32,waun
+1762,24/09/2016 09:00,24/09/2016 10:00,cae6,Hafod-yr-ynys Roadside,no2,2602,44.94375,1,1,0,ugm-3,hourly,32,waun
+1763,24/09/2016 10:00,24/09/2016 11:00,cae6,Hafod-yr-ynys Roadside,no2,2602,45.5175,1,1,0,ugm-3,hourly,32,waun
+1764,24/09/2016 11:00,24/09/2016 12:00,cae6,Hafod-yr-ynys Roadside,no2,2602,54.50625,1,1,0,ugm-3,hourly,32,waun
+1765,24/09/2016 12:00,24/09/2016 13:00,cae6,Hafod-yr-ynys Roadside,no2,2602,47.0475,1,1,0,ugm-3,hourly,32,waun
+1766,24/09/2016 13:00,24/09/2016 14:00,cae6,Hafod-yr-ynys Roadside,no2,2602,40.35375,1,1,0,ugm-3,hourly,32,waun
+1767,24/09/2016 14:00,24/09/2016 15:00,cae6,Hafod-yr-ynys Roadside,no2,2602,46.2825,1,1,0,ugm-3,hourly,32,waun
+1768,24/09/2016 15:00,24/09/2016 16:00,cae6,Hafod-yr-ynys Roadside,no2,2602,59.09625,1,1,0,ugm-3,hourly,32,waun
+1769,24/09/2016 16:00,24/09/2016 17:00,cae6,Hafod-yr-ynys Roadside,no2,2602,43.41375,1,1,0,ugm-3,hourly,32,waun
+1770,24/09/2016 17:00,24/09/2016 18:00,cae6,Hafod-yr-ynys Roadside,no2,2602,32.895,1,1,0,ugm-3,hourly,32,waun
+1771,24/09/2016 18:00,24/09/2016 19:00,cae6,Hafod-yr-ynys Roadside,no2,2602,23.52375,1,1,0,ugm-3,hourly,32,waun
+1772,24/09/2016 19:00,24/09/2016 20:00,cae6,Hafod-yr-ynys Roadside,no2,2602,18.36,1,1,0,ugm-3,hourly,32,waun
+1773,24/09/2016 20:00,24/09/2016 21:00,cae6,Hafod-yr-ynys Roadside,no2,2602,16.83,1,1,0,ugm-3,hourly,32,waun
+1774,24/09/2016 21:00,24/09/2016 22:00,cae6,Hafod-yr-ynys Roadside,no2,2602,11.0925,1,1,0,ugm-3,hourly,32,waun
+1775,24/09/2016 22:00,24/09/2016 23:00,cae6,Hafod-yr-ynys Roadside,no2,2602,11.8575,1,1,0,ugm-3,hourly,32,waun
+1776,NA,NA,cae6,Hafod-yr-ynys Roadside,no2,2602,8.0325,1,1,0,ugm-3,hourly,32,waun
+1873,23/09/2016 00:00,23/09/2016 01:00,cae7,Nantgarw Road,no2,2605,55.4625,1,1,0,ugm-3,hourly,32,waun
+1874,23/09/2016 01:00,23/09/2016 02:00,cae7,Nantgarw Road,no2,2605,49.725,1,1,0,ugm-3,hourly,32,waun
+1875,23/09/2016 02:00,23/09/2016 03:00,cae7,Nantgarw Road,no2,2605,43.9875,1,1,0,ugm-3,hourly,32,waun
+1876,23/09/2016 03:00,23/09/2016 04:00,cae7,Nantgarw Road,no2,2605,24.8625,1,1,0,ugm-3,hourly,32,waun
+1877,23/09/2016 04:00,23/09/2016 05:00,cae7,Nantgarw Road,no2,2605,28.6875,1,1,0,ugm-3,hourly,32,waun
+1878,23/09/2016 05:00,23/09/2016 06:00,cae7,Nantgarw Road,no2,2605,65.025,1,1,0,ugm-3,hourly,32,waun
+1879,23/09/2016 06:00,23/09/2016 07:00,cae7,Nantgarw Road,no2,2605,95.625,1,1,0,ugm-3,hourly,32,waun
+1880,23/09/2016 07:00,23/09/2016 08:00,cae7,Nantgarw Road,no2,2605,99.45,1,1,0,ugm-3,hourly,32,waun
+1881,23/09/2016 08:00,23/09/2016 09:00,cae7,Nantgarw Road,no2,2605,110.925,1,1,0,ugm-3,hourly,32,waun
+1882,23/09/2016 09:00,23/09/2016 10:00,cae7,Nantgarw Road,no2,2605,70.7625,1,1,0,ugm-3,hourly,32,waun
+1883,23/09/2016 10:00,23/09/2016 11:00,cae7,Nantgarw Road,no2,2605,91.8,1,1,0,ugm-3,hourly,32,waun
+1884,23/09/2016 11:00,23/09/2016 12:00,cae7,Nantgarw Road,no2,2605,76.5,1,1,0,ugm-3,hourly,32,waun
+1885,23/09/2016 12:00,23/09/2016 13:00,cae7,Nantgarw Road,no2,2605,103.275,1,1,0,ugm-3,hourly,32,waun
+1886,23/09/2016 13:00,23/09/2016 14:00,cae7,Nantgarw Road,no2,2605,68.85,1,1,0,ugm-3,hourly,32,waun
+1887,23/09/2016 14:00,23/09/2016 15:00,cae7,Nantgarw Road,no2,2605,72.675,1,1,0,ugm-3,hourly,32,waun
+1888,23/09/2016 15:00,23/09/2016 16:00,cae7,Nantgarw Road,no2,2605,87.975,1,1,0,ugm-3,hourly,32,waun
+1889,23/09/2016 16:00,23/09/2016 17:00,cae7,Nantgarw Road,no2,2605,32.5125,1,1,0,ugm-3,hourly,32,waun
+1890,23/09/2016 17:00,23/09/2016 18:00,cae7,Nantgarw Road,no2,2605,42.075,1,1,0,ugm-3,hourly,32,waun
+1891,23/09/2016 18:00,23/09/2016 19:00,cae7,Nantgarw Road,no2,2605,43.9875,1,1,0,ugm-3,hourly,32,waun
+1892,23/09/2016 19:00,23/09/2016 20:00,cae7,Nantgarw Road,no2,2605,32.5125,1,1,0,ugm-3,hourly,32,waun
+1893,23/09/2016 20:00,23/09/2016 21:00,cae7,Nantgarw Road,no2,2605,38.25,1,1,0,ugm-3,hourly,32,waun
+1894,23/09/2016 21:00,23/09/2016 22:00,cae7,Nantgarw Road,no2,2605,32.5125,1,1,0,ugm-3,hourly,32,waun
+1895,23/09/2016 22:00,23/09/2016 23:00,cae7,Nantgarw Road,no2,2605,21.0375,1,1,0,ugm-3,hourly,32,waun
+1896,NA,NA,cae7,Nantgarw Road,no2,2605,17.2125,1,1,0,ugm-3,hourly,32,waun
+1897,24/09/2016 00:00,24/09/2016 01:00,cae7,Nantgarw Road,no2,2605,11.475,1,1,0,ugm-3,hourly,32,waun
+1898,24/09/2016 01:00,24/09/2016 02:00,cae7,Nantgarw Road,no2,2605,9.5625,1,1,0,ugm-3,hourly,32,waun
+1899,24/09/2016 02:00,24/09/2016 03:00,cae7,Nantgarw Road,no2,2605,5.7375,1,1,0,ugm-3,hourly,32,waun
+1900,24/09/2016 03:00,24/09/2016 04:00,cae7,Nantgarw Road,no2,2605,7.65,1,1,0,ugm-3,hourly,32,waun
+1901,24/09/2016 04:00,24/09/2016 05:00,cae7,Nantgarw Road,no2,2605,7.65,1,1,0,ugm-3,hourly,32,waun
+1902,24/09/2016 05:00,24/09/2016 06:00,cae7,Nantgarw Road,no2,2605,11.475,1,1,0,ugm-3,hourly,32,waun
+1903,24/09/2016 06:00,24/09/2016 07:00,cae7,Nantgarw Road,no2,2605,11.475,1,1,0,ugm-3,hourly,32,waun
+1904,24/09/2016 07:00,24/09/2016 08:00,cae7,Nantgarw Road,no2,2605,17.2125,1,1,0,ugm-3,hourly,32,waun
+1905,24/09/2016 08:00,24/09/2016 09:00,cae7,Nantgarw Road,no2,2605,17.2125,1,1,0,ugm-3,hourly,32,waun
+1906,24/09/2016 09:00,24/09/2016 10:00,cae7,Nantgarw Road,no2,2605,15.3,1,1,0,ugm-3,hourly,32,waun
+1907,24/09/2016 10:00,24/09/2016 11:00,cae7,Nantgarw Road,no2,2605,21.0375,1,1,0,ugm-3,hourly,32,waun
+1908,24/09/2016 11:00,24/09/2016 12:00,cae7,Nantgarw Road,no2,2605,13.3875,1,1,0,ugm-3,hourly,32,waun
+1909,24/09/2016 12:00,24/09/2016 13:00,cae7,Nantgarw Road,no2,2605,17.2125,1,1,0,ugm-3,hourly,32,waun
+1910,24/09/2016 13:00,24/09/2016 14:00,cae7,Nantgarw Road,no2,2605,21.0375,1,1,0,ugm-3,hourly,32,waun
+1911,24/09/2016 14:00,24/09/2016 15:00,cae7,Nantgarw Road,no2,2605,15.3,1,1,0,ugm-3,hourly,32,waun
+1912,24/09/2016 15:00,24/09/2016 16:00,cae7,Nantgarw Road,no2,2605,22.95,1,1,0,ugm-3,hourly,32,waun
+1913,24/09/2016 16:00,24/09/2016 17:00,cae7,Nantgarw Road,no2,2605,21.0375,1,1,0,ugm-3,hourly,32,waun
+1914,24/09/2016 17:00,24/09/2016 18:00,cae7,Nantgarw Road,no2,2605,17.2125,1,1,0,ugm-3,hourly,32,waun
+1915,24/09/2016 18:00,24/09/2016 19:00,cae7,Nantgarw Road,no2,2605,38.25,1,1,0,ugm-3,hourly,32,waun
+1916,24/09/2016 19:00,24/09/2016 20:00,cae7,Nantgarw Road,no2,2605,24.8625,1,1,0,ugm-3,hourly,32,waun
+1917,24/09/2016 20:00,24/09/2016 21:00,cae7,Nantgarw Road,no2,2605,9.5625,1,1,0,ugm-3,hourly,32,waun
+1918,24/09/2016 21:00,24/09/2016 22:00,cae7,Nantgarw Road,no2,2605,9.5625,1,1,0,ugm-3,hourly,32,waun
+1919,24/09/2016 22:00,24/09/2016 23:00,cae7,Nantgarw Road,no2,2605,9.5625,1,1,0,ugm-3,hourly,32,waun
+1920,NA,NA,cae7,Nantgarw Road,no2,2605,13.3875,1,1,0,ugm-3,hourly,32,waun
+2161,23/09/2016 00:00,23/09/2016 01:00,card,Cardiff Centre,no2,1187,34.8075,1,1,0,ugm-3,hourly,32,waun
+2162,23/09/2016 01:00,23/09/2016 02:00,card,Cardiff Centre,no2,1187,43.03125,1,1,0,ugm-3,hourly,32,waun
+2163,23/09/2016 02:00,23/09/2016 03:00,card,Cardiff Centre,no2,1187,44.94375,1,1,0,ugm-3,hourly,32,waun
+2164,23/09/2016 03:00,23/09/2016 04:00,card,Cardiff Centre,no2,1187,35.38125,1,1,0,ugm-3,hourly,32,waun
+2165,23/09/2016 04:00,23/09/2016 05:00,card,Cardiff Centre,no2,1187,41.11875,1,1,0,ugm-3,hourly,32,waun
+2166,23/09/2016 05:00,23/09/2016 06:00,card,Cardiff Centre,no2,1187,31.17375,1,1,0,ugm-3,hourly,32,waun
+2167,23/09/2016 06:00,23/09/2016 07:00,card,Cardiff Centre,no2,1187,43.9875,1,1,0,ugm-3,hourly,32,waun
+2168,23/09/2016 07:00,23/09/2016 08:00,card,Cardiff Centre,no2,1187,45.70875,1,1,0,ugm-3,hourly,32,waun
+2169,23/09/2016 08:00,23/09/2016 09:00,card,Cardiff Centre,no2,1187,32.895,1,1,0,ugm-3,hourly,32,waun
+2170,23/09/2016 09:00,23/09/2016 10:00,card,Cardiff Centre,no2,1187,14.72625,1,1,0,ugm-3,hourly,32,waun
+2171,23/09/2016 10:00,23/09/2016 11:00,card,Cardiff Centre,no2,1187,29.64375,1,1,0,ugm-3,hourly,32,waun
+2172,23/09/2016 11:00,23/09/2016 12:00,card,Cardiff Centre,no2,1187,12.81375,1,1,0,ugm-3,hourly,32,waun
+2173,23/09/2016 12:00,23/09/2016 13:00,card,Cardiff Centre,no2,1187,10.3275,1,1,0,ugm-3,hourly,32,waun
+2174,23/09/2016 13:00,23/09/2016 14:00,card,Cardiff Centre,no2,1187,13.96125,1,1,0,ugm-3,hourly,32,waun
+2175,23/09/2016 14:00,23/09/2016 15:00,card,Cardiff Centre,no2,1187,13.57875,1,1,0,ugm-3,hourly,32,waun
+2176,23/09/2016 15:00,23/09/2016 16:00,card,Cardiff Centre,no2,1187,22.75875,1,1,0,ugm-3,hourly,32,waun
+2177,23/09/2016 16:00,23/09/2016 17:00,card,Cardiff Centre,no2,1187,17.78625,1,1,0,ugm-3,hourly,32,waun
+2178,23/09/2016 17:00,23/09/2016 18:00,card,Cardiff Centre,no2,1187,19.31625,1,1,0,ugm-3,hourly,32,waun
+2179,23/09/2016 18:00,23/09/2016 19:00,card,Cardiff Centre,no2,1187,19.5075,1,1,0,ugm-3,hourly,32,waun
+2180,23/09/2016 19:00,23/09/2016 20:00,card,Cardiff Centre,no2,1187,17.2125,1,1,0,ugm-3,hourly,32,waun
+2181,23/09/2016 20:00,23/09/2016 21:00,card,Cardiff Centre,no2,1187,18.55125,1,1,0,ugm-3,hourly,32,waun
+2182,23/09/2016 21:00,23/09/2016 22:00,card,Cardiff Centre,no2,1187,20.08125,1,1,0,ugm-3,hourly,32,waun
+2183,23/09/2016 22:00,23/09/2016 23:00,card,Cardiff Centre,no2,1187,11.8575,1,1,0,ugm-3,hourly,32,waun
+2184,NA,NA,card,Cardiff Centre,no2,1187,8.415,1,1,0,ugm-3,hourly,32,waun
+2185,24/09/2016 00:00,24/09/2016 01:00,card,Cardiff Centre,no2,1187,7.2675,1,1,0,ugm-3,hourly,32,waun
+2186,24/09/2016 01:00,24/09/2016 02:00,card,Cardiff Centre,no2,1187,5.355,1,1,0,ugm-3,hourly,32,waun
+2187,24/09/2016 02:00,24/09/2016 03:00,card,Cardiff Centre,no2,1187,7.2675,1,1,0,ugm-3,hourly,32,waun
+2188,24/09/2016 03:00,24/09/2016 04:00,card,Cardiff Centre,no2,1187,8.60625,1,1,0,ugm-3,hourly,32,waun
+2189,24/09/2016 04:00,24/09/2016 05:00,card,Cardiff Centre,no2,1187,10.13625,1,1,0,ugm-3,hourly,32,waun
+2190,24/09/2016 05:00,24/09/2016 06:00,card,Cardiff Centre,no2,1187,14.9175,1,1,0,ugm-3,hourly,32,waun
+2191,24/09/2016 06:00,24/09/2016 07:00,card,Cardiff Centre,no2,1187,11.8575,1,1,0,ugm-3,hourly,32,waun
+2192,24/09/2016 07:00,24/09/2016 08:00,card,Cardiff Centre,no2,1187,13.77,1,1,0,ugm-3,hourly,32,waun
+2193,24/09/2016 08:00,24/09/2016 09:00,card,Cardiff Centre,no2,1187,14.1525,1,1,0,ugm-3,hourly,32,waun
+2194,24/09/2016 09:00,24/09/2016 10:00,card,Cardiff Centre,no2,1187,13.005,1,1,0,ugm-3,hourly,32,waun
+2195,24/09/2016 10:00,24/09/2016 11:00,card,Cardiff Centre,no2,1187,11.475,1,1,0,ugm-3,hourly,32,waun
+2196,24/09/2016 11:00,24/09/2016 12:00,card,Cardiff Centre,no2,1187,11.8575,1,1,0,ugm-3,hourly,32,waun
+2197,24/09/2016 12:00,24/09/2016 13:00,card,Cardiff Centre,no2,1187,15.10875,1,1,0,ugm-3,hourly,32,waun
+2198,24/09/2016 13:00,24/09/2016 14:00,card,Cardiff Centre,no2,1187,17.40375,1,1,0,ugm-3,hourly,32,waun
+2199,24/09/2016 14:00,24/09/2016 15:00,card,Cardiff Centre,no2,1187,15.10875,1,1,0,ugm-3,hourly,32,waun
+2200,24/09/2016 15:00,24/09/2016 16:00,card,Cardiff Centre,no2,1187,13.3875,1,1,0,ugm-3,hourly,32,waun
+2201,24/09/2016 16:00,24/09/2016 17:00,card,Cardiff Centre,no2,1187,12.04875,1,1,0,ugm-3,hourly,32,waun
+2202,24/09/2016 17:00,24/09/2016 18:00,card,Cardiff Centre,no2,1187,12.24,1,1,0,ugm-3,hourly,32,waun
+2203,24/09/2016 18:00,24/09/2016 19:00,card,Cardiff Centre,no2,1187,10.3275,1,1,0,ugm-3,hourly,32,waun
+2204,24/09/2016 19:00,24/09/2016 20:00,card,Cardiff Centre,no2,1187,10.90125,1,1,0,ugm-3,hourly,32,waun
+2205,24/09/2016 20:00,24/09/2016 21:00,card,Cardiff Centre,no2,1187,10.3275,1,1,0,ugm-3,hourly,32,waun
+2206,24/09/2016 21:00,24/09/2016 22:00,card,Cardiff Centre,no2,1187,12.81375,1,1,0,ugm-3,hourly,32,waun
+2207,24/09/2016 22:00,24/09/2016 23:00,card,Cardiff Centre,no2,1187,10.51875,1,1,0,ugm-3,hourly,32,waun
+2208,NA,NA,card,Cardiff Centre,no2,1187,14.1525,1,1,0,ugm-3,hourly,32,waun
+2257,23/09/2016 00:00,23/09/2016 01:00,card,Cardiff Centre,o3,1188,15.56646,1,1,0,ugm-3,hourly,35,waun
+2258,23/09/2016 01:00,23/09/2016 02:00,card,Cardiff Centre,o3,1188,9.18022,1,1,0,ugm-3,hourly,35,waun
+2259,23/09/2016 02:00,23/09/2016 03:00,card,Cardiff Centre,o3,1188,3.59226,1,1,0,ugm-3,hourly,35,waun
+2260,23/09/2016 03:00,23/09/2016 04:00,card,Cardiff Centre,o3,1188,11.9742,1,1,0,ugm-3,hourly,35,waun
+2261,23/09/2016 04:00,23/09/2016 05:00,card,Cardiff Centre,o3,1188,2.99355,1,1,0,ugm-3,hourly,35,waun
+2262,23/09/2016 05:00,23/09/2016 06:00,card,Cardiff Centre,o3,1188,2.59441,1,1,0,ugm-3,hourly,35,waun
+2263,23/09/2016 06:00,23/09/2016 07:00,card,Cardiff Centre,o3,1188,1.39699,1,1,0,ugm-3,hourly,35,waun
+2264,23/09/2016 07:00,23/09/2016 08:00,card,Cardiff Centre,o3,1188,5.78753,1,1,0,ugm-3,hourly,35,waun
+2265,23/09/2016 08:00,23/09/2016 09:00,card,Cardiff Centre,o3,1188,29.33679,1,1,0,ugm-3,hourly,35,waun
+2266,23/09/2016 09:00,23/09/2016 10:00,card,Cardiff Centre,o3,1188,53.48476,1,1,0,ugm-3,hourly,35,waun
+2267,23/09/2016 10:00,23/09/2016 11:00,card,Cardiff Centre,o3,1188,43.10712,1,1,0,ugm-3,hourly,35,waun
+2268,23/09/2016 11:00,23/09/2016 12:00,card,Cardiff Centre,o3,1188,54.68218,1,1,0,ugm-3,hourly,35,waun
+2269,23/09/2016 12:00,23/09/2016 13:00,card,Cardiff Centre,o3,1188,61.66713,1,1,0,ugm-3,hourly,35,waun
+2270,23/09/2016 13:00,23/09/2016 14:00,card,Cardiff Centre,o3,1188,57.67573,1,1,0,ugm-3,hourly,35,waun
+2271,23/09/2016 14:00,23/09/2016 15:00,card,Cardiff Centre,o3,1188,61.46756,1,1,0,ugm-3,hourly,35,waun
+2272,23/09/2016 15:00,23/09/2016 16:00,card,Cardiff Centre,o3,1188,59.67143,1,1,0,ugm-3,hourly,35,waun
+2273,23/09/2016 16:00,23/09/2016 17:00,card,Cardiff Centre,o3,1188,62.66498,1,1,0,ugm-3,hourly,35,waun
+2274,23/09/2016 17:00,23/09/2016 18:00,card,Cardiff Centre,o3,1188,59.67143,1,1,0,ugm-3,hourly,35,waun
+2275,23/09/2016 18:00,23/09/2016 19:00,card,Cardiff Centre,o3,1188,55.28089,1,1,0,ugm-3,hourly,35,waun
+2276,23/09/2016 19:00,23/09/2016 20:00,card,Cardiff Centre,o3,1188,58.47401,1,1,0,ugm-3,hourly,35,waun
+2277,23/09/2016 20:00,23/09/2016 21:00,card,Cardiff Centre,o3,1188,55.8796,1,1,0,ugm-3,hourly,35,waun
+2278,23/09/2016 21:00,23/09/2016 22:00,card,Cardiff Centre,o3,1188,50.29164,1,1,0,ugm-3,hourly,35,waun
+2279,23/09/2016 22:00,23/09/2016 23:00,card,Cardiff Centre,o3,1188,60.07057,1,1,0,ugm-3,hourly,35,waun
+2280,NA,NA,card,Cardiff Centre,o3,1188,62.06627,1,1,0,ugm-3,hourly,35,waun
+2281,24/09/2016 00:00,24/09/2016 01:00,card,Cardiff Centre,o3,1188,61.46756,1,1,0,ugm-3,hourly,35,waun
+2282,24/09/2016 01:00,24/09/2016 02:00,card,Cardiff Centre,o3,1188,65.45896,1,1,0,ugm-3,hourly,35,waun
+2283,24/09/2016 02:00,24/09/2016 03:00,card,Cardiff Centre,o3,1188,61.46756,1,1,0,ugm-3,hourly,35,waun
+2284,24/09/2016 03:00,24/09/2016 04:00,card,Cardiff Centre,o3,1188,54.28304,1,1,0,ugm-3,hourly,35,waun
+2285,24/09/2016 04:00,24/09/2016 05:00,card,Cardiff Centre,o3,1188,49.8925,1,1,0,ugm-3,hourly,35,waun
+2286,24/09/2016 05:00,24/09/2016 06:00,card,Cardiff Centre,o3,1188,44.10497,1,1,0,ugm-3,hourly,35,waun
+2287,24/09/2016 06:00,24/09/2016 07:00,card,Cardiff Centre,o3,1188,41.51056,1,1,0,ugm-3,hourly,35,waun
+2288,24/09/2016 07:00,24/09/2016 08:00,card,Cardiff Centre,o3,1188,36.72088,1,1,0,ugm-3,hourly,35,waun
+2289,24/09/2016 08:00,24/09/2016 09:00,card,Cardiff Centre,o3,1188,41.71013,1,1,0,ugm-3,hourly,35,waun
+2290,24/09/2016 09:00,24/09/2016 10:00,card,Cardiff Centre,o3,1188,51.8882,1,1,0,ugm-3,hourly,35,waun
+2291,24/09/2016 10:00,24/09/2016 11:00,card,Cardiff Centre,o3,1188,55.48046,1,1,0,ugm-3,hourly,35,waun
+2292,24/09/2016 11:00,24/09/2016 12:00,card,Cardiff Centre,o3,1188,57.07702,1,1,0,ugm-3,hourly,35,waun
+2293,24/09/2016 12:00,24/09/2016 13:00,card,Cardiff Centre,o3,1188,54.88175,1,1,0,ugm-3,hourly,35,waun
+2294,24/09/2016 13:00,24/09/2016 14:00,card,Cardiff Centre,o3,1188,52.28734,1,1,0,ugm-3,hourly,35,waun
+2295,24/09/2016 14:00,24/09/2016 15:00,card,Cardiff Centre,o3,1188,57.67573,1,1,0,ugm-3,hourly,35,waun
+2296,24/09/2016 15:00,24/09/2016 16:00,card,Cardiff Centre,o3,1188,62.26584,1,1,0,ugm-3,hourly,35,waun
+2297,24/09/2016 16:00,24/09/2016 17:00,card,Cardiff Centre,o3,1188,63.8624,1,1,0,ugm-3,hourly,35,waun
+2298,24/09/2016 17:00,24/09/2016 18:00,card,Cardiff Centre,o3,1188,61.06842,1,1,0,ugm-3,hourly,35,waun
+2299,24/09/2016 18:00,24/09/2016 19:00,card,Cardiff Centre,o3,1188,60.07057,1,1,0,ugm-3,hourly,35,waun
+2300,24/09/2016 19:00,24/09/2016 20:00,card,Cardiff Centre,o3,1188,55.48046,1,1,0,ugm-3,hourly,35,waun
+2301,24/09/2016 20:00,24/09/2016 21:00,card,Cardiff Centre,o3,1188,59.67143,1,1,0,ugm-3,hourly,35,waun
+2302,24/09/2016 21:00,24/09/2016 22:00,card,Cardiff Centre,o3,1188,49.49336,1,1,0,ugm-3,hourly,35,waun
+2303,24/09/2016 22:00,24/09/2016 23:00,card,Cardiff Centre,o3,1188,50.29164,1,1,0,ugm-3,hourly,35,waun
+2304,NA,NA,card,Cardiff Centre,o3,1188,48.49551,1,1,0,ugm-3,hourly,35,waun
+2833,23/09/2016 00:00,23/09/2016 01:00,chep,Chepstow A48,no2,1410,13.3875,1,1,0,ugm-3,hourly,32,waun
+2834,23/09/2016 01:00,23/09/2016 02:00,chep,Chepstow A48,no2,1410,26.01,1,1,0,ugm-3,hourly,32,waun
+2835,23/09/2016 02:00,23/09/2016 03:00,chep,Chepstow A48,no2,1410,26.775,1,1,0,ugm-3,hourly,32,waun
+2836,23/09/2016 03:00,23/09/2016 04:00,chep,Chepstow A48,no2,1410,28.305,1,1,0,ugm-3,hourly,32,waun
+2837,23/09/2016 04:00,23/09/2016 05:00,chep,Chepstow A48,no2,1410,30.6,1,1,0,ugm-3,hourly,32,waun
+2838,23/09/2016 05:00,23/09/2016 06:00,chep,Chepstow A48,no2,1410,59.2875,1,1,0,ugm-3,hourly,32,waun
+2839,23/09/2016 06:00,23/09/2016 07:00,chep,Chepstow A48,no2,1410,68.4675,1,1,0,ugm-3,hourly,32,waun
+2840,23/09/2016 07:00,23/09/2016 08:00,chep,Chepstow A48,no2,1410,63.30375,1,1,0,ugm-3,hourly,32,waun
+2841,23/09/2016 08:00,23/09/2016 09:00,chep,Chepstow A48,no2,1410,52.02,1,1,0,ugm-3,hourly,32,waun
+2842,23/09/2016 09:00,23/09/2016 10:00,chep,Chepstow A48,no2,1410,44.37,1,1,0,ugm-3,hourly,32,waun
+2843,23/09/2016 10:00,23/09/2016 11:00,chep,Chepstow A48,no2,1410,39.78,1,1,0,ugm-3,hourly,32,waun
+2844,23/09/2016 11:00,23/09/2016 12:00,chep,Chepstow A48,no2,1410,42.075,1,1,0,ugm-3,hourly,32,waun
+2845,23/09/2016 12:00,23/09/2016 13:00,chep,Chepstow A48,no2,1410,36.14625,1,1,0,ugm-3,hourly,32,waun
+2846,23/09/2016 13:00,23/09/2016 14:00,chep,Chepstow A48,no2,1410,46.09125,1,1,0,ugm-3,hourly,32,waun
+2847,23/09/2016 14:00,23/09/2016 15:00,chep,Chepstow A48,no2,1410,48.96,1,1,0,ugm-3,hourly,32,waun
+2848,23/09/2016 15:00,23/09/2016 16:00,chep,Chepstow A48,no2,1410,46.09125,1,1,0,ugm-3,hourly,32,waun
+2849,23/09/2016 16:00,23/09/2016 17:00,chep,Chepstow A48,no2,1410,40.545,1,1,0,ugm-3,hourly,32,waun
+2850,23/09/2016 17:00,23/09/2016 18:00,chep,Chepstow A48,no2,1410,45.70875,1,1,0,ugm-3,hourly,32,waun
+2851,23/09/2016 18:00,23/09/2016 19:00,chep,Chepstow A48,no2,1410,52.02,1,1,0,ugm-3,hourly,32,waun
+2852,23/09/2016 19:00,23/09/2016 20:00,chep,Chepstow A48,no2,1410,35.955,1,1,0,ugm-3,hourly,32,waun
+2853,23/09/2016 20:00,23/09/2016 21:00,chep,Chepstow A48,no2,1410,35.76375,1,1,0,ugm-3,hourly,32,waun
+2854,23/09/2016 21:00,23/09/2016 22:00,chep,Chepstow A48,no2,1410,46.85625,1,1,0,ugm-3,hourly,32,waun
+2855,23/09/2016 22:00,23/09/2016 23:00,chep,Chepstow A48,no2,1410,47.8125,1,1,0,ugm-3,hourly,32,waun
+2856,NA,NA,chep,Chepstow A48,no2,1410,30.9825,1,1,0,ugm-3,hourly,32,waun
+2857,24/09/2016 00:00,24/09/2016 01:00,chep,Chepstow A48,no2,1410,9.5625,1,1,0,ugm-3,hourly,32,waun
+2858,24/09/2016 01:00,24/09/2016 02:00,chep,Chepstow A48,no2,1410,11.28375,1,1,0,ugm-3,hourly,32,waun
+2859,24/09/2016 02:00,24/09/2016 03:00,chep,Chepstow A48,no2,1410,7.65,1,1,0,ugm-3,hourly,32,waun
+2860,24/09/2016 03:00,24/09/2016 04:00,chep,Chepstow A48,no2,1410,10.71,1,1,0,ugm-3,hourly,32,waun
+2861,24/09/2016 04:00,24/09/2016 05:00,chep,Chepstow A48,no2,1410,13.3875,1,1,0,ugm-3,hourly,32,waun
+2862,24/09/2016 05:00,24/09/2016 06:00,chep,Chepstow A48,no2,1410,9.945,1,1,0,ugm-3,hourly,32,waun
+2863,24/09/2016 06:00,24/09/2016 07:00,chep,Chepstow A48,no2,1410,17.02125,1,1,0,ugm-3,hourly,32,waun
+2864,24/09/2016 07:00,24/09/2016 08:00,chep,Chepstow A48,no2,1410,30.79125,1,1,0,ugm-3,hourly,32,waun
+2865,24/09/2016 08:00,24/09/2016 09:00,chep,Chepstow A48,no2,1410,31.365,1,1,0,ugm-3,hourly,32,waun
+2866,24/09/2016 09:00,24/09/2016 10:00,chep,Chepstow A48,no2,1410,28.6875,1,1,0,ugm-3,hourly,32,waun
+2867,24/09/2016 10:00,24/09/2016 11:00,chep,Chepstow A48,no2,1410,30.6,1,1,0,ugm-3,hourly,32,waun
+2868,24/09/2016 11:00,24/09/2016 12:00,chep,Chepstow A48,no2,1410,33.08625,1,1,0,ugm-3,hourly,32,waun
+2869,24/09/2016 12:00,24/09/2016 13:00,chep,Chepstow A48,no2,1410,36.14625,1,1,0,ugm-3,hourly,32,waun
+2870,24/09/2016 13:00,24/09/2016 14:00,chep,Chepstow A48,no2,1410,26.775,1,1,0,ugm-3,hourly,32,waun
+2871,24/09/2016 14:00,24/09/2016 15:00,chep,Chepstow A48,no2,1410,26.58375,1,1,0,ugm-3,hourly,32,waun
+2872,24/09/2016 15:00,24/09/2016 16:00,chep,Chepstow A48,no2,1410,31.7475,1,1,0,ugm-3,hourly,32,waun
+2873,24/09/2016 16:00,24/09/2016 17:00,chep,Chepstow A48,no2,1410,36.91125,1,1,0,ugm-3,hourly,32,waun
+2874,24/09/2016 17:00,24/09/2016 18:00,chep,Chepstow A48,no2,1410,28.6875,1,1,0,ugm-3,hourly,32,waun
+2875,24/09/2016 18:00,24/09/2016 19:00,chep,Chepstow A48,no2,1410,20.46375,1,1,0,ugm-3,hourly,32,waun
+2876,24/09/2016 19:00,24/09/2016 20:00,chep,Chepstow A48,no2,1410,17.02125,1,1,0,ugm-3,hourly,32,waun
+2877,24/09/2016 20:00,24/09/2016 21:00,chep,Chepstow A48,no2,1410,16.63875,1,1,0,ugm-3,hourly,32,waun
+2878,24/09/2016 21:00,24/09/2016 22:00,chep,Chepstow A48,no2,1410,18.36,1,1,0,ugm-3,hourly,32,waun
+2879,24/09/2016 22:00,24/09/2016 23:00,chep,Chepstow A48,no2,1410,22.95,1,1,0,ugm-3,hourly,32,waun
+2880,NA,NA,chep,Chepstow A48,no2,1410,14.72625,1,1,0,ugm-3,hourly,32,waun
+3217,23/09/2016 00:00,23/09/2016 01:00,cwmb,Cwmbran,no2,1223,19.125,1,1,0,ugm-3,hourly,32,waun
+3218,23/09/2016 01:00,23/09/2016 02:00,cwmb,Cwmbran,no2,1223,24.8625,1,1,0,ugm-3,hourly,32,waun
+3219,23/09/2016 02:00,23/09/2016 03:00,cwmb,Cwmbran,no2,1223,21.0375,1,1,0,ugm-3,hourly,32,waun
+3220,23/09/2016 03:00,23/09/2016 04:00,cwmb,Cwmbran,no2,1223,19.125,1,1,0,ugm-3,hourly,32,waun
+3221,23/09/2016 04:00,23/09/2016 05:00,cwmb,Cwmbran,no2,1223,19.125,1,1,0,ugm-3,hourly,32,waun
+3222,23/09/2016 05:00,23/09/2016 06:00,cwmb,Cwmbran,no2,1223,22.95,1,1,0,ugm-3,hourly,32,waun
+3223,23/09/2016 06:00,23/09/2016 07:00,cwmb,Cwmbran,no2,1223,26.775,1,1,0,ugm-3,hourly,32,waun
+3224,23/09/2016 07:00,23/09/2016 08:00,cwmb,Cwmbran,no2,1223,26.775,1,1,0,ugm-3,hourly,32,waun
+3225,23/09/2016 08:00,23/09/2016 09:00,cwmb,Cwmbran,no2,1223,19.125,1,1,0,ugm-3,hourly,32,waun
+3226,23/09/2016 09:00,23/09/2016 10:00,cwmb,Cwmbran,no2,1223,13.3875,1,1,0,ugm-3,hourly,32,waun
+3227,23/09/2016 10:00,23/09/2016 11:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3228,23/09/2016 11:00,23/09/2016 12:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3229,23/09/2016 12:00,23/09/2016 13:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3230,23/09/2016 13:00,23/09/2016 14:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3231,23/09/2016 14:00,23/09/2016 15:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3232,23/09/2016 15:00,23/09/2016 16:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3233,23/09/2016 16:00,23/09/2016 17:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3234,23/09/2016 17:00,23/09/2016 18:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3235,23/09/2016 18:00,23/09/2016 19:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3236,23/09/2016 19:00,23/09/2016 20:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3237,23/09/2016 20:00,23/09/2016 21:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3238,23/09/2016 21:00,23/09/2016 22:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3239,23/09/2016 22:00,23/09/2016 23:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3240,NA,NA,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3241,24/09/2016 00:00,24/09/2016 01:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3242,24/09/2016 01:00,24/09/2016 02:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3243,24/09/2016 02:00,24/09/2016 03:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3244,24/09/2016 03:00,24/09/2016 04:00,cwmb,Cwmbran,no2,1223,4.2075,1,1,0,ugm-3,hourly,32,waun
+3245,24/09/2016 04:00,24/09/2016 05:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3246,24/09/2016 05:00,24/09/2016 06:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3247,24/09/2016 06:00,24/09/2016 07:00,cwmb,Cwmbran,no2,1223,9.5625,1,1,0,ugm-3,hourly,32,waun
+3248,24/09/2016 07:00,24/09/2016 08:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3249,24/09/2016 08:00,24/09/2016 09:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3250,24/09/2016 09:00,24/09/2016 10:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3251,24/09/2016 10:00,24/09/2016 11:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3252,24/09/2016 11:00,24/09/2016 12:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3253,24/09/2016 12:00,24/09/2016 13:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3254,24/09/2016 13:00,24/09/2016 14:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3255,24/09/2016 14:00,24/09/2016 15:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3256,24/09/2016 15:00,24/09/2016 16:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3257,24/09/2016 16:00,24/09/2016 17:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3258,24/09/2016 17:00,24/09/2016 18:00,cwmb,Cwmbran,no2,1223,7.65,1,1,0,ugm-3,hourly,32,waun
+3259,24/09/2016 18:00,24/09/2016 19:00,cwmb,Cwmbran,no2,1223,3.825,1,1,0,ugm-3,hourly,32,waun
+3260,24/09/2016 19:00,24/09/2016 20:00,cwmb,Cwmbran,no2,1223,3.63375,1,1,0,ugm-3,hourly,32,waun
+3261,24/09/2016 20:00,24/09/2016 21:00,cwmb,Cwmbran,no2,1223,1.9125,1,1,0,ugm-3,hourly,32,waun
+3262,24/09/2016 21:00,24/09/2016 22:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3263,24/09/2016 22:00,24/09/2016 23:00,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3264,NA,NA,cwmb,Cwmbran,no2,1223,5.7375,1,1,0,ugm-3,hourly,32,waun
+3313,23/09/2016 00:00,23/09/2016 01:00,cwmb,Cwmbran,o3,1224,11.9742,1,1,0,ugm-3,hourly,35,waun
+3314,23/09/2016 01:00,23/09/2016 02:00,cwmb,Cwmbran,o3,1224,9.18022,1,1,0,ugm-3,hourly,35,waun
+3315,23/09/2016 02:00,23/09/2016 03:00,cwmb,Cwmbran,o3,1224,1.9957,1,1,0,ugm-3,hourly,35,waun
+3316,23/09/2016 03:00,23/09/2016 04:00,cwmb,Cwmbran,o3,1224,0,1,1,0,ugm-3,hourly,35,waun
+3317,23/09/2016 04:00,23/09/2016 05:00,cwmb,Cwmbran,o3,1224,0,1,1,0,ugm-3,hourly,35,waun
+3318,23/09/2016 05:00,23/09/2016 06:00,cwmb,Cwmbran,o3,1224,0,1,1,0,ugm-3,hourly,35,waun
+3319,23/09/2016 06:00,23/09/2016 07:00,cwmb,Cwmbran,o3,1224,0,1,1,0,ugm-3,hourly,35,waun
+3320,23/09/2016 07:00,23/09/2016 08:00,cwmb,Cwmbran,o3,1224,1.59656,1,1,0,ugm-3,hourly,35,waun
+3321,23/09/2016 08:00,23/09/2016 09:00,cwmb,Cwmbran,o3,1224,19.75743,1,1,0,ugm-3,hourly,35,waun
+3322,23/09/2016 09:00,23/09/2016 10:00,cwmb,Cwmbran,o3,1224,30.53421,1,1,0,ugm-3,hourly,35,waun
+3323,23/09/2016 10:00,23/09/2016 11:00,cwmb,Cwmbran,o3,1224,45.50196,1,1,0,ugm-3,hourly,35,waun
+3324,23/09/2016 11:00,23/09/2016 12:00,cwmb,Cwmbran,o3,1224,49.09422,1,1,0,ugm-3,hourly,35,waun
+3325,23/09/2016 12:00,23/09/2016 13:00,cwmb,Cwmbran,o3,1224,54.08347,1,1,0,ugm-3,hourly,35,waun
+3326,23/09/2016 13:00,23/09/2016 14:00,cwmb,Cwmbran,o3,1224,59.871,1,1,0,ugm-3,hourly,35,waun
+3327,23/09/2016 14:00,23/09/2016 15:00,cwmb,Cwmbran,o3,1224,60.66928,1,1,0,ugm-3,hourly,35,waun
+3328,23/09/2016 15:00,23/09/2016 16:00,cwmb,Cwmbran,o3,1224,61.66713,1,1,0,ugm-3,hourly,35,waun
+3329,23/09/2016 16:00,23/09/2016 17:00,cwmb,Cwmbran,o3,1224,61.46756,1,1,0,ugm-3,hourly,35,waun
+3330,23/09/2016 17:00,23/09/2016 18:00,cwmb,Cwmbran,o3,1224,59.27229,1,1,0,ugm-3,hourly,35,waun
+3331,23/09/2016 18:00,23/09/2016 19:00,cwmb,Cwmbran,o3,1224,56.87745,1,1,0,ugm-3,hourly,35,waun
+3332,23/09/2016 19:00,23/09/2016 20:00,cwmb,Cwmbran,o3,1224,55.08132,1,1,0,ugm-3,hourly,35,waun
+3333,23/09/2016 20:00,23/09/2016 21:00,cwmb,Cwmbran,o3,1224,55.48046,1,1,0,ugm-3,hourly,35,waun
+3334,23/09/2016 21:00,23/09/2016 22:00,cwmb,Cwmbran,o3,1224,52.88605,1,1,0,ugm-3,hourly,35,waun
+3335,23/09/2016 22:00,23/09/2016 23:00,cwmb,Cwmbran,o3,1224,47.8968,1,1,0,ugm-3,hourly,35,waun
+3336,NA,NA,cwmb,Cwmbran,o3,1224,43.30669,1,1,0,ugm-3,hourly,35,waun
+3337,24/09/2016 00:00,24/09/2016 01:00,cwmb,Cwmbran,o3,1224,49.8925,1,1,0,ugm-3,hourly,35,waun
+3338,24/09/2016 01:00,24/09/2016 02:00,cwmb,Cwmbran,o3,1224,54.28304,1,1,0,ugm-3,hourly,35,waun
+3339,24/09/2016 02:00,24/09/2016 03:00,cwmb,Cwmbran,o3,1224,53.8839,1,1,0,ugm-3,hourly,35,waun
+3340,24/09/2016 03:00,24/09/2016 04:00,cwmb,Cwmbran,o3,1224,45.9011,1,1,0,ugm-3,hourly,35,waun
+3341,24/09/2016 04:00,24/09/2016 05:00,cwmb,Cwmbran,o3,1224,41.9097,1,1,0,ugm-3,hourly,35,waun
+3342,24/09/2016 05:00,24/09/2016 06:00,cwmb,Cwmbran,o3,1224,38.91615,1,1,0,ugm-3,hourly,35,waun
+3343,24/09/2016 06:00,24/09/2016 07:00,cwmb,Cwmbran,o3,1224,34.32604,1,1,0,ugm-3,hourly,35,waun
+3344,24/09/2016 07:00,24/09/2016 08:00,cwmb,Cwmbran,o3,1224,33.52776,1,1,0,ugm-3,hourly,35,waun
+3345,24/09/2016 08:00,24/09/2016 09:00,cwmb,Cwmbran,o3,1224,39.71443,1,1,0,ugm-3,hourly,35,waun
+3346,24/09/2016 09:00,24/09/2016 10:00,cwmb,Cwmbran,o3,1224,47.69723,1,1,0,ugm-3,hourly,35,waun
+3347,24/09/2016 10:00,24/09/2016 11:00,cwmb,Cwmbran,o3,1224,53.28519,1,1,0,ugm-3,hourly,35,waun
+3348,24/09/2016 11:00,24/09/2016 12:00,cwmb,Cwmbran,o3,1224,55.28089,1,1,0,ugm-3,hourly,35,waun
+3349,24/09/2016 12:00,24/09/2016 13:00,cwmb,Cwmbran,o3,1224,57.07702,1,1,0,ugm-3,hourly,35,waun
+3350,24/09/2016 13:00,24/09/2016 14:00,cwmb,Cwmbran,o3,1224,59.07272,1,1,0,ugm-3,hourly,35,waun
+3351,24/09/2016 14:00,24/09/2016 15:00,cwmb,Cwmbran,o3,1224,61.46756,1,1,0,ugm-3,hourly,35,waun
+3352,24/09/2016 15:00,24/09/2016 16:00,cwmb,Cwmbran,o3,1224,61.8667,1,1,0,ugm-3,hourly,35,waun
+3353,24/09/2016 16:00,24/09/2016 17:00,cwmb,Cwmbran,o3,1224,63.66283,1,1,0,ugm-3,hourly,35,waun
+3354,24/09/2016 17:00,24/09/2016 18:00,cwmb,Cwmbran,o3,1224,62.26584,1,1,0,ugm-3,hourly,35,waun
+3355,24/09/2016 18:00,24/09/2016 19:00,cwmb,Cwmbran,o3,1224,59.871,1,1,0,ugm-3,hourly,35,waun
+3356,24/09/2016 19:00,24/09/2016 20:00,cwmb,Cwmbran,o3,1224,55.68003,1,1,0,ugm-3,hourly,35,waun
+3357,24/09/2016 20:00,24/09/2016 21:00,cwmb,Cwmbran,o3,1224,52.68648,1,1,0,ugm-3,hourly,35,waun
+3358,24/09/2016 21:00,24/09/2016 22:00,cwmb,Cwmbran,o3,1224,47.8968,1,1,0,ugm-3,hourly,35,waun
+3359,24/09/2016 22:00,24/09/2016 23:00,cwmb,Cwmbran,o3,1224,45.9011,1,1,0,ugm-3,hourly,35,waun
+3360,NA,NA,cwmb,Cwmbran,o3,1224,46.49981,1,1,0,ugm-3,hourly,35,waun
+3505,23/09/2016 00:00,23/09/2016 01:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3506,23/09/2016 01:00,23/09/2016 02:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,19.125,1,1,0,ugm-3,hourly,32,waun
+3507,23/09/2016 02:00,23/09/2016 03:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3508,23/09/2016 03:00,23/09/2016 04:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3509,23/09/2016 04:00,23/09/2016 05:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,24.8625,1,1,0,ugm-3,hourly,32,waun
+3510,23/09/2016 05:00,23/09/2016 06:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,30.6,1,1,0,ugm-3,hourly,32,waun
+3511,23/09/2016 06:00,23/09/2016 07:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,34.425,1,1,0,ugm-3,hourly,32,waun
+3512,23/09/2016 07:00,23/09/2016 08:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,38.25,1,1,0,ugm-3,hourly,32,waun
+3513,23/09/2016 08:00,23/09/2016 09:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,21.0375,1,1,0,ugm-3,hourly,32,waun
+3514,23/09/2016 09:00,23/09/2016 10:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3515,23/09/2016 10:00,23/09/2016 11:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3516,23/09/2016 11:00,23/09/2016 12:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3517,23/09/2016 12:00,23/09/2016 13:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3518,23/09/2016 13:00,23/09/2016 14:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,9.5625,1,1,0,ugm-3,hourly,32,waun
+3519,23/09/2016 14:00,23/09/2016 15:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3520,23/09/2016 15:00,23/09/2016 16:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3521,23/09/2016 16:00,23/09/2016 17:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3522,23/09/2016 17:00,23/09/2016 18:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3523,23/09/2016 18:00,23/09/2016 19:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3524,23/09/2016 19:00,23/09/2016 20:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3525,23/09/2016 20:00,23/09/2016 21:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3526,23/09/2016 21:00,23/09/2016 22:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3527,23/09/2016 22:00,23/09/2016 23:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3528,NA,NA,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3529,24/09/2016 00:00,24/09/2016 01:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3530,24/09/2016 01:00,24/09/2016 02:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,3.825,1,1,0,ugm-3,hourly,32,waun
+3531,24/09/2016 02:00,24/09/2016 03:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,3.825,1,1,0,ugm-3,hourly,32,waun
+3532,24/09/2016 03:00,24/09/2016 04:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,3.825,1,1,0,ugm-3,hourly,32,waun
+3533,24/09/2016 04:00,24/09/2016 05:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3534,24/09/2016 05:00,24/09/2016 06:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3535,24/09/2016 06:00,24/09/2016 07:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3536,24/09/2016 07:00,24/09/2016 08:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3537,24/09/2016 08:00,24/09/2016 09:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,11.475,1,1,0,ugm-3,hourly,32,waun
+3538,24/09/2016 09:00,24/09/2016 10:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,9.5625,1,1,0,ugm-3,hourly,32,waun
+3539,24/09/2016 10:00,24/09/2016 11:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3540,24/09/2016 11:00,24/09/2016 12:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3541,24/09/2016 12:00,24/09/2016 13:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,17.2125,1,1,0,ugm-3,hourly,32,waun
+3542,24/09/2016 13:00,24/09/2016 14:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,15.3,1,1,0,ugm-3,hourly,32,waun
+3543,24/09/2016 14:00,24/09/2016 15:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,13.3875,1,1,0,ugm-3,hourly,32,waun
+3544,24/09/2016 15:00,24/09/2016 16:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,9.5625,1,1,0,ugm-3,hourly,32,waun
+3545,24/09/2016 16:00,24/09/2016 17:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3546,24/09/2016 17:00,24/09/2016 18:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3547,24/09/2016 18:00,24/09/2016 19:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3548,24/09/2016 19:00,24/09/2016 20:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3549,24/09/2016 20:00,24/09/2016 21:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3550,24/09/2016 21:00,24/09/2016 22:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,5.7375,1,1,0,ugm-3,hourly,32,waun
+3551,24/09/2016 22:00,24/09/2016 23:00,glm8,V Glamorgan Windsor Road Penarth,no2,3157,9.5625,1,1,0,ugm-3,hourly,32,waun
+3552,NA,NA,glm8,V Glamorgan Windsor Road Penarth,no2,3157,7.65,1,1,0,ugm-3,hourly,32,waun
+3649,23/09/2016 00:00,23/09/2016 01:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,31.9312,1,1,0,ugm-3,hourly,35,waun
+3650,23/09/2016 01:00,23/09/2016 02:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,17.9613,1,1,0,ugm-3,hourly,35,waun
+3651,23/09/2016 02:00,23/09/2016 03:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,15.9656,1,1,0,ugm-3,hourly,35,waun
+3652,23/09/2016 03:00,23/09/2016 04:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,15.9656,1,1,0,ugm-3,hourly,35,waun
+3653,23/09/2016 04:00,23/09/2016 05:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,1.9957,1,1,0,ugm-3,hourly,35,waun
+3654,23/09/2016 05:00,23/09/2016 06:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,0,1,1,0,ugm-3,hourly,35,waun
+3655,23/09/2016 06:00,23/09/2016 07:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,0,1,1,0,ugm-3,hourly,35,waun
+3656,23/09/2016 07:00,23/09/2016 08:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,9.9785,1,1,0,ugm-3,hourly,35,waun
+3657,23/09/2016 08:00,23/09/2016 09:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,37.9183,1,1,0,ugm-3,hourly,35,waun
+3658,23/09/2016 09:00,23/09/2016 10:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,53.8839,1,1,0,ugm-3,hourly,35,waun
+3659,23/09/2016 10:00,23/09/2016 11:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,53.8839,1,1,0,ugm-3,hourly,35,waun
+3660,23/09/2016 11:00,23/09/2016 12:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3661,23/09/2016 12:00,23/09/2016 13:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,59.871,1,1,0,ugm-3,hourly,35,waun
+3662,23/09/2016 13:00,23/09/2016 14:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3663,23/09/2016 14:00,23/09/2016 15:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3664,23/09/2016 15:00,23/09/2016 16:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,65.8581,1,1,0,ugm-3,hourly,35,waun
+3665,23/09/2016 16:00,23/09/2016 17:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,63.8624,1,1,0,ugm-3,hourly,35,waun
+3666,23/09/2016 17:00,23/09/2016 18:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,63.8624,1,1,0,ugm-3,hourly,35,waun
+3667,23/09/2016 18:00,23/09/2016 19:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,59.871,1,1,0,ugm-3,hourly,35,waun
+3668,23/09/2016 19:00,23/09/2016 20:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,63.8624,1,1,0,ugm-3,hourly,35,waun
+3669,23/09/2016 20:00,23/09/2016 21:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3670,23/09/2016 21:00,23/09/2016 22:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3671,23/09/2016 22:00,23/09/2016 23:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3672,NA,NA,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3673,24/09/2016 00:00,24/09/2016 01:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3674,24/09/2016 01:00,24/09/2016 02:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,59.871,1,1,0,ugm-3,hourly,35,waun
+3675,24/09/2016 02:00,24/09/2016 03:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3676,24/09/2016 03:00,24/09/2016 04:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,51.8882,1,1,0,ugm-3,hourly,35,waun
+3677,24/09/2016 04:00,24/09/2016 05:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,45.9011,1,1,0,ugm-3,hourly,35,waun
+3678,24/09/2016 05:00,24/09/2016 06:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,43.9054,1,1,0,ugm-3,hourly,35,waun
+3679,24/09/2016 06:00,24/09/2016 07:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,39.914,1,1,0,ugm-3,hourly,35,waun
+3680,24/09/2016 07:00,24/09/2016 08:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,41.9097,1,1,0,ugm-3,hourly,35,waun
+3681,24/09/2016 08:00,24/09/2016 09:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,39.914,1,1,0,ugm-3,hourly,35,waun
+3682,24/09/2016 09:00,24/09/2016 10:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,47.8968,1,1,0,ugm-3,hourly,35,waun
+3683,24/09/2016 10:00,24/09/2016 11:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,53.8839,1,1,0,ugm-3,hourly,35,waun
+3684,24/09/2016 11:00,24/09/2016 12:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,53.8839,1,1,0,ugm-3,hourly,35,waun
+3685,24/09/2016 12:00,24/09/2016 13:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,47.8968,1,1,0,ugm-3,hourly,35,waun
+3686,24/09/2016 13:00,24/09/2016 14:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,51.8882,1,1,0,ugm-3,hourly,35,waun
+3687,24/09/2016 14:00,24/09/2016 15:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,57.8753,1,1,0,ugm-3,hourly,35,waun
+3688,24/09/2016 15:00,24/09/2016 16:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3689,24/09/2016 16:00,24/09/2016 17:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,61.8667,1,1,0,ugm-3,hourly,35,waun
+3690,24/09/2016 17:00,24/09/2016 18:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,59.871,1,1,0,ugm-3,hourly,35,waun
+3691,24/09/2016 18:00,24/09/2016 19:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,57.8753,1,1,0,ugm-3,hourly,35,waun
+3692,24/09/2016 19:00,24/09/2016 20:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,51.8882,1,1,0,ugm-3,hourly,35,waun
+3693,24/09/2016 20:00,24/09/2016 21:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,55.8796,1,1,0,ugm-3,hourly,35,waun
+3694,24/09/2016 21:00,24/09/2016 22:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,45.9011,1,1,0,ugm-3,hourly,35,waun
+3695,24/09/2016 22:00,24/09/2016 23:00,glm8,V Glamorgan Windsor Road Penarth,o3,3159,41.9097,1,1,0,ugm-3,hourly,35,waun
+3696,NA,NA,glm8,V Glamorgan Windsor Road Penarth,o3,3159,47.8968,1,1,0,ugm-3,hourly,35,waun
+3711,23/09/2016 00:00,23/09/2016 01:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3712,23/09/2016 01:00,23/09/2016 02:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3713,23/09/2016 02:00,23/09/2016 03:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3714,23/09/2016 03:00,23/09/2016 04:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3715,23/09/2016 04:00,23/09/2016 05:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3716,23/09/2016 05:00,23/09/2016 06:00,mawr,Marchlyn Mawr,no2,1277,0,1,1,0,ugm-3,hourly,74,warn
+3717,23/09/2016 06:00,23/09/2016 07:00,mawr,Marchlyn Mawr,no2,1277,NA,1,1,0,ugm-3,hourly,74,warn
+3718,23/09/2016 00:00,23/09/2016 01:00,mawr,Marchlyn Mawr,o3,1278,65.8581,1,1,0,ugm-3,hourly,77,warn
+3719,23/09/2016 01:00,23/09/2016 02:00,mawr,Marchlyn Mawr,o3,1278,61.8667,1,1,0,ugm-3,hourly,77,warn
+3720,23/09/2016 02:00,23/09/2016 03:00,mawr,Marchlyn Mawr,o3,1278,61.8667,1,1,0,ugm-3,hourly,77,warn
+3721,23/09/2016 03:00,23/09/2016 04:00,mawr,Marchlyn Mawr,o3,1278,61.8667,1,1,0,ugm-3,hourly,77,warn
+3722,23/09/2016 04:00,23/09/2016 05:00,mawr,Marchlyn Mawr,o3,1278,67.8538,1,1,0,ugm-3,hourly,77,warn
+3723,23/09/2016 05:00,23/09/2016 06:00,mawr,Marchlyn Mawr,o3,1278,69.8495,1,1,0,ugm-3,hourly,77,warn
+3724,23/09/2016 06:00,23/09/2016 07:00,mawr,Marchlyn Mawr,o3,1278,NA,1,1,0,ugm-3,hourly,77,warn
+4013,23/09/2016 00:00,23/09/2016 01:00,npt1,Newport St Julians Comp School,no2,1238,26.775,1,1,0,ugm-3,hourly,32,waun
+4014,23/09/2016 01:00,23/09/2016 02:00,npt1,Newport St Julians Comp School,no2,1238,38.25,1,1,0,ugm-3,hourly,32,waun
+4015,23/09/2016 02:00,23/09/2016 03:00,npt1,Newport St Julians Comp School,no2,1238,32.5125,1,1,0,ugm-3,hourly,32,waun
+4016,23/09/2016 03:00,23/09/2016 04:00,npt1,Newport St Julians Comp School,no2,1238,24.8625,1,1,0,ugm-3,hourly,32,waun
+4017,23/09/2016 04:00,23/09/2016 05:00,npt1,Newport St Julians Comp School,no2,1238,26.775,1,1,0,ugm-3,hourly,32,waun
+4018,23/09/2016 05:00,23/09/2016 06:00,npt1,Newport St Julians Comp School,no2,1238,32.5125,1,1,0,ugm-3,hourly,32,waun
+4019,23/09/2016 06:00,23/09/2016 07:00,npt1,Newport St Julians Comp School,no2,1238,40.1625,1,1,0,ugm-3,hourly,32,waun
+4020,23/09/2016 07:00,23/09/2016 08:00,npt1,Newport St Julians Comp School,no2,1238,40.1625,1,1,0,ugm-3,hourly,32,waun
+4021,23/09/2016 08:00,23/09/2016 09:00,npt1,Newport St Julians Comp School,no2,1238,32.5125,1,1,0,ugm-3,hourly,32,waun
+4022,23/09/2016 09:00,23/09/2016 10:00,npt1,Newport St Julians Comp School,no2,1238,11.475,1,1,0,ugm-3,hourly,32,waun
+4023,23/09/2016 10:00,23/09/2016 11:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4024,23/09/2016 11:00,23/09/2016 12:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4025,23/09/2016 12:00,23/09/2016 13:00,npt1,Newport St Julians Comp School,no2,1238,3.825,1,1,0,ugm-3,hourly,32,waun
+4026,23/09/2016 13:00,23/09/2016 14:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4027,23/09/2016 14:00,23/09/2016 15:00,npt1,Newport St Julians Comp School,no2,1238,9.5625,1,1,0,ugm-3,hourly,32,waun
+4028,23/09/2016 15:00,23/09/2016 16:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4029,23/09/2016 16:00,23/09/2016 17:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4030,23/09/2016 17:00,23/09/2016 18:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4031,23/09/2016 18:00,23/09/2016 19:00,npt1,Newport St Julians Comp School,no2,1238,9.5625,1,1,0,ugm-3,hourly,32,waun
+4032,23/09/2016 19:00,23/09/2016 20:00,npt1,Newport St Julians Comp School,no2,1238,11.475,1,1,0,ugm-3,hourly,32,waun
+4033,23/09/2016 20:00,23/09/2016 21:00,npt1,Newport St Julians Comp School,no2,1238,9.5625,1,1,0,ugm-3,hourly,32,waun
+4034,23/09/2016 21:00,23/09/2016 22:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4035,23/09/2016 22:00,23/09/2016 23:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4036,NA,NA,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4037,24/09/2016 00:00,24/09/2016 01:00,npt1,Newport St Julians Comp School,no2,1238,3.825,1,1,0,ugm-3,hourly,32,waun
+4038,24/09/2016 01:00,24/09/2016 02:00,npt1,Newport St Julians Comp School,no2,1238,9.5625,1,1,0,ugm-3,hourly,32,waun
+4039,24/09/2016 02:00,24/09/2016 03:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4040,24/09/2016 03:00,24/09/2016 04:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4041,24/09/2016 04:00,24/09/2016 05:00,npt1,Newport St Julians Comp School,no2,1238,3.825,1,1,0,ugm-3,hourly,32,waun
+4042,24/09/2016 05:00,24/09/2016 06:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4043,24/09/2016 06:00,24/09/2016 07:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4044,24/09/2016 07:00,24/09/2016 08:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4045,24/09/2016 08:00,24/09/2016 09:00,npt1,Newport St Julians Comp School,no2,1238,15.3,1,1,0,ugm-3,hourly,32,waun
+4046,24/09/2016 09:00,24/09/2016 10:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4047,24/09/2016 10:00,24/09/2016 11:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4048,24/09/2016 11:00,24/09/2016 12:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4049,24/09/2016 12:00,24/09/2016 13:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4050,24/09/2016 13:00,24/09/2016 14:00,npt1,Newport St Julians Comp School,no2,1238,11.475,1,1,0,ugm-3,hourly,32,waun
+4051,24/09/2016 14:00,24/09/2016 15:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4052,24/09/2016 15:00,24/09/2016 16:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4053,24/09/2016 16:00,24/09/2016 17:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4054,24/09/2016 17:00,24/09/2016 18:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4055,24/09/2016 18:00,24/09/2016 19:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4056,24/09/2016 19:00,24/09/2016 20:00,npt1,Newport St Julians Comp School,no2,1238,3.825,1,1,0,ugm-3,hourly,32,waun
+4057,24/09/2016 20:00,24/09/2016 21:00,npt1,Newport St Julians Comp School,no2,1238,1.9125,1,1,0,ugm-3,hourly,32,waun
+4058,24/09/2016 21:00,24/09/2016 22:00,npt1,Newport St Julians Comp School,no2,1238,5.7375,1,1,0,ugm-3,hourly,32,waun
+4059,24/09/2016 22:00,24/09/2016 23:00,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4060,NA,NA,npt1,Newport St Julians Comp School,no2,1238,7.65,1,1,0,ugm-3,hourly,32,waun
+4205,23/09/2016 00:00,23/09/2016 01:00,npt4,Newport M4 Junction 25,no2,2706,26.775,1,1,0,ugm-3,hourly,32,waun
+4206,23/09/2016 01:00,23/09/2016 02:00,npt4,Newport M4 Junction 25,no2,2706,30.6,1,1,0,ugm-3,hourly,32,waun
+4207,23/09/2016 02:00,23/09/2016 03:00,npt4,Newport M4 Junction 25,no2,2706,30.6,1,1,0,ugm-3,hourly,32,waun
+4208,23/09/2016 03:00,23/09/2016 04:00,npt4,Newport M4 Junction 25,no2,2706,21.0375,1,1,0,ugm-3,hourly,32,waun
+4209,23/09/2016 04:00,23/09/2016 05:00,npt4,Newport M4 Junction 25,no2,2706,17.2125,1,1,0,ugm-3,hourly,32,waun
+4210,23/09/2016 05:00,23/09/2016 06:00,npt4,Newport M4 Junction 25,no2,2706,34.425,1,1,0,ugm-3,hourly,32,waun
+4211,23/09/2016 06:00,23/09/2016 07:00,npt4,Newport M4 Junction 25,no2,2706,42.075,1,1,0,ugm-3,hourly,32,waun
+4212,23/09/2016 07:00,23/09/2016 08:00,npt4,Newport M4 Junction 25,no2,2706,57.375,1,1,0,ugm-3,hourly,32,waun
+4213,23/09/2016 08:00,23/09/2016 09:00,npt4,Newport M4 Junction 25,no2,2706,61.2,1,1,0,ugm-3,hourly,32,waun
+4214,23/09/2016 09:00,23/09/2016 10:00,npt4,Newport M4 Junction 25,no2,2706,53.55,1,1,0,ugm-3,hourly,32,waun
+4215,23/09/2016 10:00,23/09/2016 11:00,npt4,Newport M4 Junction 25,no2,2706,47.8125,1,1,0,ugm-3,hourly,32,waun
+4216,23/09/2016 11:00,23/09/2016 12:00,npt4,Newport M4 Junction 25,no2,2706,45.9,1,1,0,ugm-3,hourly,32,waun
+4217,23/09/2016 12:00,23/09/2016 13:00,npt4,Newport M4 Junction 25,no2,2706,43.9875,1,1,0,ugm-3,hourly,32,waun
+4218,23/09/2016 13:00,23/09/2016 14:00,npt4,Newport M4 Junction 25,no2,2706,51.6375,1,1,0,ugm-3,hourly,32,waun
+4219,23/09/2016 14:00,23/09/2016 15:00,npt4,Newport M4 Junction 25,no2,2706,61.2,1,1,0,ugm-3,hourly,32,waun
+4220,23/09/2016 15:00,23/09/2016 16:00,npt4,Newport M4 Junction 25,no2,2706,55.4625,1,1,0,ugm-3,hourly,32,waun
+4221,23/09/2016 16:00,23/09/2016 17:00,npt4,Newport M4 Junction 25,no2,2706,57.375,1,1,0,ugm-3,hourly,32,waun
+4222,23/09/2016 17:00,23/09/2016 18:00,npt4,Newport M4 Junction 25,no2,2706,57.375,1,1,0,ugm-3,hourly,32,waun
+4223,23/09/2016 18:00,23/09/2016 19:00,npt4,Newport M4 Junction 25,no2,2706,53.55,1,1,0,ugm-3,hourly,32,waun
+4224,23/09/2016 19:00,23/09/2016 20:00,npt4,Newport M4 Junction 25,no2,2706,55.4625,1,1,0,ugm-3,hourly,32,waun
+4225,23/09/2016 20:00,23/09/2016 21:00,npt4,Newport M4 Junction 25,no2,2706,36.3375,1,1,0,ugm-3,hourly,32,waun
+4226,23/09/2016 21:00,23/09/2016 22:00,npt4,Newport M4 Junction 25,no2,2706,30.6,1,1,0,ugm-3,hourly,32,waun
+4227,23/09/2016 22:00,23/09/2016 23:00,npt4,Newport M4 Junction 25,no2,2706,19.125,1,1,0,ugm-3,hourly,32,waun
+4228,NA,NA,npt4,Newport M4 Junction 25,no2,2706,24.8625,1,1,0,ugm-3,hourly,32,waun
+4229,24/09/2016 00:00,24/09/2016 01:00,npt4,Newport M4 Junction 25,no2,2706,11.475,1,1,0,ugm-3,hourly,32,waun
+4230,24/09/2016 01:00,24/09/2016 02:00,npt4,Newport M4 Junction 25,no2,2706,7.65,1,1,0,ugm-3,hourly,32,waun
+4231,24/09/2016 02:00,24/09/2016 03:00,npt4,Newport M4 Junction 25,no2,2706,11.475,1,1,0,ugm-3,hourly,32,waun
+4232,24/09/2016 03:00,24/09/2016 04:00,npt4,Newport M4 Junction 25,no2,2706,19.125,1,1,0,ugm-3,hourly,32,waun
+4233,24/09/2016 04:00,24/09/2016 05:00,npt4,Newport M4 Junction 25,no2,2706,26.775,1,1,0,ugm-3,hourly,32,waun
+4234,24/09/2016 05:00,24/09/2016 06:00,npt4,Newport M4 Junction 25,no2,2706,32.5125,1,1,0,ugm-3,hourly,32,waun
+4235,24/09/2016 06:00,24/09/2016 07:00,npt4,Newport M4 Junction 25,no2,2706,38.25,1,1,0,ugm-3,hourly,32,waun
+4236,24/09/2016 07:00,24/09/2016 08:00,npt4,Newport M4 Junction 25,no2,2706,38.25,1,1,0,ugm-3,hourly,32,waun
+4237,24/09/2016 08:00,24/09/2016 09:00,npt4,Newport M4 Junction 25,no2,2706,42.075,1,1,0,ugm-3,hourly,32,waun
+4238,24/09/2016 09:00,24/09/2016 10:00,npt4,Newport M4 Junction 25,no2,2706,43.9875,1,1,0,ugm-3,hourly,32,waun
+4239,24/09/2016 10:00,24/09/2016 11:00,npt4,Newport M4 Junction 25,no2,2706,43.9875,1,1,0,ugm-3,hourly,32,waun
+4240,24/09/2016 11:00,24/09/2016 12:00,npt4,Newport M4 Junction 25,no2,2706,47.8125,1,1,0,ugm-3,hourly,32,waun
+4241,24/09/2016 12:00,24/09/2016 13:00,npt4,Newport M4 Junction 25,no2,2706,61.2,1,1,0,ugm-3,hourly,32,waun
+4242,24/09/2016 13:00,24/09/2016 14:00,npt4,Newport M4 Junction 25,no2,2706,42.075,1,1,0,ugm-3,hourly,32,waun
+4243,24/09/2016 14:00,24/09/2016 15:00,npt4,Newport M4 Junction 25,no2,2706,40.1625,1,1,0,ugm-3,hourly,32,waun
+4244,24/09/2016 15:00,24/09/2016 16:00,npt4,Newport M4 Junction 25,no2,2706,42.075,1,1,0,ugm-3,hourly,32,waun
+4245,24/09/2016 16:00,24/09/2016 17:00,npt4,Newport M4 Junction 25,no2,2706,47.8125,1,1,0,ugm-3,hourly,32,waun
+4246,24/09/2016 17:00,24/09/2016 18:00,npt4,Newport M4 Junction 25,no2,2706,47.8125,1,1,0,ugm-3,hourly,32,waun
+4247,24/09/2016 18:00,24/09/2016 19:00,npt4,Newport M4 Junction 25,no2,2706,42.075,1,1,0,ugm-3,hourly,32,waun
+4248,24/09/2016 19:00,24/09/2016 20:00,npt4,Newport M4 Junction 25,no2,2706,26.775,1,1,0,ugm-3,hourly,32,waun
+4249,24/09/2016 20:00,24/09/2016 21:00,npt4,Newport M4 Junction 25,no2,2706,24.8625,1,1,0,ugm-3,hourly,32,waun
+4250,24/09/2016 21:00,24/09/2016 22:00,npt4,Newport M4 Junction 25,no2,2706,32.5125,1,1,0,ugm-3,hourly,32,waun
+4251,24/09/2016 22:00,24/09/2016 23:00,npt4,Newport M4 Junction 25,no2,2706,26.775,1,1,0,ugm-3,hourly,32,waun
+4252,NA,NA,npt4,Newport M4 Junction 25,no2,2706,19.125,1,1,0,ugm-3,hourly,32,waun
+4301,23/09/2016 00:00,23/09/2016 01:00,npt4,Newport M4 Junction 25,o3,2708,9.9785,1,1,0,ugm-3,hourly,35,waun
+4302,23/09/2016 01:00,23/09/2016 02:00,npt4,Newport M4 Junction 25,o3,2708,3.9914,1,1,0,ugm-3,hourly,35,waun
+4303,23/09/2016 02:00,23/09/2016 03:00,npt4,Newport M4 Junction 25,o3,2708,1.9957,1,1,0,ugm-3,hourly,35,waun
+4304,23/09/2016 03:00,23/09/2016 04:00,npt4,Newport M4 Junction 25,o3,2708,1.9957,1,1,0,ugm-3,hourly,35,waun
+4305,23/09/2016 04:00,23/09/2016 05:00,npt4,Newport M4 Junction 25,o3,2708,3.9914,1,1,0,ugm-3,hourly,35,waun
+4306,23/09/2016 05:00,23/09/2016 06:00,npt4,Newport M4 Junction 25,o3,2708,3.9914,1,1,0,ugm-3,hourly,35,waun
+4307,23/09/2016 06:00,23/09/2016 07:00,npt4,Newport M4 Junction 25,o3,2708,1.9957,1,1,0,ugm-3,hourly,35,waun
+4308,23/09/2016 07:00,23/09/2016 08:00,npt4,Newport M4 Junction 25,o3,2708,1.9957,1,1,0,ugm-3,hourly,35,waun
+4309,23/09/2016 08:00,23/09/2016 09:00,npt4,Newport M4 Junction 25,o3,2708,5.9871,1,1,0,ugm-3,hourly,35,waun
+4310,23/09/2016 09:00,23/09/2016 10:00,npt4,Newport M4 Junction 25,o3,2708,19.957,1,1,0,ugm-3,hourly,35,waun
+4311,23/09/2016 10:00,23/09/2016 11:00,npt4,Newport M4 Junction 25,o3,2708,31.9312,1,1,0,ugm-3,hourly,35,waun
+4312,23/09/2016 11:00,23/09/2016 12:00,npt4,Newport M4 Junction 25,o3,2708,35.9226,1,1,0,ugm-3,hourly,35,waun
+4313,23/09/2016 12:00,23/09/2016 13:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4314,23/09/2016 13:00,23/09/2016 14:00,npt4,Newport M4 Junction 25,o3,2708,41.9097,1,1,0,ugm-3,hourly,35,waun
+4315,23/09/2016 14:00,23/09/2016 15:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4316,23/09/2016 15:00,23/09/2016 16:00,npt4,Newport M4 Junction 25,o3,2708,41.9097,1,1,0,ugm-3,hourly,35,waun
+4317,23/09/2016 16:00,23/09/2016 17:00,npt4,Newport M4 Junction 25,o3,2708,47.8968,1,1,0,ugm-3,hourly,35,waun
+4318,23/09/2016 17:00,23/09/2016 18:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4319,23/09/2016 18:00,23/09/2016 19:00,npt4,Newport M4 Junction 25,o3,2708,43.9054,1,1,0,ugm-3,hourly,35,waun
+4320,23/09/2016 19:00,23/09/2016 20:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4321,23/09/2016 20:00,23/09/2016 21:00,npt4,Newport M4 Junction 25,o3,2708,51.8882,1,1,0,ugm-3,hourly,35,waun
+4322,23/09/2016 21:00,23/09/2016 22:00,npt4,Newport M4 Junction 25,o3,2708,51.8882,1,1,0,ugm-3,hourly,35,waun
+4323,23/09/2016 22:00,23/09/2016 23:00,npt4,Newport M4 Junction 25,o3,2708,57.8753,1,1,0,ugm-3,hourly,35,waun
+4324,NA,NA,npt4,Newport M4 Junction 25,o3,2708,49.8925,1,1,0,ugm-3,hourly,35,waun
+4325,24/09/2016 00:00,24/09/2016 01:00,npt4,Newport M4 Junction 25,o3,2708,53.8839,1,1,0,ugm-3,hourly,35,waun
+4326,24/09/2016 01:00,24/09/2016 02:00,npt4,Newport M4 Junction 25,o3,2708,59.871,1,1,0,ugm-3,hourly,35,waun
+4327,24/09/2016 02:00,24/09/2016 03:00,npt4,Newport M4 Junction 25,o3,2708,53.8839,1,1,0,ugm-3,hourly,35,waun
+4328,24/09/2016 03:00,24/09/2016 04:00,npt4,Newport M4 Junction 25,o3,2708,43.9054,1,1,0,ugm-3,hourly,35,waun
+4329,24/09/2016 04:00,24/09/2016 05:00,npt4,Newport M4 Junction 25,o3,2708,35.9226,1,1,0,ugm-3,hourly,35,waun
+4330,24/09/2016 05:00,24/09/2016 06:00,npt4,Newport M4 Junction 25,o3,2708,25.9441,1,1,0,ugm-3,hourly,35,waun
+4331,24/09/2016 06:00,24/09/2016 07:00,npt4,Newport M4 Junction 25,o3,2708,25.9441,1,1,0,ugm-3,hourly,35,waun
+4332,24/09/2016 07:00,24/09/2016 08:00,npt4,Newport M4 Junction 25,o3,2708,21.9527,1,1,0,ugm-3,hourly,35,waun
+4333,24/09/2016 08:00,24/09/2016 09:00,npt4,Newport M4 Junction 25,o3,2708,17.9613,1,1,0,ugm-3,hourly,35,waun
+4334,24/09/2016 09:00,24/09/2016 10:00,npt4,Newport M4 Junction 25,o3,2708,29.9355,1,1,0,ugm-3,hourly,35,waun
+4335,24/09/2016 10:00,24/09/2016 11:00,npt4,Newport M4 Junction 25,o3,2708,37.9183,1,1,0,ugm-3,hourly,35,waun
+4336,24/09/2016 11:00,24/09/2016 12:00,npt4,Newport M4 Junction 25,o3,2708,35.9226,1,1,0,ugm-3,hourly,35,waun
+4337,24/09/2016 12:00,24/09/2016 13:00,npt4,Newport M4 Junction 25,o3,2708,35.9226,1,1,0,ugm-3,hourly,35,waun
+4338,24/09/2016 13:00,24/09/2016 14:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4339,24/09/2016 14:00,24/09/2016 15:00,npt4,Newport M4 Junction 25,o3,2708,39.914,1,1,0,ugm-3,hourly,35,waun
+4340,24/09/2016 15:00,24/09/2016 16:00,npt4,Newport M4 Junction 25,o3,2708,43.9054,1,1,0,ugm-3,hourly,35,waun
+4341,24/09/2016 16:00,24/09/2016 17:00,npt4,Newport M4 Junction 25,o3,2708,45.9011,1,1,0,ugm-3,hourly,35,waun
+4342,24/09/2016 17:00,24/09/2016 18:00,npt4,Newport M4 Junction 25,o3,2708,43.9054,1,1,0,ugm-3,hourly,35,waun
+4343,24/09/2016 18:00,24/09/2016 19:00,npt4,Newport M4 Junction 25,o3,2708,41.9097,1,1,0,ugm-3,hourly,35,waun
+4344,24/09/2016 19:00,24/09/2016 20:00,npt4,Newport M4 Junction 25,o3,2708,51.8882,1,1,0,ugm-3,hourly,35,waun
+4345,24/09/2016 20:00,24/09/2016 21:00,npt4,Newport M4 Junction 25,o3,2708,47.8968,1,1,0,ugm-3,hourly,35,waun
+4346,24/09/2016 21:00,24/09/2016 22:00,npt4,Newport M4 Junction 25,o3,2708,37.9183,1,1,0,ugm-3,hourly,35,waun
+4347,24/09/2016 22:00,24/09/2016 23:00,npt4,Newport M4 Junction 25,o3,2708,37.9183,1,1,0,ugm-3,hourly,35,waun
+4348,NA,NA,npt4,Newport M4 Junction 25,o3,2708,45.9011,1,1,0,ugm-3,hourly,35,waun
+4355,23/09/2016 00:00,23/09/2016 01:00,nth1,Cimla Road / Victoria Gardens,no2,2711,5.7375,1,1,0,ugm-3,hourly,32,waun
+4356,23/09/2016 01:00,23/09/2016 02:00,nth1,Cimla Road / Victoria Gardens,no2,2711,3.825,1,1,0,ugm-3,hourly,32,waun
+4357,23/09/2016 02:00,23/09/2016 03:00,nth1,Cimla Road / Victoria Gardens,no2,2711,1.9125,1,1,0,ugm-3,hourly,32,waun
+4358,23/09/2016 03:00,23/09/2016 04:00,nth1,Cimla Road / Victoria Gardens,no2,2711,1.9125,1,1,0,ugm-3,hourly,32,waun
+4359,23/09/2016 04:00,23/09/2016 05:00,nth1,Cimla Road / Victoria Gardens,no2,2711,7.65,1,1,0,ugm-3,hourly,32,waun
+4360,23/09/2016 05:00,23/09/2016 06:00,nth1,Cimla Road / Victoria Gardens,no2,2711,15.3,1,1,0,ugm-3,hourly,32,waun
+4415,23/09/2016 00:00,23/09/2016 01:00,pemb,Narberth,no2,1208,1.53,1,1,0,ugm-3,hourly,74,warn
+4416,23/09/2016 01:00,23/09/2016 02:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4417,23/09/2016 02:00,23/09/2016 03:00,pemb,Narberth,no2,1208,1.33875,1,1,0,ugm-3,hourly,74,warn
+4418,23/09/2016 03:00,23/09/2016 04:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4419,23/09/2016 04:00,23/09/2016 05:00,pemb,Narberth,no2,1208,1.9125,1,1,0,ugm-3,hourly,74,warn
+4420,23/09/2016 05:00,23/09/2016 06:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4421,23/09/2016 06:00,23/09/2016 07:00,pemb,Narberth,no2,1208,4.2075,1,1,0,ugm-3,hourly,74,warn
+4422,23/09/2016 07:00,23/09/2016 08:00,pemb,Narberth,no2,1208,4.39875,1,1,0,ugm-3,hourly,74,warn
+4423,23/09/2016 08:00,23/09/2016 09:00,pemb,Narberth,no2,1208,2.48625,1,1,0,ugm-3,hourly,74,warn
+4424,23/09/2016 09:00,23/09/2016 10:00,pemb,Narberth,no2,1208,1.72125,1,1,0,ugm-3,hourly,74,warn
+4425,23/09/2016 10:00,23/09/2016 11:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4426,23/09/2016 11:00,23/09/2016 12:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4427,23/09/2016 12:00,23/09/2016 13:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4428,23/09/2016 13:00,23/09/2016 14:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4429,23/09/2016 14:00,23/09/2016 15:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4430,23/09/2016 15:00,23/09/2016 16:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4431,23/09/2016 16:00,23/09/2016 17:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4432,23/09/2016 17:00,23/09/2016 18:00,pemb,Narberth,no2,1208,1.9125,1,1,0,ugm-3,hourly,74,warn
+4433,23/09/2016 18:00,23/09/2016 19:00,pemb,Narberth,no2,1208,1.72125,1,1,0,ugm-3,hourly,74,warn
+4434,23/09/2016 19:00,23/09/2016 20:00,pemb,Narberth,no2,1208,1.53,1,1,0,ugm-3,hourly,74,warn
+4435,23/09/2016 20:00,23/09/2016 21:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4436,23/09/2016 21:00,23/09/2016 22:00,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4437,23/09/2016 22:00,23/09/2016 23:00,pemb,Narberth,no2,1208,1.9125,1,1,0,ugm-3,hourly,74,warn
+4438,NA,NA,pemb,Narberth,no2,1208,2.10375,1,1,0,ugm-3,hourly,74,warn
+4439,24/09/2016 00:00,24/09/2016 01:00,pemb,Narberth,no2,1208,1.72125,1,1,0,ugm-3,hourly,74,warn
+4440,24/09/2016 01:00,24/09/2016 02:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4441,24/09/2016 02:00,24/09/2016 03:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4442,24/09/2016 03:00,24/09/2016 04:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4443,24/09/2016 04:00,24/09/2016 05:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4444,24/09/2016 05:00,24/09/2016 06:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4445,24/09/2016 06:00,24/09/2016 07:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4446,24/09/2016 07:00,24/09/2016 08:00,pemb,Narberth,no2,1208,1.53,1,1,0,ugm-3,hourly,74,warn
+4447,24/09/2016 08:00,24/09/2016 09:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4448,24/09/2016 09:00,24/09/2016 10:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4449,24/09/2016 10:00,24/09/2016 11:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4450,24/09/2016 11:00,24/09/2016 12:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4451,24/09/2016 12:00,24/09/2016 13:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4452,24/09/2016 13:00,24/09/2016 14:00,pemb,Narberth,no2,1208,1.33875,1,1,0,ugm-3,hourly,74,warn
+4453,24/09/2016 14:00,24/09/2016 15:00,pemb,Narberth,no2,1208,0.95625,1,1,0,ugm-3,hourly,74,warn
+4454,24/09/2016 15:00,24/09/2016 16:00,pemb,Narberth,no2,1208,1.1475,1,1,0,ugm-3,hourly,74,warn
+4455,24/09/2016 16:00,24/09/2016 17:00,pemb,Narberth,no2,1208,1.33875,1,1,0,ugm-3,hourly,74,warn
+4456,24/09/2016 17:00,24/09/2016 18:00,pemb,Narberth,no2,1208,1.72125,1,1,0,ugm-3,hourly,74,warn
+4457,24/09/2016 18:00,24/09/2016 19:00,pemb,Narberth,no2,1208,1.33875,1,1,0,ugm-3,hourly,74,warn
+4458,24/09/2016 19:00,24/09/2016 20:00,pemb,Narberth,no2,1208,0.3825,1,1,0,ugm-3,hourly,74,warn
+4459,24/09/2016 20:00,24/09/2016 21:00,pemb,Narberth,no2,1208,0.57375,1,1,0,ugm-3,hourly,74,warn
+4460,24/09/2016 21:00,24/09/2016 22:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4461,24/09/2016 22:00,24/09/2016 23:00,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4462,NA,NA,pemb,Narberth,no2,1208,0.765,1,1,0,ugm-3,hourly,74,warn
+4511,23/09/2016 00:00,23/09/2016 01:00,pemb,Narberth,o3,1209,58.47401,1,1,0,ugm-3,hourly,77,warn
+4512,23/09/2016 01:00,23/09/2016 02:00,pemb,Narberth,o3,1209,57.8753,1,1,0,ugm-3,hourly,77,warn
+4513,23/09/2016 02:00,23/09/2016 03:00,pemb,Narberth,o3,1209,55.68003,1,1,0,ugm-3,hourly,77,warn
+4514,23/09/2016 03:00,23/09/2016 04:00,pemb,Narberth,o3,1209,55.48046,1,1,0,ugm-3,hourly,77,warn
+4515,23/09/2016 04:00,23/09/2016 05:00,pemb,Narberth,o3,1209,53.48476,1,1,0,ugm-3,hourly,77,warn
+4516,23/09/2016 05:00,23/09/2016 06:00,pemb,Narberth,o3,1209,47.69723,1,1,0,ugm-3,hourly,77,warn
+4517,23/09/2016 06:00,23/09/2016 07:00,pemb,Narberth,o3,1209,45.9011,1,1,0,ugm-3,hourly,77,warn
+4518,23/09/2016 07:00,23/09/2016 08:00,pemb,Narberth,o3,1209,49.8925,1,1,0,ugm-3,hourly,77,warn
+4519,23/09/2016 08:00,23/09/2016 09:00,pemb,Narberth,o3,1209,54.68218,1,1,0,ugm-3,hourly,77,warn
+4520,23/09/2016 09:00,23/09/2016 10:00,pemb,Narberth,o3,1209,58.47401,1,1,0,ugm-3,hourly,77,warn
+4521,23/09/2016 10:00,23/09/2016 11:00,pemb,Narberth,o3,1209,63.66283,1,1,0,ugm-3,hourly,77,warn
+4522,23/09/2016 11:00,23/09/2016 12:00,pemb,Narberth,o3,1209,68.05337,1,1,0,ugm-3,hourly,77,warn
+4523,23/09/2016 12:00,23/09/2016 13:00,pemb,Narberth,o3,1209,71.8452,1,1,0,ugm-3,hourly,77,warn
+4524,23/09/2016 13:00,23/09/2016 14:00,pemb,Narberth,o3,1209,70.64778,1,1,0,ugm-3,hourly,77,warn
+4525,23/09/2016 14:00,23/09/2016 15:00,pemb,Narberth,o3,1209,74.83875,1,1,0,ugm-3,hourly,77,warn
+4526,23/09/2016 15:00,23/09/2016 16:00,pemb,Narberth,o3,1209,76.63488,1,1,0,ugm-3,hourly,77,warn
+4527,23/09/2016 16:00,23/09/2016 17:00,pemb,Narberth,o3,1209,76.23574,1,1,0,ugm-3,hourly,77,warn
+4528,23/09/2016 17:00,23/09/2016 18:00,pemb,Narberth,o3,1209,73.24219,1,1,0,ugm-3,hourly,77,warn
+4529,23/09/2016 18:00,23/09/2016 19:00,pemb,Narberth,o3,1209,73.8409,1,1,0,ugm-3,hourly,77,warn
+4530,23/09/2016 19:00,23/09/2016 20:00,pemb,Narberth,o3,1209,75.03832,1,1,0,ugm-3,hourly,77,warn
+4531,23/09/2016 20:00,23/09/2016 21:00,pemb,Narberth,o3,1209,74.43961,1,1,0,ugm-3,hourly,77,warn
+4532,23/09/2016 21:00,23/09/2016 22:00,pemb,Narberth,o3,1209,73.04262,1,1,0,ugm-3,hourly,77,warn
+4533,23/09/2016 22:00,23/09/2016 23:00,pemb,Narberth,o3,1209,70.24864,1,1,0,ugm-3,hourly,77,warn
+4534,NA,NA,pemb,Narberth,o3,1209,66.45681,1,1,0,ugm-3,hourly,77,warn
+4535,24/09/2016 00:00,24/09/2016 01:00,pemb,Narberth,o3,1209,63.8624,1,1,0,ugm-3,hourly,77,warn
+4536,24/09/2016 01:00,24/09/2016 02:00,pemb,Narberth,o3,1209,61.26799,1,1,0,ugm-3,hourly,77,warn
+4537,24/09/2016 02:00,24/09/2016 03:00,pemb,Narberth,o3,1209,61.8667,1,1,0,ugm-3,hourly,77,warn
+4538,24/09/2016 03:00,24/09/2016 04:00,pemb,Narberth,o3,1209,60.86885,1,1,0,ugm-3,hourly,77,warn
+4539,24/09/2016 04:00,24/09/2016 05:00,pemb,Narberth,o3,1209,59.27229,1,1,0,ugm-3,hourly,77,warn
+4540,24/09/2016 05:00,24/09/2016 06:00,pemb,Narberth,o3,1209,57.47616,1,1,0,ugm-3,hourly,77,warn
+4541,24/09/2016 06:00,24/09/2016 07:00,pemb,Narberth,o3,1209,57.27659,1,1,0,ugm-3,hourly,77,warn
+4542,24/09/2016 07:00,24/09/2016 08:00,pemb,Narberth,o3,1209,55.8796,1,1,0,ugm-3,hourly,77,warn
+4543,24/09/2016 08:00,24/09/2016 09:00,pemb,Narberth,o3,1209,56.87745,1,1,0,ugm-3,hourly,77,warn
+4544,24/09/2016 09:00,24/09/2016 10:00,pemb,Narberth,o3,1209,58.27444,1,1,0,ugm-3,hourly,77,warn
+4545,24/09/2016 10:00,24/09/2016 11:00,pemb,Narberth,o3,1209,60.46971,1,1,0,ugm-3,hourly,77,warn
+4546,24/09/2016 11:00,24/09/2016 12:00,pemb,Narberth,o3,1209,59.871,1,1,0,ugm-3,hourly,77,warn
+4547,24/09/2016 12:00,24/09/2016 13:00,pemb,Narberth,o3,1209,61.8667,1,1,0,ugm-3,hourly,77,warn
+4548,24/09/2016 13:00,24/09/2016 14:00,pemb,Narberth,o3,1209,66.05767,1,1,0,ugm-3,hourly,77,warn
+4549,24/09/2016 14:00,24/09/2016 15:00,pemb,Narberth,o3,1209,68.05337,1,1,0,ugm-3,hourly,77,warn
+4550,24/09/2016 15:00,24/09/2016 16:00,pemb,Narberth,o3,1209,65.8581,1,1,0,ugm-3,hourly,77,warn
+4551,24/09/2016 16:00,24/09/2016 17:00,pemb,Narberth,o3,1209,62.26584,1,1,0,ugm-3,hourly,77,warn
+4552,24/09/2016 17:00,24/09/2016 18:00,pemb,Narberth,o3,1209,64.86025,1,1,0,ugm-3,hourly,77,warn
+4553,24/09/2016 18:00,24/09/2016 19:00,pemb,Narberth,o3,1209,69.8495,1,1,0,ugm-3,hourly,77,warn
+4554,24/09/2016 19:00,24/09/2016 20:00,pemb,Narberth,o3,1209,77.23359,1,1,0,ugm-3,hourly,77,warn
+4555,24/09/2016 20:00,24/09/2016 21:00,pemb,Narberth,o3,1209,74.04047,1,1,0,ugm-3,hourly,77,warn
+4556,24/09/2016 21:00,24/09/2016 22:00,pemb,Narberth,o3,1209,67.45466,1,1,0,ugm-3,hourly,77,warn
+4557,24/09/2016 22:00,24/09/2016 23:00,pemb,Narberth,o3,1209,67.05552,1,1,0,ugm-3,hourly,77,warn
+4558,NA,NA,pemb,Narberth,o3,1209,67.05552,1,1,0,ugm-3,hourly,77,warn
+5225,23/09/2016 00:00,23/09/2016 01:00,pt4,Port Talbot Margam,o3,1953,38.11787,1,1,0,ugm-3,hourly,35,waun
+5226,23/09/2016 01:00,23/09/2016 02:00,pt4,Port Talbot Margam,o3,1953,35.9226,1,1,0,ugm-3,hourly,35,waun
+5227,23/09/2016 02:00,23/09/2016 03:00,pt4,Port Talbot Margam,o3,1953,33.12862,1,1,0,ugm-3,hourly,35,waun
+5228,23/09/2016 03:00,23/09/2016 04:00,pt4,Port Talbot Margam,o3,1953,46.49981,1,1,0,ugm-3,hourly,35,waun
+5229,23/09/2016 04:00,23/09/2016 05:00,pt4,Port Talbot Margam,o3,1953,32.33034,1,1,0,ugm-3,hourly,35,waun
+5230,23/09/2016 05:00,23/09/2016 06:00,pt4,Port Talbot Margam,o3,1953,15.36689,1,1,0,ugm-3,hourly,35,waun
+5231,23/09/2016 06:00,23/09/2016 07:00,pt4,Port Talbot Margam,o3,1953,13.77033,1,1,0,ugm-3,hourly,35,waun
+5232,23/09/2016 07:00,23/09/2016 08:00,pt4,Port Talbot Margam,o3,1953,37.71873,1,1,0,ugm-3,hourly,35,waun
+5233,23/09/2016 08:00,23/09/2016 09:00,pt4,Port Talbot Margam,o3,1953,42.70798,1,1,0,ugm-3,hourly,35,waun
+5234,23/09/2016 09:00,23/09/2016 10:00,pt4,Port Talbot Margam,o3,1953,55.08132,1,1,0,ugm-3,hourly,35,waun
+5235,23/09/2016 10:00,23/09/2016 11:00,pt4,Port Talbot Margam,o3,1953,56.67788,1,1,0,ugm-3,hourly,35,waun
+5236,23/09/2016 11:00,23/09/2016 12:00,pt4,Port Talbot Margam,o3,1953,56.87745,1,1,0,ugm-3,hourly,35,waun
+5237,23/09/2016 12:00,23/09/2016 13:00,pt4,Port Talbot Margam,o3,1953,59.07272,1,1,0,ugm-3,hourly,35,waun
+5238,23/09/2016 13:00,23/09/2016 14:00,pt4,Port Talbot Margam,o3,1953,61.06842,1,1,0,ugm-3,hourly,35,waun
+5239,23/09/2016 14:00,23/09/2016 15:00,pt4,Port Talbot Margam,o3,1953,65.25939,1,1,0,ugm-3,hourly,35,waun
+5240,23/09/2016 15:00,23/09/2016 16:00,pt4,Port Talbot Margam,o3,1953,65.05982,1,1,0,ugm-3,hourly,35,waun
+5241,23/09/2016 16:00,23/09/2016 17:00,pt4,Port Talbot Margam,o3,1953,58.27444,1,1,0,ugm-3,hourly,35,waun
+5242,23/09/2016 17:00,23/09/2016 18:00,pt4,Port Talbot Margam,o3,1953,53.48476,1,1,0,ugm-3,hourly,35,waun
+5243,23/09/2016 18:00,23/09/2016 19:00,pt4,Port Talbot Margam,o3,1953,49.8925,1,1,0,ugm-3,hourly,35,waun
+5244,23/09/2016 19:00,23/09/2016 20:00,pt4,Port Talbot Margam,o3,1953,50.89035,1,1,0,ugm-3,hourly,35,waun
+5245,23/09/2016 20:00,23/09/2016 21:00,pt4,Port Talbot Margam,o3,1953,55.68003,1,1,0,ugm-3,hourly,35,waun
+5246,23/09/2016 21:00,23/09/2016 22:00,pt4,Port Talbot Margam,o3,1953,59.27229,1,1,0,ugm-3,hourly,35,waun
+5247,23/09/2016 22:00,23/09/2016 23:00,pt4,Port Talbot Margam,o3,1953,52.48691,1,1,0,ugm-3,hourly,35,waun
+5248,NA,NA,pt4,Port Talbot Margam,o3,1953,52.88605,1,1,0,ugm-3,hourly,35,waun
+5249,24/09/2016 00:00,24/09/2016 01:00,pt4,Port Talbot Margam,o3,1953,56.67788,1,1,0,ugm-3,hourly,35,waun
+5250,24/09/2016 01:00,24/09/2016 02:00,pt4,Port Talbot Margam,o3,1953,56.67788,1,1,0,ugm-3,hourly,35,waun
+5251,24/09/2016 02:00,24/09/2016 03:00,pt4,Port Talbot Margam,o3,1953,55.28089,1,1,0,ugm-3,hourly,35,waun
+5252,24/09/2016 03:00,24/09/2016 04:00,pt4,Port Talbot Margam,o3,1953,51.68863,1,1,0,ugm-3,hourly,35,waun
+5253,24/09/2016 04:00,24/09/2016 05:00,pt4,Port Talbot Margam,o3,1953,46.49981,1,1,0,ugm-3,hourly,35,waun
+5254,24/09/2016 05:00,24/09/2016 06:00,pt4,Port Talbot Margam,o3,1953,38.31744,1,1,0,ugm-3,hourly,35,waun
+5255,24/09/2016 06:00,24/09/2016 07:00,pt4,Port Talbot Margam,o3,1953,43.9054,1,1,0,ugm-3,hourly,35,waun
+5256,24/09/2016 07:00,24/09/2016 08:00,pt4,Port Talbot Margam,o3,1953,47.69723,1,1,0,ugm-3,hourly,35,waun
+5257,24/09/2016 08:00,24/09/2016 09:00,pt4,Port Talbot Margam,o3,1953,40.51271,1,1,0,ugm-3,hourly,35,waun
+5258,24/09/2016 09:00,24/09/2016 10:00,pt4,Port Talbot Margam,o3,1953,45.30239,1,1,0,ugm-3,hourly,35,waun
+5259,24/09/2016 10:00,24/09/2016 11:00,pt4,Port Talbot Margam,o3,1953,46.10067,1,1,0,ugm-3,hourly,35,waun
+5260,24/09/2016 11:00,24/09/2016 12:00,pt4,Port Talbot Margam,o3,1953,51.48906,1,1,0,ugm-3,hourly,35,waun
+5261,24/09/2016 12:00,24/09/2016 13:00,pt4,Port Talbot Margam,o3,1953,46.30024,1,1,0,ugm-3,hourly,35,waun
+5262,24/09/2016 13:00,24/09/2016 14:00,pt4,Port Talbot Margam,o3,1953,48.29594,1,1,0,ugm-3,hourly,35,waun
+5263,24/09/2016 14:00,24/09/2016 15:00,pt4,Port Talbot Margam,o3,1953,58.27444,1,1,0,ugm-3,hourly,35,waun
+5264,24/09/2016 15:00,24/09/2016 16:00,pt4,Port Talbot Margam,o3,1953,57.47616,1,1,0,ugm-3,hourly,35,waun
+5265,24/09/2016 16:00,24/09/2016 17:00,pt4,Port Talbot Margam,o3,1953,52.88605,1,1,0,ugm-3,hourly,35,waun
+5266,24/09/2016 17:00,24/09/2016 18:00,pt4,Port Talbot Margam,o3,1953,45.50196,1,1,0,ugm-3,hourly,35,waun
+5267,24/09/2016 18:00,24/09/2016 19:00,pt4,Port Talbot Margam,o3,1953,43.10712,1,1,0,ugm-3,hourly,35,waun
+5268,24/09/2016 19:00,24/09/2016 20:00,pt4,Port Talbot Margam,o3,1953,47.8968,1,1,0,ugm-3,hourly,35,waun
+5269,24/09/2016 20:00,24/09/2016 21:00,pt4,Port Talbot Margam,o3,1953,47.8968,1,1,0,ugm-3,hourly,35,waun
+5270,24/09/2016 21:00,24/09/2016 22:00,pt4,Port Talbot Margam,o3,1953,50.89035,1,1,0,ugm-3,hourly,35,waun
+5271,24/09/2016 22:00,24/09/2016 23:00,pt4,Port Talbot Margam,o3,1953,66.45681,1,1,0,ugm-3,hourly,35,waun
+5272,NA,NA,pt4,Port Talbot Margam,o3,1953,51.48906,1,1,0,ugm-3,hourly,35,waun
+5753,23/09/2016 00:00,23/09/2016 01:00,pt4,Port Talbot Margam,no2,1951,9.5625,1,1,0,ugm-3,hourly,32,waun
+5754,23/09/2016 01:00,23/09/2016 02:00,pt4,Port Talbot Margam,no2,1951,13.96125,1,1,0,ugm-3,hourly,32,waun
+5755,23/09/2016 02:00,23/09/2016 03:00,pt4,Port Talbot Margam,no2,1951,9.37125,1,1,0,ugm-3,hourly,32,waun
+5756,23/09/2016 03:00,23/09/2016 04:00,pt4,Port Talbot Margam,no2,1951,9.37125,1,1,0,ugm-3,hourly,32,waun
+5757,23/09/2016 04:00,23/09/2016 05:00,pt4,Port Talbot Margam,no2,1951,18.16875,1,1,0,ugm-3,hourly,32,waun
+5758,23/09/2016 05:00,23/09/2016 06:00,pt4,Port Talbot Margam,no2,1951,39.78,1,1,0,ugm-3,hourly,32,waun
+5759,23/09/2016 06:00,23/09/2016 07:00,pt4,Port Talbot Margam,no2,1951,46.665,1,1,0,ugm-3,hourly,32,waun
+5760,23/09/2016 07:00,23/09/2016 08:00,pt4,Port Talbot Margam,no2,1951,34.0425,1,1,0,ugm-3,hourly,32,waun
+5761,23/09/2016 08:00,23/09/2016 09:00,pt4,Port Talbot Margam,no2,1951,23.14125,1,1,0,ugm-3,hourly,32,waun
+5762,23/09/2016 09:00,23/09/2016 10:00,pt4,Port Talbot Margam,no2,1951,13.96125,1,1,0,ugm-3,hourly,32,waun
+5763,23/09/2016 10:00,23/09/2016 11:00,pt4,Port Talbot Margam,no2,1951,12.81375,1,1,0,ugm-3,hourly,32,waun
+5764,23/09/2016 11:00,23/09/2016 12:00,pt4,Port Talbot Margam,no2,1951,14.1525,1,1,0,ugm-3,hourly,32,waun
+5765,23/09/2016 12:00,23/09/2016 13:00,pt4,Port Talbot Margam,no2,1951,11.66625,1,1,0,ugm-3,hourly,32,waun
+5766,23/09/2016 13:00,23/09/2016 14:00,pt4,Port Talbot Margam,no2,1951,13.77,1,1,0,ugm-3,hourly,32,waun
+5767,23/09/2016 14:00,23/09/2016 15:00,pt4,Port Talbot Margam,no2,1951,12.6225,1,1,0,ugm-3,hourly,32,waun
+5768,23/09/2016 15:00,23/09/2016 16:00,pt4,Port Talbot Margam,no2,1951,13.96125,1,1,0,ugm-3,hourly,32,waun
+5769,23/09/2016 16:00,23/09/2016 17:00,pt4,Port Talbot Margam,no2,1951,20.08125,1,1,0,ugm-3,hourly,32,waun
+5770,23/09/2016 17:00,23/09/2016 18:00,pt4,Port Talbot Margam,no2,1951,28.6875,1,1,0,ugm-3,hourly,32,waun
+5771,23/09/2016 18:00,23/09/2016 19:00,pt4,Port Talbot Margam,no2,1951,29.26125,1,1,0,ugm-3,hourly,32,waun
+5772,23/09/2016 19:00,23/09/2016 20:00,pt4,Port Talbot Margam,no2,1951,21.42,1,1,0,ugm-3,hourly,32,waun
+5773,23/09/2016 20:00,23/09/2016 21:00,pt4,Port Talbot Margam,no2,1951,16.25625,1,1,0,ugm-3,hourly,32,waun
+5774,23/09/2016 21:00,23/09/2016 22:00,pt4,Port Talbot Margam,no2,1951,11.8575,1,1,0,ugm-3,hourly,32,waun
+5775,23/09/2016 22:00,23/09/2016 23:00,pt4,Port Talbot Margam,no2,1951,18.36,1,1,0,ugm-3,hourly,32,waun
+5776,NA,NA,pt4,Port Talbot Margam,no2,1951,24.0975,1,1,0,ugm-3,hourly,32,waun
+5777,24/09/2016 00:00,24/09/2016 01:00,pt4,Port Talbot Margam,no2,1951,5.92875,1,1,0,ugm-3,hourly,32,waun
+5778,24/09/2016 01:00,24/09/2016 02:00,pt4,Port Talbot Margam,no2,1951,11.66625,1,1,0,ugm-3,hourly,32,waun
+5779,24/09/2016 02:00,24/09/2016 03:00,pt4,Port Talbot Margam,no2,1951,7.84125,1,1,0,ugm-3,hourly,32,waun
+5780,24/09/2016 03:00,24/09/2016 04:00,pt4,Port Talbot Margam,no2,1951,9.5625,1,1,0,ugm-3,hourly,32,waun
+5781,24/09/2016 04:00,24/09/2016 05:00,pt4,Port Talbot Margam,no2,1951,13.005,1,1,0,ugm-3,hourly,32,waun
+5782,24/09/2016 05:00,24/09/2016 06:00,pt4,Port Talbot Margam,no2,1951,17.40375,1,1,0,ugm-3,hourly,32,waun
+5783,24/09/2016 06:00,24/09/2016 07:00,pt4,Port Talbot Margam,no2,1951,14.535,1,1,0,ugm-3,hourly,32,waun
+5784,24/09/2016 07:00,24/09/2016 08:00,pt4,Port Talbot Margam,no2,1951,7.2675,1,1,0,ugm-3,hourly,32,waun
+5785,24/09/2016 08:00,24/09/2016 09:00,pt4,Port Talbot Margam,no2,1951,17.9775,1,1,0,ugm-3,hourly,32,waun
+5786,24/09/2016 09:00,24/09/2016 10:00,pt4,Port Talbot Margam,no2,1951,17.595,1,1,0,ugm-3,hourly,32,waun
+5787,24/09/2016 10:00,24/09/2016 11:00,pt4,Port Talbot Margam,no2,1951,17.2125,1,1,0,ugm-3,hourly,32,waun
+5788,24/09/2016 11:00,24/09/2016 12:00,pt4,Port Talbot Margam,no2,1951,15.10875,1,1,0,ugm-3,hourly,32,waun
+5789,24/09/2016 12:00,24/09/2016 13:00,pt4,Port Talbot Margam,no2,1951,20.08125,1,1,0,ugm-3,hourly,32,waun
+5790,24/09/2016 13:00,24/09/2016 14:00,pt4,Port Talbot Margam,no2,1951,22.5675,1,1,0,ugm-3,hourly,32,waun
+5791,24/09/2016 14:00,24/09/2016 15:00,pt4,Port Talbot Margam,no2,1951,18.16875,1,1,0,ugm-3,hourly,32,waun
+5792,24/09/2016 15:00,24/09/2016 16:00,pt4,Port Talbot Margam,no2,1951,13.19625,1,1,0,ugm-3,hourly,32,waun
+5793,24/09/2016 16:00,24/09/2016 17:00,pt4,Port Talbot Margam,no2,1951,17.78625,1,1,0,ugm-3,hourly,32,waun
+5794,24/09/2016 17:00,24/09/2016 18:00,pt4,Port Talbot Margam,no2,1951,25.6275,1,1,0,ugm-3,hourly,32,waun
+5795,24/09/2016 18:00,24/09/2016 19:00,pt4,Port Talbot Margam,no2,1951,19.89,1,1,0,ugm-3,hourly,32,waun
+5796,24/09/2016 19:00,24/09/2016 20:00,pt4,Port Talbot Margam,no2,1951,9.18,1,1,0,ugm-3,hourly,32,waun
+5797,24/09/2016 20:00,24/09/2016 21:00,pt4,Port Talbot Margam,no2,1951,9.75375,1,1,0,ugm-3,hourly,32,waun
+5798,24/09/2016 21:00,24/09/2016 22:00,pt4,Port Talbot Margam,no2,1951,6.12,1,1,0,ugm-3,hourly,32,waun
+5799,24/09/2016 22:00,24/09/2016 23:00,pt4,Port Talbot Margam,no2,1951,6.31125,1,1,0,ugm-3,hourly,32,waun
+5800,NA,NA,pt4,Port Talbot Margam,no2,1951,24.0975,1,1,0,ugm-3,hourly,32,waun
+6665,23/09/2016 00:00,23/09/2016 01:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,22.95,1,1,0,ugm-3,hourly,32,waun
+6666,23/09/2016 01:00,23/09/2016 02:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,17.2125,1,1,0,ugm-3,hourly,32,waun
+6667,23/09/2016 02:00,23/09/2016 03:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,19.125,1,1,0,ugm-3,hourly,32,waun
+6668,23/09/2016 03:00,23/09/2016 04:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,21.0375,1,1,0,ugm-3,hourly,32,waun
+6669,23/09/2016 04:00,23/09/2016 05:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,21.0375,1,1,0,ugm-3,hourly,32,waun
+6670,23/09/2016 05:00,23/09/2016 06:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,28.6875,1,1,0,ugm-3,hourly,32,waun
+6671,23/09/2016 06:00,23/09/2016 07:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,42.075,1,1,0,ugm-3,hourly,32,waun
+6672,23/09/2016 07:00,23/09/2016 08:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,49.725,1,1,0,ugm-3,hourly,32,waun
+6673,23/09/2016 08:00,23/09/2016 09:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,63.1125,1,1,0,ugm-3,hourly,32,waun
+6674,23/09/2016 09:00,23/09/2016 10:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,51.6375,1,1,0,ugm-3,hourly,32,waun
+6675,23/09/2016 10:00,23/09/2016 11:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,40.1625,1,1,0,ugm-3,hourly,32,waun
+6676,23/09/2016 11:00,23/09/2016 12:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,36.3375,1,1,0,ugm-3,hourly,32,waun
+6677,23/09/2016 12:00,23/09/2016 13:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,34.425,1,1,0,ugm-3,hourly,32,waun
+6678,23/09/2016 13:00,23/09/2016 14:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,43.9875,1,1,0,ugm-3,hourly,32,waun
+6679,23/09/2016 14:00,23/09/2016 15:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,47.8125,1,1,0,ugm-3,hourly,32,waun
+6680,23/09/2016 15:00,23/09/2016 16:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,61.2,1,1,0,ugm-3,hourly,32,waun
+6681,23/09/2016 16:00,23/09/2016 17:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,59.2875,1,1,0,ugm-3,hourly,32,waun
+6682,23/09/2016 17:00,23/09/2016 18:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,65.025,1,1,0,ugm-3,hourly,32,waun
+6683,23/09/2016 18:00,23/09/2016 19:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,51.6375,1,1,0,ugm-3,hourly,32,waun
+6684,23/09/2016 19:00,23/09/2016 20:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,59.2875,1,1,0,ugm-3,hourly,32,waun
+6685,23/09/2016 20:00,23/09/2016 21:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,49.725,1,1,0,ugm-3,hourly,32,waun
+6686,23/09/2016 21:00,23/09/2016 22:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,43.9875,1,1,0,ugm-3,hourly,32,waun
+6687,23/09/2016 22:00,23/09/2016 23:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,38.25,1,1,0,ugm-3,hourly,32,waun
+6688,NA,NA,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,42.075,1,1,0,ugm-3,hourly,32,waun
+6689,24/09/2016 00:00,24/09/2016 01:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,19.125,1,1,0,ugm-3,hourly,32,waun
+6690,24/09/2016 01:00,24/09/2016 02:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,15.3,1,1,0,ugm-3,hourly,32,waun
+6691,24/09/2016 02:00,24/09/2016 03:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,11.475,1,1,0,ugm-3,hourly,32,waun
+6692,24/09/2016 03:00,24/09/2016 04:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,9.5625,1,1,0,ugm-3,hourly,32,waun
+6693,24/09/2016 04:00,24/09/2016 05:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,17.2125,1,1,0,ugm-3,hourly,32,waun
+6694,24/09/2016 05:00,24/09/2016 06:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,28.6875,1,1,0,ugm-3,hourly,32,waun
+6695,24/09/2016 06:00,24/09/2016 07:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,40.1625,1,1,0,ugm-3,hourly,32,waun
+6696,24/09/2016 07:00,24/09/2016 08:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,36.3375,1,1,0,ugm-3,hourly,32,waun
+6697,24/09/2016 08:00,24/09/2016 09:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,36.3375,1,1,0,ugm-3,hourly,32,waun
+6698,24/09/2016 09:00,24/09/2016 10:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,32.5125,1,1,0,ugm-3,hourly,32,waun
+6699,24/09/2016 10:00,24/09/2016 11:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,34.425,1,1,0,ugm-3,hourly,32,waun
+6700,24/09/2016 11:00,24/09/2016 12:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,45.9,1,1,0,ugm-3,hourly,32,waun
+6701,24/09/2016 12:00,24/09/2016 13:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,38.25,1,1,0,ugm-3,hourly,32,waun
+6702,24/09/2016 13:00,24/09/2016 14:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,42.075,1,1,0,ugm-3,hourly,32,waun
+6703,24/09/2016 14:00,24/09/2016 15:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,43.9875,1,1,0,ugm-3,hourly,32,waun
+6704,24/09/2016 15:00,24/09/2016 16:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,53.55,1,1,0,ugm-3,hourly,32,waun
+6705,24/09/2016 16:00,24/09/2016 17:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,49.725,1,1,0,ugm-3,hourly,32,waun
+6706,24/09/2016 17:00,24/09/2016 18:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,47.8125,1,1,0,ugm-3,hourly,32,waun
+6707,24/09/2016 18:00,24/09/2016 19:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,40.1625,1,1,0,ugm-3,hourly,32,waun
+6708,24/09/2016 19:00,24/09/2016 20:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,40.1625,1,1,0,ugm-3,hourly,32,waun
+6709,24/09/2016 20:00,24/09/2016 21:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,42.075,1,1,0,ugm-3,hourly,32,waun
+6710,24/09/2016 21:00,24/09/2016 22:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,36.3375,1,1,0,ugm-3,hourly,32,waun
+6711,24/09/2016 22:00,24/09/2016 23:00,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,30.6,1,1,0,ugm-3,hourly,32,waun
+6712,NA,NA,rhd4,Rhondda-Cynon-Taf Broadway,no2,1808,19.125,1,1,0,ugm-3,hourly,32,waun
+6807,23/09/2016 00:00,23/09/2016 01:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,21.0375,1,1,0,ugm-3,hourly,32,waun
+6808,23/09/2016 01:00,23/09/2016 02:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,15.3,1,1,0,ugm-3,hourly,32,waun
+6809,23/09/2016 02:00,23/09/2016 03:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,13.3875,1,1,0,ugm-3,hourly,32,waun
+6810,23/09/2016 03:00,23/09/2016 04:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,13.3875,1,1,0,ugm-3,hourly,32,waun
+6811,23/09/2016 04:00,23/09/2016 05:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,22.95,1,1,0,ugm-3,hourly,32,waun
+6812,23/09/2016 05:00,23/09/2016 06:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,28.6875,1,1,0,ugm-3,hourly,32,waun
+6813,23/09/2016 06:00,23/09/2016 07:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,49.725,1,1,0,ugm-3,hourly,32,waun
+6814,23/09/2016 07:00,23/09/2016 08:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,63.1125,1,1,0,ugm-3,hourly,32,waun
+6815,23/09/2016 08:00,23/09/2016 09:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,74.5875,1,1,0,ugm-3,hourly,32,waun
+6816,23/09/2016 09:00,23/09/2016 10:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,55.4625,1,1,0,ugm-3,hourly,32,waun
+6817,23/09/2016 10:00,23/09/2016 11:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,80.325,1,1,0,ugm-3,hourly,32,waun
+6818,23/09/2016 11:00,23/09/2016 12:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,68.85,1,1,0,ugm-3,hourly,32,waun
+6819,23/09/2016 12:00,23/09/2016 13:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,63.1125,1,1,0,ugm-3,hourly,32,waun
+6820,23/09/2016 13:00,23/09/2016 14:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,61.2,1,1,0,ugm-3,hourly,32,waun
+6821,23/09/2016 14:00,23/09/2016 15:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,66.9375,1,1,0,ugm-3,hourly,32,waun
+6822,23/09/2016 15:00,23/09/2016 16:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,84.15,1,1,0,ugm-3,hourly,32,waun
+6823,23/09/2016 16:00,23/09/2016 17:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,70.7625,1,1,0,ugm-3,hourly,32,waun
+6824,23/09/2016 17:00,23/09/2016 18:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,42.075,1,1,0,ugm-3,hourly,32,waun
+6825,23/09/2016 18:00,23/09/2016 19:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,42.075,1,1,0,ugm-3,hourly,32,waun
+6826,23/09/2016 19:00,23/09/2016 20:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,42.075,1,1,0,ugm-3,hourly,32,waun
+6827,23/09/2016 20:00,23/09/2016 21:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,34.425,1,1,0,ugm-3,hourly,32,waun
+6828,23/09/2016 21:00,23/09/2016 22:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,40.1625,1,1,0,ugm-3,hourly,32,waun
+6829,23/09/2016 22:00,23/09/2016 23:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,28.6875,1,1,0,ugm-3,hourly,32,waun
+6830,NA,NA,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,38.25,1,1,0,ugm-3,hourly,32,waun
+6831,24/09/2016 00:00,24/09/2016 01:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,21.0375,1,1,0,ugm-3,hourly,32,waun
+6832,24/09/2016 01:00,24/09/2016 02:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,13.3875,1,1,0,ugm-3,hourly,32,waun
+6833,24/09/2016 02:00,24/09/2016 03:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,5.7375,1,1,0,ugm-3,hourly,32,waun
+6834,24/09/2016 03:00,24/09/2016 04:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,5.7375,1,1,0,ugm-3,hourly,32,waun
+6835,24/09/2016 04:00,24/09/2016 05:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,5.7375,1,1,0,ugm-3,hourly,32,waun
+6836,24/09/2016 05:00,24/09/2016 06:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,21.0375,1,1,0,ugm-3,hourly,32,waun
+6837,24/09/2016 06:00,24/09/2016 07:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,32.5125,1,1,0,ugm-3,hourly,32,waun
+6838,24/09/2016 07:00,24/09/2016 08:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,26.775,1,1,0,ugm-3,hourly,32,waun
+6839,24/09/2016 08:00,24/09/2016 09:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,21.0375,1,1,0,ugm-3,hourly,32,waun
+6840,24/09/2016 09:00,24/09/2016 10:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,32.5125,1,1,0,ugm-3,hourly,32,waun
+6841,24/09/2016 10:00,24/09/2016 11:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,55.4625,1,1,0,ugm-3,hourly,32,waun
+6842,24/09/2016 13:00,24/09/2016 14:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,24.8625,1,1,0,ugm-3,hourly,32,waun
+6843,24/09/2016 14:00,24/09/2016 15:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,21.0375,1,1,0,ugm-3,hourly,32,waun
+6844,24/09/2016 15:00,24/09/2016 16:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,40.1625,1,1,0,ugm-3,hourly,32,waun
+6845,24/09/2016 16:00,24/09/2016 17:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,32.5125,1,1,0,ugm-3,hourly,32,waun
+6846,24/09/2016 17:00,24/09/2016 18:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,28.6875,1,1,0,ugm-3,hourly,32,waun
+6847,24/09/2016 18:00,24/09/2016 19:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,24.8625,1,1,0,ugm-3,hourly,32,waun
+6848,24/09/2016 19:00,24/09/2016 20:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,24.8625,1,1,0,ugm-3,hourly,32,waun
+6849,24/09/2016 20:00,24/09/2016 21:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,17.2125,1,1,0,ugm-3,hourly,32,waun
+6850,24/09/2016 21:00,24/09/2016 22:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,15.3,1,1,0,ugm-3,hourly,32,waun
+6851,24/09/2016 22:00,24/09/2016 23:00,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,11.475,1,1,0,ugm-3,hourly,32,waun
+6852,NA,NA,rhd6,Rhondda Pontypridd Gelliwastad Rd,no2,2338,13.3875,1,1,0,ugm-3,hourly,32,waun
+7091,23/09/2016 00:00,23/09/2016 01:00,rhd8,Rhondda Mountain Ash,no2,3180,30.6,1,1,0,ugm-3,hourly,32,waun
+7092,23/09/2016 01:00,23/09/2016 02:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7093,23/09/2016 02:00,23/09/2016 03:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7094,23/09/2016 03:00,23/09/2016 04:00,rhd8,Rhondda Mountain Ash,no2,3180,15.3,1,1,0,ugm-3,hourly,32,waun
+7095,23/09/2016 04:00,23/09/2016 05:00,rhd8,Rhondda Mountain Ash,no2,3180,47.8125,1,1,0,ugm-3,hourly,32,waun
+7096,23/09/2016 05:00,23/09/2016 06:00,rhd8,Rhondda Mountain Ash,no2,3180,78.4125,1,1,0,ugm-3,hourly,32,waun
+7097,23/09/2016 06:00,23/09/2016 07:00,rhd8,Rhondda Mountain Ash,no2,3180,93.7125,1,1,0,ugm-3,hourly,32,waun
+7098,23/09/2016 07:00,23/09/2016 08:00,rhd8,Rhondda Mountain Ash,no2,3180,91.8,1,1,0,ugm-3,hourly,32,waun
+7099,23/09/2016 08:00,23/09/2016 09:00,rhd8,Rhondda Mountain Ash,no2,3180,95.625,1,1,0,ugm-3,hourly,32,waun
+7100,23/09/2016 09:00,23/09/2016 10:00,rhd8,Rhondda Mountain Ash,no2,3180,63.1125,1,1,0,ugm-3,hourly,32,waun
+7101,23/09/2016 10:00,23/09/2016 11:00,rhd8,Rhondda Mountain Ash,no2,3180,38.25,1,1,0,ugm-3,hourly,32,waun
+7102,23/09/2016 11:00,23/09/2016 12:00,rhd8,Rhondda Mountain Ash,no2,3180,30.6,1,1,0,ugm-3,hourly,32,waun
+7103,23/09/2016 12:00,23/09/2016 13:00,rhd8,Rhondda Mountain Ash,no2,3180,51.6375,1,1,0,ugm-3,hourly,32,waun
+7104,23/09/2016 13:00,23/09/2016 14:00,rhd8,Rhondda Mountain Ash,no2,3180,61.2,1,1,0,ugm-3,hourly,32,waun
+7105,23/09/2016 14:00,23/09/2016 15:00,rhd8,Rhondda Mountain Ash,no2,3180,84.15,1,1,0,ugm-3,hourly,32,waun
+7106,23/09/2016 15:00,23/09/2016 16:00,rhd8,Rhondda Mountain Ash,no2,3180,63.1125,1,1,0,ugm-3,hourly,32,waun
+7107,23/09/2016 16:00,23/09/2016 17:00,rhd8,Rhondda Mountain Ash,no2,3180,63.1125,1,1,0,ugm-3,hourly,32,waun
+7108,23/09/2016 17:00,23/09/2016 18:00,rhd8,Rhondda Mountain Ash,no2,3180,72.675,1,1,0,ugm-3,hourly,32,waun
+7109,23/09/2016 18:00,23/09/2016 19:00,rhd8,Rhondda Mountain Ash,no2,3180,84.15,1,1,0,ugm-3,hourly,32,waun
+7110,23/09/2016 19:00,23/09/2016 20:00,rhd8,Rhondda Mountain Ash,no2,3180,89.8875,1,1,0,ugm-3,hourly,32,waun
+7111,23/09/2016 20:00,23/09/2016 21:00,rhd8,Rhondda Mountain Ash,no2,3180,72.675,1,1,0,ugm-3,hourly,32,waun
+7112,23/09/2016 21:00,23/09/2016 22:00,rhd8,Rhondda Mountain Ash,no2,3180,40.1625,1,1,0,ugm-3,hourly,32,waun
+7113,23/09/2016 22:00,23/09/2016 23:00,rhd8,Rhondda Mountain Ash,no2,3180,40.1625,1,1,0,ugm-3,hourly,32,waun
+7114,NA,NA,rhd8,Rhondda Mountain Ash,no2,3180,36.3375,1,1,0,ugm-3,hourly,32,waun
+7115,24/09/2016 00:00,24/09/2016 01:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7116,24/09/2016 01:00,24/09/2016 02:00,rhd8,Rhondda Mountain Ash,no2,3180,17.2125,1,1,0,ugm-3,hourly,32,waun
+7117,24/09/2016 02:00,24/09/2016 03:00,rhd8,Rhondda Mountain Ash,no2,3180,13.3875,1,1,0,ugm-3,hourly,32,waun
+7118,24/09/2016 03:00,24/09/2016 04:00,rhd8,Rhondda Mountain Ash,no2,3180,11.475,1,1,0,ugm-3,hourly,32,waun
+7119,24/09/2016 04:00,24/09/2016 05:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7120,24/09/2016 05:00,24/09/2016 06:00,rhd8,Rhondda Mountain Ash,no2,3180,43.9875,1,1,0,ugm-3,hourly,32,waun
+7121,24/09/2016 06:00,24/09/2016 07:00,rhd8,Rhondda Mountain Ash,no2,3180,38.25,1,1,0,ugm-3,hourly,32,waun
+7122,24/09/2016 07:00,24/09/2016 08:00,rhd8,Rhondda Mountain Ash,no2,3180,55.4625,1,1,0,ugm-3,hourly,32,waun
+7123,24/09/2016 08:00,24/09/2016 09:00,rhd8,Rhondda Mountain Ash,no2,3180,30.6,1,1,0,ugm-3,hourly,32,waun
+7124,24/09/2016 09:00,24/09/2016 10:00,rhd8,Rhondda Mountain Ash,no2,3180,34.425,1,1,0,ugm-3,hourly,32,waun
+7125,24/09/2016 10:00,24/09/2016 11:00,rhd8,Rhondda Mountain Ash,no2,3180,42.075,1,1,0,ugm-3,hourly,32,waun
+7126,24/09/2016 11:00,24/09/2016 12:00,rhd8,Rhondda Mountain Ash,no2,3180,32.5125,1,1,0,ugm-3,hourly,32,waun
+7127,24/09/2016 12:00,24/09/2016 13:00,rhd8,Rhondda Mountain Ash,no2,3180,21.0375,1,1,0,ugm-3,hourly,32,waun
+7128,24/09/2016 13:00,24/09/2016 14:00,rhd8,Rhondda Mountain Ash,no2,3180,32.5125,1,1,0,ugm-3,hourly,32,waun
+7129,24/09/2016 14:00,24/09/2016 15:00,rhd8,Rhondda Mountain Ash,no2,3180,49.725,1,1,0,ugm-3,hourly,32,waun
+7130,24/09/2016 15:00,24/09/2016 16:00,rhd8,Rhondda Mountain Ash,no2,3180,51.6375,1,1,0,ugm-3,hourly,32,waun
+7131,24/09/2016 16:00,24/09/2016 17:00,rhd8,Rhondda Mountain Ash,no2,3180,43.9875,1,1,0,ugm-3,hourly,32,waun
+7132,24/09/2016 17:00,24/09/2016 18:00,rhd8,Rhondda Mountain Ash,no2,3180,45.9,1,1,0,ugm-3,hourly,32,waun
+7133,24/09/2016 18:00,24/09/2016 19:00,rhd8,Rhondda Mountain Ash,no2,3180,28.6875,1,1,0,ugm-3,hourly,32,waun
+7134,24/09/2016 19:00,24/09/2016 20:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7135,24/09/2016 20:00,24/09/2016 21:00,rhd8,Rhondda Mountain Ash,no2,3180,22.95,1,1,0,ugm-3,hourly,32,waun
+7136,24/09/2016 21:00,24/09/2016 22:00,rhd8,Rhondda Mountain Ash,no2,3180,24.8625,1,1,0,ugm-3,hourly,32,waun
+7137,24/09/2016 22:00,24/09/2016 23:00,rhd8,Rhondda Mountain Ash,no2,3180,21.0375,1,1,0,ugm-3,hourly,32,waun
+7138,NA,NA,rhd8,Rhondda Mountain Ash,no2,3180,21.0375,1,1,0,ugm-3,hourly,32,waun
+7235,23/09/2016 00:00,23/09/2016 01:00,sw10,Swansea Station Court High Street,no2,3183,24.8625,1,1,0,ugm-3,hourly,32,waun
+7236,23/09/2016 01:00,23/09/2016 02:00,sw10,Swansea Station Court High Street,no2,3183,21.0375,1,1,0,ugm-3,hourly,32,waun
+7237,23/09/2016 02:00,23/09/2016 03:00,sw10,Swansea Station Court High Street,no2,3183,21.0375,1,1,0,ugm-3,hourly,32,waun
+7238,23/09/2016 03:00,23/09/2016 04:00,sw10,Swansea Station Court High Street,no2,3183,22.95,1,1,0,ugm-3,hourly,32,waun
+7239,23/09/2016 04:00,23/09/2016 05:00,sw10,Swansea Station Court High Street,no2,3183,24.8625,1,1,0,ugm-3,hourly,32,waun
+7240,23/09/2016 05:00,23/09/2016 06:00,sw10,Swansea Station Court High Street,no2,3183,32.5125,1,1,0,ugm-3,hourly,32,waun
+7241,23/09/2016 06:00,23/09/2016 07:00,sw10,Swansea Station Court High Street,no2,3183,42.075,1,1,0,ugm-3,hourly,32,waun
+7242,23/09/2016 07:00,23/09/2016 08:00,sw10,Swansea Station Court High Street,no2,3183,72.675,1,1,0,ugm-3,hourly,32,waun
+7243,23/09/2016 08:00,23/09/2016 09:00,sw10,Swansea Station Court High Street,no2,3183,105.1875,1,1,0,ugm-3,hourly,32,waun
+7244,23/09/2016 09:00,23/09/2016 10:00,sw10,Swansea Station Court High Street,no2,3183,66.9375,1,1,0,ugm-3,hourly,32,waun
+7245,23/09/2016 10:00,23/09/2016 11:00,sw10,Swansea Station Court High Street,no2,3183,103.275,1,1,0,ugm-3,hourly,32,waun
+7246,23/09/2016 11:00,23/09/2016 12:00,sw10,Swansea Station Court High Street,no2,3183,76.5,1,1,0,ugm-3,hourly,32,waun
+7247,23/09/2016 12:00,23/09/2016 13:00,sw10,Swansea Station Court High Street,no2,3183,70.7625,1,1,0,ugm-3,hourly,32,waun
+7248,23/09/2016 13:00,23/09/2016 14:00,sw10,Swansea Station Court High Street,no2,3183,97.5375,1,1,0,ugm-3,hourly,32,waun
+7249,23/09/2016 14:00,23/09/2016 15:00,sw10,Swansea Station Court High Street,no2,3183,78.4125,1,1,0,ugm-3,hourly,32,waun
+7250,23/09/2016 15:00,23/09/2016 16:00,sw10,Swansea Station Court High Street,no2,3183,89.8875,1,1,0,ugm-3,hourly,32,waun
+7251,23/09/2016 16:00,23/09/2016 17:00,sw10,Swansea Station Court High Street,no2,3183,78.4125,1,1,0,ugm-3,hourly,32,waun
+7252,23/09/2016 17:00,23/09/2016 18:00,sw10,Swansea Station Court High Street,no2,3183,99.45,1,1,0,ugm-3,hourly,32,waun
+7253,23/09/2016 18:00,23/09/2016 19:00,sw10,Swansea Station Court High Street,no2,3183,32.5125,1,1,0,ugm-3,hourly,32,waun
+7254,23/09/2016 19:00,23/09/2016 20:00,sw10,Swansea Station Court High Street,no2,3183,47.8125,1,1,0,ugm-3,hourly,32,waun
+7255,23/09/2016 20:00,23/09/2016 21:00,sw10,Swansea Station Court High Street,no2,3183,70.7625,1,1,0,ugm-3,hourly,32,waun
+7256,23/09/2016 21:00,23/09/2016 22:00,sw10,Swansea Station Court High Street,no2,3183,26.775,1,1,0,ugm-3,hourly,32,waun
+7257,23/09/2016 22:00,23/09/2016 23:00,sw10,Swansea Station Court High Street,no2,3183,28.6875,1,1,0,ugm-3,hourly,32,waun
+7258,NA,NA,sw10,Swansea Station Court High Street,no2,3183,15.3,1,1,0,ugm-3,hourly,32,waun
+7259,24/09/2016 00:00,24/09/2016 01:00,sw10,Swansea Station Court High Street,no2,3183,11.475,1,1,0,ugm-3,hourly,32,waun
+7260,24/09/2016 01:00,24/09/2016 02:00,sw10,Swansea Station Court High Street,no2,3183,7.65,1,1,0,ugm-3,hourly,32,waun
+7261,24/09/2016 02:00,24/09/2016 03:00,sw10,Swansea Station Court High Street,no2,3183,5.7375,1,1,0,ugm-3,hourly,32,waun
+7262,24/09/2016 03:00,24/09/2016 04:00,sw10,Swansea Station Court High Street,no2,3183,3.825,1,1,0,ugm-3,hourly,32,waun
+7263,24/09/2016 04:00,24/09/2016 05:00,sw10,Swansea Station Court High Street,no2,3183,3.825,1,1,0,ugm-3,hourly,32,waun
+7264,24/09/2016 05:00,24/09/2016 06:00,sw10,Swansea Station Court High Street,no2,3183,1.9125,1,1,0,ugm-3,hourly,32,waun
+7265,24/09/2016 06:00,24/09/2016 07:00,sw10,Swansea Station Court High Street,no2,3183,9.5625,1,1,0,ugm-3,hourly,32,waun
+7266,24/09/2016 07:00,24/09/2016 08:00,sw10,Swansea Station Court High Street,no2,3183,19.125,1,1,0,ugm-3,hourly,32,waun
+7267,24/09/2016 08:00,24/09/2016 09:00,sw10,Swansea Station Court High Street,no2,3183,89.8875,1,1,0,ugm-3,hourly,32,waun
+7268,24/09/2016 09:00,24/09/2016 10:00,sw10,Swansea Station Court High Street,no2,3183,22.95,1,1,0,ugm-3,hourly,32,waun
+7269,24/09/2016 10:00,24/09/2016 11:00,sw10,Swansea Station Court High Street,no2,3183,36.3375,1,1,0,ugm-3,hourly,32,waun
+7270,24/09/2016 11:00,24/09/2016 12:00,sw10,Swansea Station Court High Street,no2,3183,34.425,1,1,0,ugm-3,hourly,32,waun
+7271,24/09/2016 12:00,24/09/2016 13:00,sw10,Swansea Station Court High Street,no2,3183,30.6,1,1,0,ugm-3,hourly,32,waun
+7272,24/09/2016 13:00,24/09/2016 14:00,sw10,Swansea Station Court High Street,no2,3183,42.075,1,1,0,ugm-3,hourly,32,waun
+7273,24/09/2016 14:00,24/09/2016 15:00,sw10,Swansea Station Court High Street,no2,3183,42.075,1,1,0,ugm-3,hourly,32,waun
+7274,24/09/2016 15:00,24/09/2016 16:00,sw10,Swansea Station Court High Street,no2,3183,55.4625,1,1,0,ugm-3,hourly,32,waun
+7275,24/09/2016 16:00,24/09/2016 17:00,sw10,Swansea Station Court High Street,no2,3183,34.425,1,1,0,ugm-3,hourly,32,waun
+7276,24/09/2016 17:00,24/09/2016 18:00,sw10,Swansea Station Court High Street,no2,3183,34.425,1,1,0,ugm-3,hourly,32,waun
+7277,24/09/2016 18:00,24/09/2016 19:00,sw10,Swansea Station Court High Street,no2,3183,21.0375,1,1,0,ugm-3,hourly,32,waun
+7278,24/09/2016 19:00,24/09/2016 20:00,sw10,Swansea Station Court High Street,no2,3183,17.2125,1,1,0,ugm-3,hourly,32,waun
+7279,24/09/2016 20:00,24/09/2016 21:00,sw10,Swansea Station Court High Street,no2,3183,26.775,1,1,0,ugm-3,hourly,32,waun
+7280,24/09/2016 21:00,24/09/2016 22:00,sw10,Swansea Station Court High Street,no2,3183,28.6875,1,1,0,ugm-3,hourly,32,waun
+7281,24/09/2016 22:00,24/09/2016 23:00,sw10,Swansea Station Court High Street,no2,3183,36.3375,1,1,0,ugm-3,hourly,32,waun
+7282,NA,NA,sw10,Swansea Station Court High Street,no2,3183,47.8125,1,1,0,ugm-3,hourly,32,waun
+7331,23/09/2016 00:00,23/09/2016 01:00,swa1,Swansea Roadside,no2,1830,44.94375,1,1,0,ugm-3,hourly,32,waun
+7332,23/09/2016 01:00,23/09/2016 02:00,swa1,Swansea Roadside,no2,1830,34.99875,1,1,0,ugm-3,hourly,32,waun
+7333,23/09/2016 02:00,23/09/2016 03:00,swa1,Swansea Roadside,no2,1830,33.08625,1,1,0,ugm-3,hourly,32,waun
+7334,23/09/2016 03:00,23/09/2016 04:00,swa1,Swansea Roadside,no2,1830,32.5125,1,1,0,ugm-3,hourly,32,waun
+7335,23/09/2016 04:00,23/09/2016 05:00,swa1,Swansea Roadside,no2,1830,36.3375,1,1,0,ugm-3,hourly,32,waun
+7336,23/09/2016 05:00,23/09/2016 06:00,swa1,Swansea Roadside,no2,1830,44.56125,1,1,0,ugm-3,hourly,32,waun
+7337,23/09/2016 06:00,23/09/2016 07:00,swa1,Swansea Roadside,no2,1830,61.5825,1,1,0,ugm-3,hourly,32,waun
+7338,23/09/2016 07:00,23/09/2016 08:00,swa1,Swansea Roadside,no2,1830,53.74125,1,1,0,ugm-3,hourly,32,waun
+7339,23/09/2016 08:00,23/09/2016 09:00,swa1,Swansea Roadside,no2,1830,45.9,1,1,0,ugm-3,hourly,32,waun
+7340,23/09/2016 09:00,23/09/2016 10:00,swa1,Swansea Roadside,no2,1830,19.125,1,1,0,ugm-3,hourly,32,waun
+7341,23/09/2016 10:00,23/09/2016 11:00,swa1,Swansea Roadside,no2,1830,13.3875,1,1,0,ugm-3,hourly,32,waun
+7342,23/09/2016 11:00,23/09/2016 12:00,swa1,Swansea Roadside,no2,1830,15.3,1,1,0,ugm-3,hourly,32,waun
+7343,23/09/2016 12:00,23/09/2016 13:00,swa1,Swansea Roadside,no2,1830,13.57875,1,1,0,ugm-3,hourly,32,waun
+7344,23/09/2016 13:00,23/09/2016 14:00,swa1,Swansea Roadside,no2,1830,11.8575,1,1,0,ugm-3,hourly,32,waun
+7345,23/09/2016 14:00,23/09/2016 15:00,swa1,Swansea Roadside,no2,1830,15.87375,1,1,0,ugm-3,hourly,32,waun
+7346,23/09/2016 15:00,23/09/2016 16:00,swa1,Swansea Roadside,no2,1830,19.89,1,1,0,ugm-3,hourly,32,waun
+7347,23/09/2016 16:00,23/09/2016 17:00,swa1,Swansea Roadside,no2,1830,19.69875,1,1,0,ugm-3,hourly,32,waun
+7348,23/09/2016 17:00,23/09/2016 18:00,swa1,Swansea Roadside,no2,1830,21.99375,1,1,0,ugm-3,hourly,32,waun
+7349,23/09/2016 18:00,23/09/2016 19:00,swa1,Swansea Roadside,no2,1830,22.5675,1,1,0,ugm-3,hourly,32,waun
+7350,23/09/2016 19:00,23/09/2016 20:00,swa1,Swansea Roadside,no2,1830,13.3875,1,1,0,ugm-3,hourly,32,waun
+7351,23/09/2016 20:00,23/09/2016 21:00,swa1,Swansea Roadside,no2,1830,15.3,1,1,0,ugm-3,hourly,32,waun
+7352,23/09/2016 21:00,23/09/2016 22:00,swa1,Swansea Roadside,no2,1830,20.84625,1,1,0,ugm-3,hourly,32,waun
+7353,23/09/2016 22:00,23/09/2016 23:00,swa1,Swansea Roadside,no2,1830,10.90125,1,1,0,ugm-3,hourly,32,waun
+7354,NA,NA,swa1,Swansea Roadside,no2,1830,6.69375,1,1,0,ugm-3,hourly,32,waun
+7355,24/09/2016 00:00,24/09/2016 01:00,swa1,Swansea Roadside,no2,1830,5.355,1,1,0,ugm-3,hourly,32,waun
+7356,24/09/2016 01:00,24/09/2016 02:00,swa1,Swansea Roadside,no2,1830,5.7375,1,1,0,ugm-3,hourly,32,waun
+7357,24/09/2016 02:00,24/09/2016 03:00,swa1,Swansea Roadside,no2,1830,5.16375,1,1,0,ugm-3,hourly,32,waun
+7358,24/09/2016 03:00,24/09/2016 04:00,swa1,Swansea Roadside,no2,1830,3.4425,1,1,0,ugm-3,hourly,32,waun
+7359,24/09/2016 04:00,24/09/2016 05:00,swa1,Swansea Roadside,no2,1830,3.06,1,1,0,ugm-3,hourly,32,waun
+7360,24/09/2016 05:00,24/09/2016 06:00,swa1,Swansea Roadside,no2,1830,5.54625,1,1,0,ugm-3,hourly,32,waun
+7361,24/09/2016 06:00,24/09/2016 07:00,swa1,Swansea Roadside,no2,1830,13.77,1,1,0,ugm-3,hourly,32,waun
+7362,24/09/2016 07:00,24/09/2016 08:00,swa1,Swansea Roadside,no2,1830,12.81375,1,1,0,ugm-3,hourly,32,waun
+7363,24/09/2016 08:00,24/09/2016 09:00,swa1,Swansea Roadside,no2,1830,15.6825,1,1,0,ugm-3,hourly,32,waun
+7364,24/09/2016 09:00,24/09/2016 10:00,swa1,Swansea Roadside,no2,1830,20.655,1,1,0,ugm-3,hourly,32,waun
+7365,24/09/2016 10:00,24/09/2016 11:00,swa1,Swansea Roadside,no2,1830,21.99375,1,1,0,ugm-3,hourly,32,waun
+7366,24/09/2016 11:00,24/09/2016 12:00,swa1,Swansea Roadside,no2,1830,24.67125,1,1,0,ugm-3,hourly,32,waun
+7367,24/09/2016 12:00,24/09/2016 13:00,swa1,Swansea Roadside,no2,1830,24.28875,1,1,0,ugm-3,hourly,32,waun
+7368,24/09/2016 13:00,24/09/2016 14:00,swa1,Swansea Roadside,no2,1830,13.57875,1,1,0,ugm-3,hourly,32,waun
+7369,24/09/2016 14:00,24/09/2016 15:00,swa1,Swansea Roadside,no2,1830,15.3,1,1,0,ugm-3,hourly,32,waun
+7370,24/09/2016 15:00,24/09/2016 16:00,swa1,Swansea Roadside,no2,1830,24.8625,1,1,0,ugm-3,hourly,32,waun
+7371,24/09/2016 16:00,24/09/2016 17:00,swa1,Swansea Roadside,no2,1830,14.34375,1,1,0,ugm-3,hourly,32,waun
+7372,24/09/2016 17:00,24/09/2016 18:00,swa1,Swansea Roadside,no2,1830,14.1525,1,1,0,ugm-3,hourly,32,waun
+7373,24/09/2016 18:00,24/09/2016 19:00,swa1,Swansea Roadside,no2,1830,15.3,1,1,0,ugm-3,hourly,32,waun
+7374,24/09/2016 19:00,24/09/2016 20:00,swa1,Swansea Roadside,no2,1830,17.2125,1,1,0,ugm-3,hourly,32,waun
+7375,24/09/2016 20:00,24/09/2016 21:00,swa1,Swansea Roadside,no2,1830,18.55125,1,1,0,ugm-3,hourly,32,waun
+7376,24/09/2016 21:00,24/09/2016 22:00,swa1,Swansea Roadside,no2,1830,16.25625,1,1,0,ugm-3,hourly,32,waun
+7377,24/09/2016 22:00,24/09/2016 23:00,swa1,Swansea Roadside,no2,1830,13.77,1,1,0,ugm-3,hourly,32,waun
+7378,NA,NA,swa1,Swansea Roadside,no2,1830,22.37625,1,1,0,ugm-3,hourly,32,waun
+7811,23/09/2016 10:00,23/09/2016 11:00,swa5,Swansea Morriston Roadside,no2,1255,58.465125,1,1,0,ugm-3,hourly,32,waun
+7812,23/09/2016 11:00,23/09/2016 12:00,swa5,Swansea Morriston Roadside,no2,1255,44.011406,1,1,0,ugm-3,hourly,32,waun
+7813,23/09/2016 12:00,23/09/2016 13:00,swa5,Swansea Morriston Roadside,no2,1255,53.707781,1,1,0,ugm-3,hourly,32,waun
+7814,23/09/2016 13:00,23/09/2016 14:00,swa5,Swansea Morriston Roadside,no2,1255,61.950656,1,1,0,ugm-3,hourly,32,waun
+7815,23/09/2016 14:00,23/09/2016 15:00,swa5,Swansea Morriston Roadside,no2,1255,59.201437,1,1,0,ugm-3,hourly,32,waun
+7816,23/09/2016 15:00,23/09/2016 16:00,swa5,Swansea Morriston Roadside,no2,1255,66.306375,1,1,0,ugm-3,hourly,32,waun
+7817,23/09/2016 16:00,23/09/2016 17:00,swa5,Swansea Morriston Roadside,no2,1255,71.551406,1,1,0,ugm-3,hourly,32,waun
+7818,23/09/2016 17:00,23/09/2016 18:00,swa5,Swansea Morriston Roadside,no2,1255,55.926281,1,1,0,ugm-3,hourly,32,waun
+7819,23/09/2016 18:00,23/09/2016 19:00,swa5,Swansea Morriston Roadside,no2,1255,53.899031,1,1,0,ugm-3,hourly,32,waun
+7820,23/09/2016 19:00,23/09/2016 20:00,swa5,Swansea Morriston Roadside,no2,1255,49.53375,1,1,0,ugm-3,hourly,32,waun
+7821,23/09/2016 20:00,23/09/2016 21:00,swa5,Swansea Morriston Roadside,no2,1255,45.412312,1,1,0,ugm-3,hourly,32,waun
+7822,23/09/2016 21:00,23/09/2016 22:00,swa5,Swansea Morriston Roadside,no2,1255,38.885906,1,1,0,ugm-3,hourly,32,waun
+7823,23/09/2016 22:00,23/09/2016 23:00,swa5,Swansea Morriston Roadside,no2,1255,35.529469,1,1,0,ugm-3,hourly,32,waun
+7824,NA,NA,swa5,Swansea Morriston Roadside,no2,1255,31.102031,1,1,0,ugm-3,hourly,32,waun
+7825,24/09/2016 00:00,24/09/2016 01:00,swa5,Swansea Morriston Roadside,no2,1255,NA,1,1,0,ugm-3,hourly,32,waun
+7826,24/09/2016 01:00,24/09/2016 02:00,swa5,Swansea Morriston Roadside,no2,1255,90.566438,1,1,0,ugm-3,hourly,32,waun
+7827,24/09/2016 02:00,24/09/2016 03:00,swa5,Swansea Morriston Roadside,no2,1255,32.675063,1,1,0,ugm-3,hourly,32,waun
+7828,24/09/2016 03:00,24/09/2016 04:00,swa5,Swansea Morriston Roadside,no2,1255,29.33775,1,1,0,ugm-3,hourly,32,waun
+7829,24/09/2016 04:00,24/09/2016 05:00,swa5,Swansea Morriston Roadside,no2,1255,30.313125,1,1,0,ugm-3,hourly,32,waun
+7830,24/09/2016 05:00,24/09/2016 06:00,swa5,Swansea Morriston Roadside,no2,1255,28.95525,1,1,0,ugm-3,hourly,32,waun
+7831,24/09/2016 06:00,24/09/2016 07:00,swa5,Swansea Morriston Roadside,no2,1255,30.949031,1,1,0,ugm-3,hourly,32,waun
+7832,24/09/2016 07:00,24/09/2016 08:00,swa5,Swansea Morriston Roadside,no2,1255,32.684625,1,1,0,ugm-3,hourly,32,waun
+7833,24/09/2016 08:00,24/09/2016 09:00,swa5,Swansea Morriston Roadside,no2,1255,31.412813,1,1,0,ugm-3,hourly,32,waun
+7834,24/09/2016 09:00,24/09/2016 10:00,swa5,Swansea Morriston Roadside,no2,1255,32.077406,1,1,0,ugm-3,hourly,32,waun
+7835,24/09/2016 10:00,24/09/2016 11:00,swa5,Swansea Morriston Roadside,no2,1255,30.719531,1,1,0,ugm-3,hourly,32,waun
+7836,24/09/2016 11:00,24/09/2016 12:00,swa5,Swansea Morriston Roadside,no2,1255,29.906719,1,1,0,ugm-3,hourly,32,waun
+7837,24/09/2016 12:00,24/09/2016 13:00,swa5,Swansea Morriston Roadside,no2,1255,27.124031,1,1,0,ugm-3,hourly,32,waun
+7838,24/09/2016 13:00,24/09/2016 14:00,swa5,Swansea Morriston Roadside,no2,1255,28.305,1,1,0,ugm-3,hourly,32,waun
+7839,24/09/2016 14:00,24/09/2016 15:00,swa5,Swansea Morriston Roadside,no2,1255,26.88975,1,1,0,ugm-3,hourly,32,waun
+7840,24/09/2016 15:00,24/09/2016 16:00,swa5,Swansea Morriston Roadside,no2,1255,26.220375,1,1,0,ugm-3,hourly,32,waun
+7841,24/09/2016 16:00,24/09/2016 17:00,swa5,Swansea Morriston Roadside,no2,1255,26.282531,1,1,0,ugm-3,hourly,32,waun
+7842,24/09/2016 17:00,24/09/2016 18:00,swa5,Swansea Morriston Roadside,no2,1255,28.022906,1,1,0,ugm-3,hourly,32,waun
+7843,24/09/2016 18:00,24/09/2016 19:00,swa5,Swansea Morriston Roadside,no2,1255,29.787188,1,1,0,ugm-3,hourly,32,waun
+7844,24/09/2016 19:00,24/09/2016 20:00,swa5,Swansea Morriston Roadside,no2,1255,29.33775,1,1,0,ugm-3,hourly,32,waun
+7845,24/09/2016 20:00,24/09/2016 21:00,swa5,Swansea Morriston Roadside,no2,1255,29.734594,1,1,0,ugm-3,hourly,32,waun
+7846,24/09/2016 21:00,24/09/2016 22:00,swa5,Swansea Morriston Roadside,no2,1255,34.291125,1,1,0,ugm-3,hourly,32,waun
+7847,24/09/2016 22:00,24/09/2016 23:00,swa5,Swansea Morriston Roadside,no2,1255,26.316,1,1,0,ugm-3,hourly,32,waun
+7848,NA,NA,swa5,Swansea Morriston Roadside,no2,1255,38.622937,1,1,0,ugm-3,hourly,32,waun
+7887,23/09/2016 00:00,23/09/2016 01:00,swa5,Swansea Morriston Roadside,o3,1256,NA,1,1,0,ugm-3,hourly,35,waun
+7888,23/09/2016 01:00,23/09/2016 02:00,swa5,Swansea Morriston Roadside,o3,1256,12.258587,1,1,0,ugm-3,hourly,35,waun
+7889,23/09/2016 02:00,23/09/2016 03:00,swa5,Swansea Morriston Roadside,o3,1256,9.684134,1,1,0,ugm-3,hourly,35,waun
+7890,23/09/2016 03:00,23/09/2016 04:00,swa5,Swansea Morriston Roadside,o3,1256,10.222973,1,1,0,ugm-3,hourly,35,waun
+7891,23/09/2016 04:00,23/09/2016 05:00,swa5,Swansea Morriston Roadside,o3,1256,9.504521,1,1,0,ugm-3,hourly,35,waun
+7892,23/09/2016 05:00,23/09/2016 06:00,swa5,Swansea Morriston Roadside,o3,1256,-0.139699,4,1,0,ugm-3,hourly,35,waun
+7893,23/09/2016 06:00,23/09/2016 07:00,swa5,Swansea Morriston Roadside,o3,1256,-2.374883,4,1,0,ugm-3,hourly,35,waun
+7894,23/09/2016 07:00,23/09/2016 08:00,swa5,Swansea Morriston Roadside,o3,1256,-2.689206,4,1,0,ugm-3,hourly,35,waun
+7895,23/09/2016 08:00,23/09/2016 09:00,swa5,Swansea Morriston Roadside,o3,1256,7.693423,1,1,0,ugm-3,hourly,35,waun
+7896,23/09/2016 09:00,23/09/2016 10:00,swa5,Swansea Morriston Roadside,o3,1256,50.720715,1,1,0,ugm-3,hourly,35,waun
+7897,23/09/2016 10:00,23/09/2016 11:00,swa5,Swansea Morriston Roadside,o3,1256,54.527513,1,1,0,ugm-3,hourly,35,waun
+7898,23/09/2016 11:00,23/09/2016 12:00,swa5,Swansea Morriston Roadside,o3,1256,57.436246,1,1,0,ugm-3,hourly,35,waun
+7899,23/09/2016 12:00,23/09/2016 13:00,swa5,Swansea Morriston Roadside,o3,1256,58.903086,1,1,0,ugm-3,hourly,35,waun
+7900,23/09/2016 13:00,23/09/2016 14:00,swa5,Swansea Morriston Roadside,o3,1256,54.846825,1,1,0,ugm-3,hourly,35,waun
+7901,23/09/2016 14:00,23/09/2016 15:00,swa5,Swansea Morriston Roadside,o3,1256,55.849665,1,1,0,ugm-3,hourly,35,waun
+7902,23/09/2016 15:00,23/09/2016 16:00,swa5,Swansea Morriston Roadside,o3,1256,55.285879,1,1,0,ugm-3,hourly,35,waun
+7903,23/09/2016 16:00,23/09/2016 17:00,swa5,Swansea Morriston Roadside,o3,1256,54.108416,1,1,0,ugm-3,hourly,35,waun
+7904,23/09/2016 17:00,23/09/2016 18:00,swa5,Swansea Morriston Roadside,o3,1256,65.488895,1,1,0,ugm-3,hourly,35,waun
+7905,23/09/2016 18:00,23/09/2016 19:00,swa5,Swansea Morriston Roadside,o3,1256,65.538788,1,1,0,ugm-3,hourly,35,waun
+7906,23/09/2016 19:00,23/09/2016 20:00,swa5,Swansea Morriston Roadside,o3,1256,66.686316,1,1,0,ugm-3,hourly,35,waun
+7907,23/09/2016 20:00,23/09/2016 21:00,swa5,Swansea Morriston Roadside,o3,1256,63.667819,1,1,0,ugm-3,hourly,35,waun
+7908,23/09/2016 21:00,23/09/2016 22:00,swa5,Swansea Morriston Roadside,o3,1256,61.766915,1,1,0,ugm-3,hourly,35,waun
+7909,23/09/2016 22:00,23/09/2016 23:00,swa5,Swansea Morriston Roadside,o3,1256,62.764765,1,1,0,ugm-3,hourly,35,waun
+7910,NA,NA,swa5,Swansea Morriston Roadside,o3,1256,59.786183,1,1,0,ugm-3,hourly,35,waun
+7911,24/09/2016 00:00,24/09/2016 01:00,swa5,Swansea Morriston Roadside,o3,1256,NA,1,1,0,ugm-3,hourly,35,waun
+7912,24/09/2016 01:00,24/09/2016 02:00,swa5,Swansea Morriston Roadside,o3,1256,54.966567,1,1,0,ugm-3,hourly,35,waun
+7913,24/09/2016 02:00,24/09/2016 03:00,swa5,Swansea Morriston Roadside,o3,1256,55.270911,1,1,0,ugm-3,hourly,35,waun
+7914,24/09/2016 03:00,24/09/2016 04:00,swa5,Swansea Morriston Roadside,o3,1256,54.672201,1,1,0,ugm-3,hourly,35,waun
+7915,24/09/2016 04:00,24/09/2016 05:00,swa5,Swansea Morriston Roadside,o3,1256,52.965878,1,1,0,ugm-3,hourly,35,waun
+7916,24/09/2016 05:00,24/09/2016 06:00,swa5,Swansea Morriston Roadside,o3,1256,50.002263,1,1,0,ugm-3,hourly,35,waun
+7917,24/09/2016 06:00,24/09/2016 07:00,swa5,Swansea Morriston Roadside,o3,1256,46.175509,1,1,0,ugm-3,hourly,35,waun
+7918,24/09/2016 07:00,24/09/2016 08:00,swa5,Swansea Morriston Roadside,o3,1256,48.75994,1,1,0,ugm-3,hourly,35,waun
+7919,24/09/2016 08:00,24/09/2016 09:00,swa5,Swansea Morriston Roadside,o3,1256,51.139812,1,1,0,ugm-3,hourly,35,waun
+7920,24/09/2016 09:00,24/09/2016 10:00,swa5,Swansea Morriston Roadside,o3,1256,49.952371,1,1,0,ugm-3,hourly,35,waun
+7921,24/09/2016 10:00,24/09/2016 11:00,swa5,Swansea Morriston Roadside,o3,1256,50.321576,1,1,0,ugm-3,hourly,35,waun
+7922,24/09/2016 11:00,24/09/2016 12:00,swa5,Swansea Morriston Roadside,o3,1256,53.399943,1,1,0,ugm-3,hourly,35,waun
+7923,24/09/2016 12:00,24/09/2016 13:00,swa5,Swansea Morriston Roadside,o3,1256,56.712805,1,1,0,ugm-3,hourly,35,waun
+7924,24/09/2016 13:00,24/09/2016 14:00,swa5,Swansea Morriston Roadside,o3,1256,61.487517,1,1,0,ugm-3,hourly,35,waun
+7925,24/09/2016 14:00,24/09/2016 15:00,swa5,Swansea Morriston Roadside,o3,1256,64.032034,1,1,0,ugm-3,hourly,35,waun
+7926,24/09/2016 15:00,24/09/2016 16:00,swa5,Swansea Morriston Roadside,o3,1256,61.692076,1,1,0,ugm-3,hourly,35,waun
+7927,24/09/2016 16:00,24/09/2016 17:00,swa5,Swansea Morriston Roadside,o3,1256,59.826097,1,1,0,ugm-3,hourly,35,waun
+7928,24/09/2016 17:00,24/09/2016 18:00,swa5,Swansea Morriston Roadside,o3,1256,56.418439,1,1,0,ugm-3,hourly,35,waun
+7929,24/09/2016 18:00,24/09/2016 19:00,swa5,Swansea Morriston Roadside,o3,1256,54.672201,1,1,0,ugm-3,hourly,35,waun
+7930,24/09/2016 19:00,24/09/2016 20:00,swa5,Swansea Morriston Roadside,o3,1256,51.788415,1,1,0,ugm-3,hourly,35,waun
+7931,24/09/2016 20:00,24/09/2016 21:00,swa5,Swansea Morriston Roadside,o3,1256,52.826179,1,1,0,ugm-3,hourly,35,waun
+7932,24/09/2016 21:00,24/09/2016 22:00,swa5,Swansea Morriston Roadside,o3,1256,51.658695,1,1,0,ugm-3,hourly,35,waun
+7933,24/09/2016 22:00,24/09/2016 23:00,swa5,Swansea Morriston Roadside,o3,1256,63.308593,1,1,0,ugm-3,hourly,35,waun
+7934,NA,NA,swa5,Swansea Morriston Roadside,o3,1256,38.721569,1,1,0,ugm-3,hourly,35,waun
+8068,23/09/2016 00:00,23/09/2016 01:00,swa7,Swansea Hafod DOAS,no2,1559,40.1625,5,1,0,ugm-3,hourly,32,waun
+8069,23/09/2016 01:00,23/09/2016 02:00,swa7,Swansea Hafod DOAS,no2,1559,26.775,5,1,0,ugm-3,hourly,32,waun
+8070,23/09/2016 02:00,23/09/2016 03:00,swa7,Swansea Hafod DOAS,no2,1559,28.6875,5,1,0,ugm-3,hourly,32,waun
+8071,23/09/2016 03:00,23/09/2016 04:00,swa7,Swansea Hafod DOAS,no2,1559,32.5125,5,1,0,ugm-3,hourly,32,waun
+8072,23/09/2016 04:00,23/09/2016 05:00,swa7,Swansea Hafod DOAS,no2,1559,36.3375,5,1,0,ugm-3,hourly,32,waun
+8073,23/09/2016 05:00,23/09/2016 06:00,swa7,Swansea Hafod DOAS,no2,1559,45.9,5,1,0,ugm-3,hourly,32,waun
+8074,23/09/2016 06:00,23/09/2016 07:00,swa7,Swansea Hafod DOAS,no2,1559,70.7625,5,1,0,ugm-3,hourly,32,waun
+8075,23/09/2016 07:00,23/09/2016 08:00,swa7,Swansea Hafod DOAS,no2,1559,109.0125,5,1,0,ugm-3,hourly,32,waun
+8076,23/09/2016 08:00,23/09/2016 09:00,swa7,Swansea Hafod DOAS,no2,1559,86.0625,5,1,0,ugm-3,hourly,32,waun
+8077,23/09/2016 09:00,23/09/2016 10:00,swa7,Swansea Hafod DOAS,no2,1559,34.425,5,1,0,ugm-3,hourly,32,waun
+8078,23/09/2016 10:00,23/09/2016 11:00,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8079,23/09/2016 11:00,23/09/2016 12:00,swa7,Swansea Hafod DOAS,no2,1559,34.425,5,1,0,ugm-3,hourly,32,waun
+8080,23/09/2016 12:00,23/09/2016 13:00,swa7,Swansea Hafod DOAS,no2,1559,40.1625,5,1,0,ugm-3,hourly,32,waun
+8081,23/09/2016 13:00,23/09/2016 14:00,swa7,Swansea Hafod DOAS,no2,1559,34.425,5,1,0,ugm-3,hourly,32,waun
+8082,23/09/2016 14:00,23/09/2016 15:00,swa7,Swansea Hafod DOAS,no2,1559,42.075,5,1,0,ugm-3,hourly,32,waun
+8083,23/09/2016 15:00,23/09/2016 16:00,swa7,Swansea Hafod DOAS,no2,1559,38.25,5,1,0,ugm-3,hourly,32,waun
+8084,23/09/2016 16:00,23/09/2016 17:00,swa7,Swansea Hafod DOAS,no2,1559,40.1625,5,1,0,ugm-3,hourly,32,waun
+8085,23/09/2016 17:00,23/09/2016 18:00,swa7,Swansea Hafod DOAS,no2,1559,53.55,5,1,0,ugm-3,hourly,32,waun
+8086,23/09/2016 18:00,23/09/2016 19:00,swa7,Swansea Hafod DOAS,no2,1559,42.075,5,1,0,ugm-3,hourly,32,waun
+8087,23/09/2016 19:00,23/09/2016 20:00,swa7,Swansea Hafod DOAS,no2,1559,34.425,5,1,0,ugm-3,hourly,32,waun
+8088,23/09/2016 20:00,23/09/2016 21:00,swa7,Swansea Hafod DOAS,no2,1559,32.5125,5,1,0,ugm-3,hourly,32,waun
+8089,23/09/2016 21:00,23/09/2016 22:00,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8090,23/09/2016 22:00,23/09/2016 23:00,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8091,NA,NA,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8092,24/09/2016 00:00,24/09/2016 01:00,swa7,Swansea Hafod DOAS,no2,1559,24.8625,5,1,0,ugm-3,hourly,32,waun
+8093,24/09/2016 01:00,24/09/2016 02:00,swa7,Swansea Hafod DOAS,no2,1559,17.2125,5,1,0,ugm-3,hourly,32,waun
+8094,24/09/2016 02:00,24/09/2016 03:00,swa7,Swansea Hafod DOAS,no2,1559,11.475,5,1,0,ugm-3,hourly,32,waun
+8095,24/09/2016 03:00,24/09/2016 04:00,swa7,Swansea Hafod DOAS,no2,1559,15.3,5,1,0,ugm-3,hourly,32,waun
+8096,24/09/2016 04:00,24/09/2016 05:00,swa7,Swansea Hafod DOAS,no2,1559,17.2125,5,1,0,ugm-3,hourly,32,waun
+8097,24/09/2016 05:00,24/09/2016 06:00,swa7,Swansea Hafod DOAS,no2,1559,15.3,5,1,0,ugm-3,hourly,32,waun
+8098,24/09/2016 06:00,24/09/2016 07:00,swa7,Swansea Hafod DOAS,no2,1559,22.95,5,1,0,ugm-3,hourly,32,waun
+8099,24/09/2016 07:00,24/09/2016 08:00,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8100,24/09/2016 08:00,24/09/2016 09:00,swa7,Swansea Hafod DOAS,no2,1559,28.6875,5,1,0,ugm-3,hourly,32,waun
+8101,24/09/2016 09:00,24/09/2016 10:00,swa7,Swansea Hafod DOAS,no2,1559,26.775,5,1,0,ugm-3,hourly,32,waun
+8102,24/09/2016 10:00,24/09/2016 11:00,swa7,Swansea Hafod DOAS,no2,1559,32.5125,5,1,0,ugm-3,hourly,32,waun
+8103,24/09/2016 11:00,24/09/2016 12:00,swa7,Swansea Hafod DOAS,no2,1559,36.3375,5,1,0,ugm-3,hourly,32,waun
+8104,24/09/2016 12:00,24/09/2016 13:00,swa7,Swansea Hafod DOAS,no2,1559,47.8125,5,1,0,ugm-3,hourly,32,waun
+8105,24/09/2016 13:00,24/09/2016 14:00,swa7,Swansea Hafod DOAS,no2,1559,47.8125,5,1,0,ugm-3,hourly,32,waun
+8106,24/09/2016 14:00,24/09/2016 15:00,swa7,Swansea Hafod DOAS,no2,1559,34.425,5,1,0,ugm-3,hourly,32,waun
+8107,24/09/2016 15:00,24/09/2016 16:00,swa7,Swansea Hafod DOAS,no2,1559,30.6,5,1,0,ugm-3,hourly,32,waun
+8108,24/09/2016 16:00,24/09/2016 17:00,swa7,Swansea Hafod DOAS,no2,1559,43.9875,5,1,0,ugm-3,hourly,32,waun
+8109,24/09/2016 17:00,24/09/2016 18:00,swa7,Swansea Hafod DOAS,no2,1559,40.1625,5,1,0,ugm-3,hourly,32,waun
+8110,24/09/2016 18:00,24/09/2016 19:00,swa7,Swansea Hafod DOAS,no2,1559,26.775,5,1,0,ugm-3,hourly,32,waun
+8111,24/09/2016 19:00,24/09/2016 20:00,swa7,Swansea Hafod DOAS,no2,1559,22.95,5,1,0,ugm-3,hourly,32,waun
+8112,24/09/2016 20:00,24/09/2016 21:00,swa7,Swansea Hafod DOAS,no2,1559,32.5125,5,1,0,ugm-3,hourly,32,waun
+8113,24/09/2016 21:00,24/09/2016 22:00,swa7,Swansea Hafod DOAS,no2,1559,26.775,5,1,0,ugm-3,hourly,32,waun
+8114,24/09/2016 22:00,24/09/2016 23:00,swa7,Swansea Hafod DOAS,no2,1559,42.075,5,1,0,ugm-3,hourly,32,waun
+8115,NA,NA,swa7,Swansea Hafod DOAS,no2,1559,49.725,5,1,0,ugm-3,hourly,32,waun
+8163,23/09/2016 00:00,23/09/2016 01:00,swa7,Swansea Hafod DOAS,o3,1562,15.9656,5,1,0,ugm-3,hourly,35,waun
+8164,23/09/2016 01:00,23/09/2016 02:00,swa7,Swansea Hafod DOAS,o3,1562,19.957,5,1,0,ugm-3,hourly,35,waun
+8165,23/09/2016 02:00,23/09/2016 03:00,swa7,Swansea Hafod DOAS,o3,1562,13.9699,5,1,0,ugm-3,hourly,35,waun
+8166,23/09/2016 03:00,23/09/2016 04:00,swa7,Swansea Hafod DOAS,o3,1562,15.9656,5,1,0,ugm-3,hourly,35,waun
+8167,23/09/2016 04:00,23/09/2016 05:00,swa7,Swansea Hafod DOAS,o3,1562,15.9656,5,1,0,ugm-3,hourly,35,waun
+8168,23/09/2016 05:00,23/09/2016 06:00,swa7,Swansea Hafod DOAS,o3,1562,11.9742,5,1,0,ugm-3,hourly,35,waun
+8169,23/09/2016 06:00,23/09/2016 07:00,swa7,Swansea Hafod DOAS,o3,1562,13.9699,5,1,0,ugm-3,hourly,35,waun
+8170,23/09/2016 07:00,23/09/2016 08:00,swa7,Swansea Hafod DOAS,o3,1562,17.9613,5,1,0,ugm-3,hourly,35,waun
+8171,23/09/2016 08:00,23/09/2016 09:00,swa7,Swansea Hafod DOAS,o3,1562,27.9398,5,1,0,ugm-3,hourly,35,waun
+8172,23/09/2016 09:00,23/09/2016 10:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8173,23/09/2016 10:00,23/09/2016 11:00,swa7,Swansea Hafod DOAS,o3,1562,53.8839,5,1,0,ugm-3,hourly,35,waun
+8174,23/09/2016 11:00,23/09/2016 12:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8175,23/09/2016 12:00,23/09/2016 13:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8176,23/09/2016 13:00,23/09/2016 14:00,swa7,Swansea Hafod DOAS,o3,1562,57.8753,5,1,0,ugm-3,hourly,35,waun
+8177,23/09/2016 14:00,23/09/2016 15:00,swa7,Swansea Hafod DOAS,o3,1562,57.8753,5,1,0,ugm-3,hourly,35,waun
+8178,23/09/2016 15:00,23/09/2016 16:00,swa7,Swansea Hafod DOAS,o3,1562,57.8753,5,1,0,ugm-3,hourly,35,waun
+8179,23/09/2016 16:00,23/09/2016 17:00,swa7,Swansea Hafod DOAS,o3,1562,53.8839,5,1,0,ugm-3,hourly,35,waun
+8180,23/09/2016 17:00,23/09/2016 18:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8181,23/09/2016 18:00,23/09/2016 19:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8182,23/09/2016 19:00,23/09/2016 20:00,swa7,Swansea Hafod DOAS,o3,1562,53.8839,5,1,0,ugm-3,hourly,35,waun
+8183,23/09/2016 20:00,23/09/2016 21:00,swa7,Swansea Hafod DOAS,o3,1562,55.8796,5,1,0,ugm-3,hourly,35,waun
+8184,23/09/2016 21:00,23/09/2016 22:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8185,23/09/2016 22:00,23/09/2016 23:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8186,NA,NA,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8187,24/09/2016 00:00,24/09/2016 01:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8188,24/09/2016 01:00,24/09/2016 02:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8189,24/09/2016 02:00,24/09/2016 03:00,swa7,Swansea Hafod DOAS,o3,1562,53.8839,5,1,0,ugm-3,hourly,35,waun
+8190,24/09/2016 03:00,24/09/2016 04:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8191,24/09/2016 04:00,24/09/2016 05:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8192,24/09/2016 05:00,24/09/2016 06:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8193,24/09/2016 06:00,24/09/2016 07:00,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8194,24/09/2016 07:00,24/09/2016 08:00,swa7,Swansea Hafod DOAS,o3,1562,41.9097,5,1,0,ugm-3,hourly,35,waun
+8195,24/09/2016 08:00,24/09/2016 09:00,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8196,24/09/2016 09:00,24/09/2016 10:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8197,24/09/2016 10:00,24/09/2016 11:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8198,24/09/2016 11:00,24/09/2016 12:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8199,24/09/2016 12:00,24/09/2016 13:00,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8200,24/09/2016 13:00,24/09/2016 14:00,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8201,24/09/2016 14:00,24/09/2016 15:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8202,24/09/2016 15:00,24/09/2016 16:00,swa7,Swansea Hafod DOAS,o3,1562,53.8839,5,1,0,ugm-3,hourly,35,waun
+8203,24/09/2016 16:00,24/09/2016 17:00,swa7,Swansea Hafod DOAS,o3,1562,45.9011,5,1,0,ugm-3,hourly,35,waun
+8204,24/09/2016 17:00,24/09/2016 18:00,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8205,24/09/2016 18:00,24/09/2016 19:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8206,24/09/2016 19:00,24/09/2016 20:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8207,24/09/2016 20:00,24/09/2016 21:00,swa7,Swansea Hafod DOAS,o3,1562,47.8968,5,1,0,ugm-3,hourly,35,waun
+8208,24/09/2016 21:00,24/09/2016 22:00,swa7,Swansea Hafod DOAS,o3,1562,49.8925,5,1,0,ugm-3,hourly,35,waun
+8209,24/09/2016 22:00,24/09/2016 23:00,swa7,Swansea Hafod DOAS,o3,1562,51.8882,5,1,0,ugm-3,hourly,35,waun
+8210,NA,NA,swa7,Swansea Hafod DOAS,o3,1562,43.9054,5,1,0,ugm-3,hourly,35,waun
+8211,23/09/2016 00:00,23/09/2016 01:00,swa8,Swansea St Thomas DOAS,o3,2391,31.9312,5,1,0,ugm-3,hourly,35,waun
+8212,23/09/2016 01:00,23/09/2016 02:00,swa8,Swansea St Thomas DOAS,o3,2391,25.9441,5,1,0,ugm-3,hourly,35,waun
+8213,23/09/2016 02:00,23/09/2016 03:00,swa8,Swansea St Thomas DOAS,o3,2391,29.9355,5,1,0,ugm-3,hourly,35,waun
+8214,23/09/2016 03:00,23/09/2016 04:00,swa8,Swansea St Thomas DOAS,o3,2391,27.9398,5,1,0,ugm-3,hourly,35,waun
+8215,23/09/2016 04:00,23/09/2016 05:00,swa8,Swansea St Thomas DOAS,o3,2391,21.9527,5,1,0,ugm-3,hourly,35,waun
+8216,23/09/2016 05:00,23/09/2016 06:00,swa8,Swansea St Thomas DOAS,o3,2391,19.957,5,1,0,ugm-3,hourly,35,waun
+8217,23/09/2016 06:00,23/09/2016 07:00,swa8,Swansea St Thomas DOAS,o3,2391,23.9484,5,1,0,ugm-3,hourly,35,waun
+8218,23/09/2016 07:00,23/09/2016 08:00,swa8,Swansea St Thomas DOAS,o3,2391,41.9097,5,1,0,ugm-3,hourly,35,waun
+8219,23/09/2016 08:00,23/09/2016 09:00,swa8,Swansea St Thomas DOAS,o3,2391,63.8624,5,1,0,ugm-3,hourly,35,waun
+8220,23/09/2016 09:00,23/09/2016 10:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8221,23/09/2016 10:00,23/09/2016 11:00,swa8,Swansea St Thomas DOAS,o3,2391,63.8624,5,1,0,ugm-3,hourly,35,waun
+8222,23/09/2016 11:00,23/09/2016 12:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8223,23/09/2016 12:00,23/09/2016 13:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8224,23/09/2016 13:00,23/09/2016 14:00,swa8,Swansea St Thomas DOAS,o3,2391,59.871,5,1,0,ugm-3,hourly,35,waun
+8225,23/09/2016 14:00,23/09/2016 15:00,swa8,Swansea St Thomas DOAS,o3,2391,61.8667,5,1,0,ugm-3,hourly,35,waun
+8226,23/09/2016 15:00,23/09/2016 16:00,swa8,Swansea St Thomas DOAS,o3,2391,59.871,5,1,0,ugm-3,hourly,35,waun
+8227,23/09/2016 16:00,23/09/2016 17:00,swa8,Swansea St Thomas DOAS,o3,2391,59.871,5,1,0,ugm-3,hourly,35,waun
+8228,23/09/2016 17:00,23/09/2016 18:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8229,23/09/2016 18:00,23/09/2016 19:00,swa8,Swansea St Thomas DOAS,o3,2391,75.8366,5,1,0,ugm-3,hourly,35,waun
+8230,23/09/2016 19:00,23/09/2016 20:00,swa8,Swansea St Thomas DOAS,o3,2391,71.8452,5,1,0,ugm-3,hourly,35,waun
+8231,23/09/2016 20:00,23/09/2016 21:00,swa8,Swansea St Thomas DOAS,o3,2391,79.828,5,1,0,ugm-3,hourly,35,waun
+8232,23/09/2016 21:00,23/09/2016 22:00,swa8,Swansea St Thomas DOAS,o3,2391,67.8538,5,1,0,ugm-3,hourly,35,waun
+8233,23/09/2016 22:00,23/09/2016 23:00,swa8,Swansea St Thomas DOAS,o3,2391,77.8323,5,1,0,ugm-3,hourly,35,waun
+8234,NA,NA,swa8,Swansea St Thomas DOAS,o3,2391,77.8323,5,1,0,ugm-3,hourly,35,waun
+8235,24/09/2016 00:00,24/09/2016 01:00,swa8,Swansea St Thomas DOAS,o3,2391,75.8366,5,1,0,ugm-3,hourly,35,waun
+8236,24/09/2016 01:00,24/09/2016 02:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8237,24/09/2016 02:00,24/09/2016 03:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8238,24/09/2016 03:00,24/09/2016 04:00,swa8,Swansea St Thomas DOAS,o3,2391,71.8452,5,1,0,ugm-3,hourly,35,waun
+8239,24/09/2016 04:00,24/09/2016 05:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8240,24/09/2016 05:00,24/09/2016 06:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8241,24/09/2016 06:00,24/09/2016 07:00,swa8,Swansea St Thomas DOAS,o3,2391,61.8667,5,1,0,ugm-3,hourly,35,waun
+8242,24/09/2016 07:00,24/09/2016 08:00,swa8,Swansea St Thomas DOAS,o3,2391,61.8667,5,1,0,ugm-3,hourly,35,waun
+8243,24/09/2016 08:00,24/09/2016 09:00,swa8,Swansea St Thomas DOAS,o3,2391,63.8624,5,1,0,ugm-3,hourly,35,waun
+8244,24/09/2016 09:00,24/09/2016 10:00,swa8,Swansea St Thomas DOAS,o3,2391,63.8624,5,1,0,ugm-3,hourly,35,waun
+8245,24/09/2016 10:00,24/09/2016 11:00,swa8,Swansea St Thomas DOAS,o3,2391,63.8624,5,1,0,ugm-3,hourly,35,waun
+8246,24/09/2016 11:00,24/09/2016 12:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8247,24/09/2016 12:00,24/09/2016 13:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8248,24/09/2016 13:00,24/09/2016 14:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8249,24/09/2016 14:00,24/09/2016 15:00,swa8,Swansea St Thomas DOAS,o3,2391,71.8452,5,1,0,ugm-3,hourly,35,waun
+8250,24/09/2016 15:00,24/09/2016 16:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8251,24/09/2016 16:00,24/09/2016 17:00,swa8,Swansea St Thomas DOAS,o3,2391,71.8452,5,1,0,ugm-3,hourly,35,waun
+8252,24/09/2016 17:00,24/09/2016 18:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8253,24/09/2016 18:00,24/09/2016 19:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8254,24/09/2016 19:00,24/09/2016 20:00,swa8,Swansea St Thomas DOAS,o3,2391,69.8495,5,1,0,ugm-3,hourly,35,waun
+8255,24/09/2016 20:00,24/09/2016 21:00,swa8,Swansea St Thomas DOAS,o3,2391,65.8581,5,1,0,ugm-3,hourly,35,waun
+8256,24/09/2016 21:00,24/09/2016 22:00,swa8,Swansea St Thomas DOAS,o3,2391,67.8538,5,1,0,ugm-3,hourly,35,waun
+8257,24/09/2016 22:00,24/09/2016 23:00,swa8,Swansea St Thomas DOAS,o3,2391,71.8452,5,1,0,ugm-3,hourly,35,waun
+8258,NA,NA,swa8,Swansea St Thomas DOAS,o3,2391,77.8323,5,1,0,ugm-3,hourly,35,waun
+8259,23/09/2016 00:00,23/09/2016 01:00,swa8,Swansea St Thomas DOAS,no2,2387,38.25,5,1,0,ugm-3,hourly,32,waun
+8260,23/09/2016 01:00,23/09/2016 02:00,swa8,Swansea St Thomas DOAS,no2,2387,32.5125,5,1,0,ugm-3,hourly,32,waun
+8261,23/09/2016 02:00,23/09/2016 03:00,swa8,Swansea St Thomas DOAS,no2,2387,28.6875,5,1,0,ugm-3,hourly,32,waun
+8262,23/09/2016 03:00,23/09/2016 04:00,swa8,Swansea St Thomas DOAS,no2,2387,38.25,5,1,0,ugm-3,hourly,32,waun
+8263,23/09/2016 04:00,23/09/2016 05:00,swa8,Swansea St Thomas DOAS,no2,2387,36.3375,5,1,0,ugm-3,hourly,32,waun
+8264,23/09/2016 05:00,23/09/2016 06:00,swa8,Swansea St Thomas DOAS,no2,2387,45.9,5,1,0,ugm-3,hourly,32,waun
+8265,23/09/2016 06:00,23/09/2016 07:00,swa8,Swansea St Thomas DOAS,no2,2387,53.55,5,1,0,ugm-3,hourly,32,waun
+8266,23/09/2016 07:00,23/09/2016 08:00,swa8,Swansea St Thomas DOAS,no2,2387,72.675,5,1,0,ugm-3,hourly,32,waun
+8267,23/09/2016 08:00,23/09/2016 09:00,swa8,Swansea St Thomas DOAS,no2,2387,42.075,5,1,0,ugm-3,hourly,32,waun
+8268,23/09/2016 09:00,23/09/2016 10:00,swa8,Swansea St Thomas DOAS,no2,2387,26.775,5,1,0,ugm-3,hourly,32,waun
+8269,23/09/2016 10:00,23/09/2016 11:00,swa8,Swansea St Thomas DOAS,no2,2387,30.6,5,1,0,ugm-3,hourly,32,waun
+8270,23/09/2016 11:00,23/09/2016 12:00,swa8,Swansea St Thomas DOAS,no2,2387,28.6875,5,1,0,ugm-3,hourly,32,waun
+8271,23/09/2016 12:00,23/09/2016 13:00,swa8,Swansea St Thomas DOAS,no2,2387,26.775,5,1,0,ugm-3,hourly,32,waun
+8272,23/09/2016 13:00,23/09/2016 14:00,swa8,Swansea St Thomas DOAS,no2,2387,34.425,5,1,0,ugm-3,hourly,32,waun
+8273,23/09/2016 14:00,23/09/2016 15:00,swa8,Swansea St Thomas DOAS,no2,2387,32.5125,5,1,0,ugm-3,hourly,32,waun
+8274,23/09/2016 15:00,23/09/2016 16:00,swa8,Swansea St Thomas DOAS,no2,2387,36.3375,5,1,0,ugm-3,hourly,32,waun
+8275,23/09/2016 16:00,23/09/2016 17:00,swa8,Swansea St Thomas DOAS,no2,2387,36.3375,5,1,0,ugm-3,hourly,32,waun
+8276,23/09/2016 17:00,23/09/2016 18:00,swa8,Swansea St Thomas DOAS,no2,2387,19.125,5,1,0,ugm-3,hourly,32,waun
+8277,23/09/2016 18:00,23/09/2016 19:00,swa8,Swansea St Thomas DOAS,no2,2387,13.3875,5,1,0,ugm-3,hourly,32,waun
+8278,23/09/2016 19:00,23/09/2016 20:00,swa8,Swansea St Thomas DOAS,no2,2387,15.3,5,1,0,ugm-3,hourly,32,waun
+8279,23/09/2016 20:00,23/09/2016 21:00,swa8,Swansea St Thomas DOAS,no2,2387,11.475,5,1,0,ugm-3,hourly,32,waun
+8280,23/09/2016 21:00,23/09/2016 22:00,swa8,Swansea St Thomas DOAS,no2,2387,19.125,5,1,0,ugm-3,hourly,32,waun
+8281,23/09/2016 22:00,23/09/2016 23:00,swa8,Swansea St Thomas DOAS,no2,2387,7.65,5,1,0,ugm-3,hourly,32,waun
+8282,NA,NA,swa8,Swansea St Thomas DOAS,no2,2387,5.7375,5,1,0,ugm-3,hourly,32,waun
+8283,24/09/2016 00:00,24/09/2016 01:00,swa8,Swansea St Thomas DOAS,no2,2387,7.65,5,1,0,ugm-3,hourly,32,waun
+8284,24/09/2016 01:00,24/09/2016 02:00,swa8,Swansea St Thomas DOAS,no2,2387,3.825,5,1,0,ugm-3,hourly,32,waun
+8285,24/09/2016 02:00,24/09/2016 03:00,swa8,Swansea St Thomas DOAS,no2,2387,5.7375,5,1,0,ugm-3,hourly,32,waun
+8286,24/09/2016 03:00,24/09/2016 04:00,swa8,Swansea St Thomas DOAS,no2,2387,3.825,5,1,0,ugm-3,hourly,32,waun
+8287,24/09/2016 04:00,24/09/2016 05:00,swa8,Swansea St Thomas DOAS,no2,2387,3.825,5,1,0,ugm-3,hourly,32,waun
+8288,24/09/2016 05:00,24/09/2016 06:00,swa8,Swansea St Thomas DOAS,no2,2387,1.9125,5,1,0,ugm-3,hourly,32,waun
+8289,24/09/2016 06:00,24/09/2016 07:00,swa8,Swansea St Thomas DOAS,no2,2387,5.7375,5,1,0,ugm-3,hourly,32,waun
+8290,24/09/2016 07:00,24/09/2016 08:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8291,24/09/2016 08:00,24/09/2016 09:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8292,24/09/2016 09:00,24/09/2016 10:00,swa8,Swansea St Thomas DOAS,no2,2387,7.65,5,1,0,ugm-3,hourly,32,waun
+8293,24/09/2016 10:00,24/09/2016 11:00,swa8,Swansea St Thomas DOAS,no2,2387,13.3875,5,1,0,ugm-3,hourly,32,waun
+8294,24/09/2016 11:00,24/09/2016 12:00,swa8,Swansea St Thomas DOAS,no2,2387,15.3,5,1,0,ugm-3,hourly,32,waun
+8295,24/09/2016 12:00,24/09/2016 13:00,swa8,Swansea St Thomas DOAS,no2,2387,15.3,5,1,0,ugm-3,hourly,32,waun
+8296,24/09/2016 13:00,24/09/2016 14:00,swa8,Swansea St Thomas DOAS,no2,2387,17.2125,5,1,0,ugm-3,hourly,32,waun
+8297,24/09/2016 14:00,24/09/2016 15:00,swa8,Swansea St Thomas DOAS,no2,2387,13.3875,5,1,0,ugm-3,hourly,32,waun
+8298,24/09/2016 15:00,24/09/2016 16:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8299,24/09/2016 16:00,24/09/2016 17:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8300,24/09/2016 17:00,24/09/2016 18:00,swa8,Swansea St Thomas DOAS,no2,2387,7.65,5,1,0,ugm-3,hourly,32,waun
+8301,24/09/2016 18:00,24/09/2016 19:00,swa8,Swansea St Thomas DOAS,no2,2387,5.7375,5,1,0,ugm-3,hourly,32,waun
+8302,24/09/2016 19:00,24/09/2016 20:00,swa8,Swansea St Thomas DOAS,no2,2387,7.65,5,1,0,ugm-3,hourly,32,waun
+8303,24/09/2016 20:00,24/09/2016 21:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8304,24/09/2016 21:00,24/09/2016 22:00,swa8,Swansea St Thomas DOAS,no2,2387,9.5625,5,1,0,ugm-3,hourly,32,waun
+8305,24/09/2016 22:00,24/09/2016 23:00,swa8,Swansea St Thomas DOAS,no2,2387,22.95,5,1,0,ugm-3,hourly,32,waun
+8306,NA,NA,swa8,Swansea St Thomas DOAS,no2,2387,17.2125,5,1,0,ugm-3,hourly,32,waun
+8450,23/09/2016 00:00,23/09/2016 01:00,swa9,Swansea Cwm Level Park,no2,2061,21.0375,1,1,0,ugm-3,hourly,32,waun
+8451,23/09/2016 01:00,23/09/2016 02:00,swa9,Swansea Cwm Level Park,no2,2061,15.3,1,1,0,ugm-3,hourly,32,waun
+8452,23/09/2016 02:00,23/09/2016 03:00,swa9,Swansea Cwm Level Park,no2,2061,13.3875,1,1,0,ugm-3,hourly,32,waun
+8453,23/09/2016 03:00,23/09/2016 04:00,swa9,Swansea Cwm Level Park,no2,2061,13.3875,1,1,0,ugm-3,hourly,32,waun
+8454,23/09/2016 04:00,23/09/2016 05:00,swa9,Swansea Cwm Level Park,no2,2061,15.3,1,1,0,ugm-3,hourly,32,waun
+8455,23/09/2016 05:00,23/09/2016 06:00,swa9,Swansea Cwm Level Park,no2,2061,21.0375,1,1,0,ugm-3,hourly,32,waun
+8456,23/09/2016 06:00,23/09/2016 07:00,swa9,Swansea Cwm Level Park,no2,2061,28.6875,1,1,0,ugm-3,hourly,32,waun
+8457,23/09/2016 07:00,23/09/2016 08:00,swa9,Swansea Cwm Level Park,no2,2061,36.3375,1,1,0,ugm-3,hourly,32,waun
+8458,23/09/2016 08:00,23/09/2016 09:00,swa9,Swansea Cwm Level Park,no2,2061,40.1625,1,1,0,ugm-3,hourly,32,waun
+8459,23/09/2016 09:00,23/09/2016 10:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8460,23/09/2016 10:00,23/09/2016 11:00,swa9,Swansea Cwm Level Park,no2,2061,1.9125,1,1,0,ugm-3,hourly,32,waun
+8461,23/09/2016 11:00,23/09/2016 12:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8462,23/09/2016 12:00,23/09/2016 13:00,swa9,Swansea Cwm Level Park,no2,2061,5.7375,1,1,0,ugm-3,hourly,32,waun
+8463,23/09/2016 13:00,23/09/2016 14:00,swa9,Swansea Cwm Level Park,no2,2061,1.9125,1,1,0,ugm-3,hourly,32,waun
+8464,23/09/2016 14:00,23/09/2016 15:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8465,23/09/2016 15:00,23/09/2016 16:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8466,23/09/2016 16:00,23/09/2016 17:00,swa9,Swansea Cwm Level Park,no2,2061,5.7375,1,1,0,ugm-3,hourly,32,waun
+8467,23/09/2016 17:00,23/09/2016 18:00,swa9,Swansea Cwm Level Park,no2,2061,7.65,1,1,0,ugm-3,hourly,32,waun
+8468,23/09/2016 18:00,23/09/2016 19:00,swa9,Swansea Cwm Level Park,no2,2061,11.475,1,1,0,ugm-3,hourly,32,waun
+8469,23/09/2016 19:00,23/09/2016 20:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8470,23/09/2016 20:00,23/09/2016 21:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8471,23/09/2016 21:00,23/09/2016 22:00,swa9,Swansea Cwm Level Park,no2,2061,17.2125,1,1,0,ugm-3,hourly,32,waun
+8472,23/09/2016 22:00,23/09/2016 23:00,swa9,Swansea Cwm Level Park,no2,2061,28.6875,1,1,0,ugm-3,hourly,32,waun
+8473,NA,NA,swa9,Swansea Cwm Level Park,no2,2061,30.6,1,1,0,ugm-3,hourly,32,waun
+8474,24/09/2016 00:00,24/09/2016 01:00,swa9,Swansea Cwm Level Park,no2,2061,24.8625,1,1,0,ugm-3,hourly,32,waun
+8475,24/09/2016 01:00,24/09/2016 02:00,swa9,Swansea Cwm Level Park,no2,2061,7.65,1,1,0,ugm-3,hourly,32,waun
+8476,24/09/2016 02:00,24/09/2016 03:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8477,24/09/2016 03:00,24/09/2016 04:00,swa9,Swansea Cwm Level Park,no2,2061,0,1,1,0,ugm-3,hourly,32,waun
+8478,24/09/2016 04:00,24/09/2016 05:00,swa9,Swansea Cwm Level Park,no2,2061,1.9125,1,1,0,ugm-3,hourly,32,waun
+8479,24/09/2016 05:00,24/09/2016 06:00,swa9,Swansea Cwm Level Park,no2,2061,1.9125,1,1,0,ugm-3,hourly,32,waun
+8480,24/09/2016 06:00,24/09/2016 07:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8481,24/09/2016 07:00,24/09/2016 08:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8482,24/09/2016 08:00,24/09/2016 09:00,swa9,Swansea Cwm Level Park,no2,2061,5.7375,1,1,0,ugm-3,hourly,32,waun
+8483,24/09/2016 09:00,24/09/2016 10:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8484,24/09/2016 10:00,24/09/2016 11:00,swa9,Swansea Cwm Level Park,no2,2061,7.65,1,1,0,ugm-3,hourly,32,waun
+8485,24/09/2016 11:00,24/09/2016 12:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8486,24/09/2016 12:00,24/09/2016 13:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8487,24/09/2016 13:00,24/09/2016 14:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8488,24/09/2016 14:00,24/09/2016 15:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8489,24/09/2016 15:00,24/09/2016 16:00,swa9,Swansea Cwm Level Park,no2,2061,5.7375,1,1,0,ugm-3,hourly,32,waun
+8490,24/09/2016 16:00,24/09/2016 17:00,swa9,Swansea Cwm Level Park,no2,2061,7.65,1,1,0,ugm-3,hourly,32,waun
+8491,24/09/2016 17:00,24/09/2016 18:00,swa9,Swansea Cwm Level Park,no2,2061,9.5625,1,1,0,ugm-3,hourly,32,waun
+8492,24/09/2016 18:00,24/09/2016 19:00,swa9,Swansea Cwm Level Park,no2,2061,7.65,1,1,0,ugm-3,hourly,32,waun
+8493,24/09/2016 19:00,24/09/2016 20:00,swa9,Swansea Cwm Level Park,no2,2061,3.825,1,1,0,ugm-3,hourly,32,waun
+8494,24/09/2016 20:00,24/09/2016 21:00,swa9,Swansea Cwm Level Park,no2,2061,17.2125,1,1,0,ugm-3,hourly,32,waun
+8495,24/09/2016 21:00,24/09/2016 22:00,swa9,Swansea Cwm Level Park,no2,2061,5.7375,1,1,0,ugm-3,hourly,32,waun
+8496,24/09/2016 22:00,24/09/2016 23:00,swa9,Swansea Cwm Level Park,no2,2061,11.475,1,1,0,ugm-3,hourly,32,waun
+8497,NA,NA,swa9,Swansea Cwm Level Park,no2,2061,28.6875,1,1,0,ugm-3,hourly,32,waun
+8546,23/09/2016 00:00,23/09/2016 01:00,swa9,Swansea Cwm Level Park,o3,2063,7.9828,1,1,0,ugm-3,hourly,35,waun
+8547,23/09/2016 01:00,23/09/2016 02:00,swa9,Swansea Cwm Level Park,o3,2063,3.9914,1,1,0,ugm-3,hourly,35,waun
+8548,23/09/2016 02:00,23/09/2016 03:00,swa9,Swansea Cwm Level Park,o3,2063,9.9785,1,1,0,ugm-3,hourly,35,waun
+8549,23/09/2016 03:00,23/09/2016 04:00,swa9,Swansea Cwm Level Park,o3,2063,9.9785,1,1,0,ugm-3,hourly,35,waun
+8550,23/09/2016 04:00,23/09/2016 05:00,swa9,Swansea Cwm Level Park,o3,2063,1.9957,1,1,0,ugm-3,hourly,35,waun
+8551,23/09/2016 05:00,23/09/2016 06:00,swa9,Swansea Cwm Level Park,o3,2063,3.9914,1,1,0,ugm-3,hourly,35,waun
+8552,23/09/2016 06:00,23/09/2016 07:00,swa9,Swansea Cwm Level Park,o3,2063,1.9957,1,1,0,ugm-3,hourly,35,waun
+8553,23/09/2016 07:00,23/09/2016 08:00,swa9,Swansea Cwm Level Park,o3,2063,1.9957,1,1,0,ugm-3,hourly,35,waun
+8554,23/09/2016 08:00,23/09/2016 09:00,swa9,Swansea Cwm Level Park,o3,2063,17.9613,1,1,0,ugm-3,hourly,35,waun
+8555,23/09/2016 09:00,23/09/2016 10:00,swa9,Swansea Cwm Level Park,o3,2063,59.871,1,1,0,ugm-3,hourly,35,waun
+8556,23/09/2016 10:00,23/09/2016 11:00,swa9,Swansea Cwm Level Park,o3,2063,65.8581,1,1,0,ugm-3,hourly,35,waun
+8557,23/09/2016 11:00,23/09/2016 12:00,swa9,Swansea Cwm Level Park,o3,2063,65.8581,1,1,0,ugm-3,hourly,35,waun
+8558,23/09/2016 12:00,23/09/2016 13:00,swa9,Swansea Cwm Level Park,o3,2063,65.8581,1,1,0,ugm-3,hourly,35,waun
+8559,23/09/2016 13:00,23/09/2016 14:00,swa9,Swansea Cwm Level Park,o3,2063,69.8495,1,1,0,ugm-3,hourly,35,waun
+8560,23/09/2016 14:00,23/09/2016 15:00,swa9,Swansea Cwm Level Park,o3,2063,71.8452,1,1,0,ugm-3,hourly,35,waun
+8561,23/09/2016 15:00,23/09/2016 16:00,swa9,Swansea Cwm Level Park,o3,2063,71.8452,1,1,0,ugm-3,hourly,35,waun
+8562,23/09/2016 16:00,23/09/2016 17:00,swa9,Swansea Cwm Level Park,o3,2063,71.8452,1,1,0,ugm-3,hourly,35,waun
+8563,23/09/2016 17:00,23/09/2016 18:00,swa9,Swansea Cwm Level Park,o3,2063,69.8495,1,1,0,ugm-3,hourly,35,waun
+8564,23/09/2016 18:00,23/09/2016 19:00,swa9,Swansea Cwm Level Park,o3,2063,65.8581,1,1,0,ugm-3,hourly,35,waun
+8565,23/09/2016 19:00,23/09/2016 20:00,swa9,Swansea Cwm Level Park,o3,2063,69.8495,1,1,0,ugm-3,hourly,35,waun
+8566,23/09/2016 20:00,23/09/2016 21:00,swa9,Swansea Cwm Level Park,o3,2063,65.8581,1,1,0,ugm-3,hourly,35,waun
+8567,23/09/2016 21:00,23/09/2016 22:00,swa9,Swansea Cwm Level Park,o3,2063,55.8796,1,1,0,ugm-3,hourly,35,waun
+8568,23/09/2016 22:00,23/09/2016 23:00,swa9,Swansea Cwm Level Park,o3,2063,45.9011,1,1,0,ugm-3,hourly,35,waun
+8569,NA,NA,swa9,Swansea Cwm Level Park,o3,2063,39.914,1,1,0,ugm-3,hourly,35,waun
+8570,24/09/2016 00:00,24/09/2016 01:00,swa9,Swansea Cwm Level Park,o3,2063,41.9097,1,1,0,ugm-3,hourly,35,waun
+8571,24/09/2016 01:00,24/09/2016 02:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8572,24/09/2016 02:00,24/09/2016 03:00,swa9,Swansea Cwm Level Park,o3,2063,57.8753,1,1,0,ugm-3,hourly,35,waun
+8573,24/09/2016 03:00,24/09/2016 04:00,swa9,Swansea Cwm Level Park,o3,2063,59.871,1,1,0,ugm-3,hourly,35,waun
+8574,24/09/2016 04:00,24/09/2016 05:00,swa9,Swansea Cwm Level Park,o3,2063,57.8753,1,1,0,ugm-3,hourly,35,waun
+8575,24/09/2016 05:00,24/09/2016 06:00,swa9,Swansea Cwm Level Park,o3,2063,55.8796,1,1,0,ugm-3,hourly,35,waun
+8576,24/09/2016 06:00,24/09/2016 07:00,swa9,Swansea Cwm Level Park,o3,2063,51.8882,1,1,0,ugm-3,hourly,35,waun
+8577,24/09/2016 07:00,24/09/2016 08:00,swa9,Swansea Cwm Level Park,o3,2063,45.9011,1,1,0,ugm-3,hourly,35,waun
+8578,24/09/2016 08:00,24/09/2016 09:00,swa9,Swansea Cwm Level Park,o3,2063,51.8882,1,1,0,ugm-3,hourly,35,waun
+8579,24/09/2016 09:00,24/09/2016 10:00,swa9,Swansea Cwm Level Park,o3,2063,55.8796,1,1,0,ugm-3,hourly,35,waun
+8580,24/09/2016 10:00,24/09/2016 11:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8581,24/09/2016 11:00,24/09/2016 12:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8582,24/09/2016 12:00,24/09/2016 13:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8583,24/09/2016 13:00,24/09/2016 14:00,swa9,Swansea Cwm Level Park,o3,2063,59.871,1,1,0,ugm-3,hourly,35,waun
+8584,24/09/2016 14:00,24/09/2016 15:00,swa9,Swansea Cwm Level Park,o3,2063,61.8667,1,1,0,ugm-3,hourly,35,waun
+8585,24/09/2016 15:00,24/09/2016 16:00,swa9,Swansea Cwm Level Park,o3,2063,61.8667,1,1,0,ugm-3,hourly,35,waun
+8586,24/09/2016 16:00,24/09/2016 17:00,swa9,Swansea Cwm Level Park,o3,2063,61.8667,1,1,0,ugm-3,hourly,35,waun
+8587,24/09/2016 17:00,24/09/2016 18:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8588,24/09/2016 18:00,24/09/2016 19:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8589,24/09/2016 19:00,24/09/2016 20:00,swa9,Swansea Cwm Level Park,o3,2063,55.8796,1,1,0,ugm-3,hourly,35,waun
+8590,24/09/2016 20:00,24/09/2016 21:00,swa9,Swansea Cwm Level Park,o3,2063,41.9097,1,1,0,ugm-3,hourly,35,waun
+8591,24/09/2016 21:00,24/09/2016 22:00,swa9,Swansea Cwm Level Park,o3,2063,53.8839,1,1,0,ugm-3,hourly,35,waun
+8592,24/09/2016 22:00,24/09/2016 23:00,swa9,Swansea Cwm Level Park,o3,2063,63.8624,1,1,0,ugm-3,hourly,35,waun
+8593,NA,NA,swa9,Swansea Cwm Level Park,o3,2063,37.9183,1,1,0,ugm-3,hourly,35,waun
+8594,23/09/2016 00:00,23/09/2016 01:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8595,23/09/2016 01:00,23/09/2016 02:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8596,23/09/2016 02:00,23/09/2016 03:00,wrex,Wrexham,no2,1233,4.59,1,1,0,ugm-3,hourly,32,waun
+8597,23/09/2016 03:00,23/09/2016 04:00,wrex,Wrexham,no2,1233,7.65,1,1,0,ugm-3,hourly,32,waun
+8598,23/09/2016 04:00,23/09/2016 05:00,wrex,Wrexham,no2,1233,15.3,1,1,0,ugm-3,hourly,32,waun
+8599,23/09/2016 05:00,23/09/2016 06:00,wrex,Wrexham,no2,1233,27.54,1,1,0,ugm-3,hourly,32,waun
+8600,23/09/2016 06:00,23/09/2016 07:00,wrex,Wrexham,no2,1233,34.425,1,1,0,ugm-3,hourly,32,waun
+8601,23/09/2016 07:00,23/09/2016 08:00,wrex,Wrexham,no2,1233,43.9875,1,1,0,ugm-3,hourly,32,waun
+8602,23/09/2016 08:00,23/09/2016 09:00,wrex,Wrexham,no2,1233,26.775,1,1,0,ugm-3,hourly,32,waun
+8603,23/09/2016 09:00,23/09/2016 10:00,wrex,Wrexham,no2,1233,17.2125,1,1,0,ugm-3,hourly,32,waun
+8604,23/09/2016 10:00,23/09/2016 11:00,wrex,Wrexham,no2,1233,21.0375,1,1,0,ugm-3,hourly,32,waun
+8605,23/09/2016 11:00,23/09/2016 12:00,wrex,Wrexham,no2,1233,17.2125,1,1,0,ugm-3,hourly,32,waun
+8606,23/09/2016 12:00,23/09/2016 13:00,wrex,Wrexham,no2,1233,13.3875,1,1,0,ugm-3,hourly,32,waun
+8607,23/09/2016 13:00,23/09/2016 14:00,wrex,Wrexham,no2,1233,22.95,1,1,0,ugm-3,hourly,32,waun
+8608,23/09/2016 14:00,23/09/2016 15:00,wrex,Wrexham,no2,1233,26.775,1,1,0,ugm-3,hourly,32,waun
+8609,23/09/2016 15:00,23/09/2016 16:00,wrex,Wrexham,no2,1233,19.125,1,1,0,ugm-3,hourly,32,waun
+8610,23/09/2016 16:00,23/09/2016 17:00,wrex,Wrexham,no2,1233,22.95,1,1,0,ugm-3,hourly,32,waun
+8611,23/09/2016 17:00,23/09/2016 18:00,wrex,Wrexham,no2,1233,22.95,1,1,0,ugm-3,hourly,32,waun
+8612,23/09/2016 18:00,23/09/2016 19:00,wrex,Wrexham,no2,1233,22.95,1,1,0,ugm-3,hourly,32,waun
+8613,23/09/2016 19:00,23/09/2016 20:00,wrex,Wrexham,no2,1233,11.475,1,1,0,ugm-3,hourly,32,waun
+8614,23/09/2016 20:00,23/09/2016 21:00,wrex,Wrexham,no2,1233,13.96125,1,1,0,ugm-3,hourly,32,waun
+8615,23/09/2016 21:00,23/09/2016 22:00,wrex,Wrexham,no2,1233,8.60625,1,1,0,ugm-3,hourly,32,waun
+8616,23/09/2016 22:00,23/09/2016 23:00,wrex,Wrexham,no2,1233,9.5625,1,1,0,ugm-3,hourly,32,waun
+8617,NA,NA,wrex,Wrexham,no2,1233,3.825,1,1,0,ugm-3,hourly,32,waun
+8618,24/09/2016 00:00,24/09/2016 01:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8619,24/09/2016 01:00,24/09/2016 02:00,wrex,Wrexham,no2,1233,1.9125,1,1,0,ugm-3,hourly,32,waun
+8620,24/09/2016 02:00,24/09/2016 03:00,wrex,Wrexham,no2,1233,3.825,1,1,0,ugm-3,hourly,32,waun
+8621,24/09/2016 03:00,24/09/2016 04:00,wrex,Wrexham,no2,1233,5.54625,1,1,0,ugm-3,hourly,32,waun
+8622,24/09/2016 04:00,24/09/2016 05:00,wrex,Wrexham,no2,1233,3.825,1,1,0,ugm-3,hourly,32,waun
+8623,24/09/2016 05:00,24/09/2016 06:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8624,24/09/2016 06:00,24/09/2016 07:00,wrex,Wrexham,no2,1233,17.2125,1,1,0,ugm-3,hourly,32,waun
+8625,24/09/2016 07:00,24/09/2016 08:00,wrex,Wrexham,no2,1233,22.95,1,1,0,ugm-3,hourly,32,waun
+8626,24/09/2016 08:00,24/09/2016 09:00,wrex,Wrexham,no2,1233,19.125,1,1,0,ugm-3,hourly,32,waun
+8627,24/09/2016 09:00,24/09/2016 10:00,wrex,Wrexham,no2,1233,13.3875,1,1,0,ugm-3,hourly,32,waun
+8628,24/09/2016 10:00,24/09/2016 11:00,wrex,Wrexham,no2,1233,17.2125,1,1,0,ugm-3,hourly,32,waun
+8629,24/09/2016 11:00,24/09/2016 12:00,wrex,Wrexham,no2,1233,13.3875,1,1,0,ugm-3,hourly,32,waun
+8630,24/09/2016 12:00,24/09/2016 13:00,wrex,Wrexham,no2,1233,13.3875,1,1,0,ugm-3,hourly,32,waun
+8631,24/09/2016 13:00,24/09/2016 14:00,wrex,Wrexham,no2,1233,11.475,1,1,0,ugm-3,hourly,32,waun
+8632,24/09/2016 14:00,24/09/2016 15:00,wrex,Wrexham,no2,1233,11.475,1,1,0,ugm-3,hourly,32,waun
+8633,24/09/2016 15:00,24/09/2016 16:00,wrex,Wrexham,no2,1233,11.66625,1,1,0,ugm-3,hourly,32,waun
+8634,24/09/2016 16:00,24/09/2016 17:00,wrex,Wrexham,no2,1233,11.475,1,1,0,ugm-3,hourly,32,waun
+8635,24/09/2016 17:00,24/09/2016 18:00,wrex,Wrexham,no2,1233,11.475,1,1,0,ugm-3,hourly,32,waun
+8636,24/09/2016 18:00,24/09/2016 19:00,wrex,Wrexham,no2,1233,9.5625,1,1,0,ugm-3,hourly,32,waun
+8637,24/09/2016 19:00,24/09/2016 20:00,wrex,Wrexham,no2,1233,7.65,1,1,0,ugm-3,hourly,32,waun
+8638,24/09/2016 20:00,24/09/2016 21:00,wrex,Wrexham,no2,1233,7.65,1,1,0,ugm-3,hourly,32,waun
+8639,24/09/2016 21:00,24/09/2016 22:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8640,24/09/2016 22:00,24/09/2016 23:00,wrex,Wrexham,no2,1233,5.7375,1,1,0,ugm-3,hourly,32,waun
+8641,NA,NA,wrex,Wrexham,no2,1233,3.825,1,1,0,ugm-3,hourly,32,waun

@@ -28,18 +28,18 @@ options(warn=-1)
 
 # Sys.setenv(https_proxy="https://harproxy02:3128")
 
+
 shinyServer(function(input, output, session) {
-  
-  
-output$contents <- DT::renderDataTable(DT::datatable({ 
+
+output$contents <- DT::renderDataTable(DT::datatable({      ##### opening at ***
  
   
 ##### run code below only if you use trials inputs files from Ricardo data base ############
 #####---------------------------------------------------------------------------------------
 ############################################################################################ 
-   
+ 
   inFile <- input$files   #.csv files to be loaded (you can upload multiple files)
-
+     
   withProgress(message = "processing.....",  detail = 'this may take a while...', value = 0.25, { background= "blue"
   # Number of times we'll go through the loop
   n <- 100
@@ -131,46 +131,36 @@ output$contents <- DT::renderDataTable(DT::datatable({
     # remove empty rows
     stats <- stats[!is.na(stats$value),]
     
-     write.csv(stats, "all_stats.csv")     
+   #  write.csv(stats, "all_stats.csv")     
     
 
     # Increment the progress bar, and update the detail text.
     incProgress(1/n, detail = paste("gathering data....."))
     # Pause for 0.5 seconds to simulate a long computation.
     Sys.sleep(0.5)
-    
-    
-  })
+   
+})
   
-}))
-    
-table <- read.csv("all_stats.csv")
-    
-
+  
+# table <- read.csv("all_stats.csv")
+ table <- stats 
+ 
 ## tables with sectors & subsectors  data---------------------------------------------
 
-# output$stats <- DT::renderDataTable(DT::datatable({
- # if(input$goButton == 0)  # when the button is not clicked
-  #  return(NULL)
- # table <- read.csv("all_stats.csv")
 
-
-
-observe({
+ observe({
   if(input$goButton == 0)  # when the button is not clicked
     return(NULL)
   updateSelectInput(session, "site", "Site:",
                     choices = c("All", as.character(table$site_name)))
-#  table2 <- table[table$site_name == as.character(input$site),]
   
-})   
+ })   
 
 
-output$stats <- DT::renderDataTable(DT::datatable({
+output$statss <- DT::renderDataTable(DT::datatable({
   if(input$goButton == 0)  # when the button is not clicked
   return(NULL)
-  #  table <- read.csv("all_stats.csv")
-   table <- table[table$site_name == as.character(input$site),]
+     table <- table[table$site_name == as.character(input$site),]
 
 }))
 
@@ -178,16 +168,9 @@ output$stats <- DT::renderDataTable(DT::datatable({
 output$stats_all <- DT::renderDataTable(DT::datatable({
   if(input$goButton == 0)  # when the button is not clicked
     return(NULL)
-  table <- read.csv("all_stats.csv")
+ table
 }))
 
-
-   
-
- 
- 
- 
- 
 
 
 ## Map------------------------------------------------------------------------------------------   
@@ -196,8 +179,7 @@ finalMap <- reactive({
 
    if(input$goButton == 0)
      return(NULL)
-
-   stats <- table[table$site_name == as.character(input$site),]   
+  stats <- table[table$site_name == as.character(input$site),]   
    
   
   popup_NO2 <- paste0("<strong><i>",
@@ -238,7 +220,8 @@ finalMap_all <- reactive({
   
   if(input$goButton == 0)
     return(NULL)
-  stats_all <- read.csv("all_stats.csv") 
+  table <- stats 
+  stats_all <- table 
  
   popup_NO2_all <- paste0("<strong><i>",
                       stats_all$site_name,
@@ -272,6 +255,7 @@ finalMap_all <- reactive({
   
 })
   
+
 
  ## create interactive plots with dygraph
  
@@ -362,6 +346,7 @@ output$myMap = renderLeaflet(finalMap())
 # Return to client
 output$myMap_all = renderLeaflet(finalMap_all())
 
+}))     ### this has been closed from the opening at ***
 
 observeEvent(input$refresh, {
   js$refresh();
