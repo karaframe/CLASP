@@ -249,7 +249,7 @@ output$contents <- DT::renderDataTable(DT::datatable({      ##### opening at ***
   ##########################################################################
   
   stats <- stats %>%
-            select(date,
+            dplyr::select(date,
              date_end,
              site,
              site_name,
